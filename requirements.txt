@@ -1,8 +1,7 @@
 streamlit==1.18.1
 PyMuPDF>=1.21.0
-
 pandas==2.0.0
 matplotlib==3.7.0
-venny4py==0.2.0
+venny4py>=1.0.0
 fuzzywuzzy==0.18.0
 python-Levenshtein==0.12.2
