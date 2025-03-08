@@ -1,10 +1,9 @@
-import streamlit as st
-import fitz  
-from io import BytesIO
-import pandas as pd
-from itertools import combinations
-import matplotlib.pyplot as plt
-from venny4py.venny4py import venny4py  # Import venny4py for 4-set Venn diagrams
-import matplotlib_venn as venn  # Correct import for venn library
-from fuzzywuzzy import fuzz  # Import fuzzywuzzy for fuzzy string matching
-import time  # Import time module to track execution time
+streamlit==1.18.1
+PyMuPDF>=1.21.0
+pandas==2.0.0
+matplotlib==3.7.0
+matplotlib-venn==0.11.6
+venny4py>=1.0.0
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.12.2
+numpy==1.25.3
