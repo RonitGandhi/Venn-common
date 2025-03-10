@@ -215,24 +215,26 @@ if run_simulation_button:
             
             # Generate the UpSet plot from the comparisons data dynamically
             upset_data = {}
+            index_tuples = []
 
-            # Dynamically create the upset_data dictionary based on the combinations and their counts
-            for index, row in df_comparisons.iterrows():
-                combination = row["Combinations"]
+            # Dynamically create the upset_data based on combinations and their counts
+            for _, row in df_comparisons.iterrows():
+                combination = row["Combinations"]  # e.g., "Grp 1: ResearcherA vs Grp 2: ResearcherB"
                 common_publications_count = row["No. of common publications"]
-                upset_data[tuple([combination])] = common_publications_count
+                
+                # Parse the combination to determine group membership
+                group1_present = "Grp 1" in combination
+                group2_present = "Grp 2" in combination
+                
+                # Create a tuple for the MultiIndex representing set membership
+                index_tuples.append((group1_present, group2_present))
+                upset_data[(group1_present, group2_present)] = common_publications_count
 
-            # List of combinations (replace these with real combination names if you have specific labels)
-            combinations = [f"Combination {i}" for i in range(1, len(upset_data) + 1)]
-            
-            # Create the MultiIndex where each "Combination N" is represented as a set
-            index = pd.MultiIndex.from_tuples(
-                [tuple([True if f"Combination {i}" == comb else False for i in range(1, len(upset_data) + 1)]) for comb in combinations],
-                names=[f"Combination {i}" for i in range(1, len(upset_data) + 1)]
-            )
+            # Create the MultiIndex
+            index = pd.MultiIndex.from_tuples(index_tuples, names=["Group1", "Group2"])
 
             # Create a Series with counts, using the MultiIndex
-            data_counts = pd.Series(upset_data.values(), index=index)
+            data_counts = pd.Series(list(upset_data.values()), index=index)
 
             # Plot the upset plot
             upset = UpSet(data_counts, subset_size="auto", show_counts="%d", sort_by="cardinality", facecolor="blue")
