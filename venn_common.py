@@ -10,13 +10,13 @@ from fuzzywuzzy import fuzz  # Import fuzzywuzzy for fuzzy string matching
 import time  # Import time module to track execution time
 import datetime
 import re  # For extracting years
-from upsetplot import UpSet
+from upsetplot import UpSet, from_memberships
 
 # Disable the deprecation warning globally
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 # Set the threshold at the top of the code (you can change this value easily here)
-THRESHOLD = 90  # Set your default threshold here
+THRESHOLD = 100  # Set your default threshold here
 
 # Function to normalize publication titles
 def clean_title(title):
@@ -214,37 +214,30 @@ if run_simulation_button:
             
             
             # Generate the UpSet plot from the comparisons data dynamically
+            st.subheader("UpSet Plot of Common Publications")
+            researcher_names = list(researcher_data.keys())
             upset_data = {}
-            index_tuples = []
 
-            # Dynamically create the upset_data based on combinations and their counts
             for _, row in df_comparisons.iterrows():
-                combination = row["Combinations"]  # e.g., "Grp 1: ResearcherA vs Grp 2: ResearcherB"
+                combination = row["Combinations"]
                 common_publications_count = row["No. of common publications"]
-                
-                # Parse the combination to determine group membership
-                group1_present = "Grp 1" in combination
-                group2_present = "Grp 2" in combination
-                
-                # Create a tuple for the MultiIndex representing set membership
-                index_tuples.append((group1_present, group2_present))
-                upset_data[(group1_present, group2_present)] = common_publications_count
+                researchers_in_comb = combination.split(" ↔ ")
+                membership = tuple(researcher in researchers_in_comb for researcher in researcher_names)
+                if membership in upset_data:
+                    upset_data[membership] += common_publications_count
+                else:
+                    upset_data[membership] = common_publications_count
 
-            # Create the MultiIndex
-            index = pd.MultiIndex.from_tuples(index_tuples, names=["Group1", "Group2"])
-
-            # Create a Series with counts, using the MultiIndex
+            index = pd.MultiIndex.from_tuples(upset_data.keys(), names=researcher_names)
             data_counts = pd.Series(list(upset_data.values()), index=index)
 
-            # Plot the upset plot
             upset = UpSet(data_counts, subset_size="auto", show_counts="%d", sort_by="cardinality", facecolor="blue")
-
-            # Generate the plot
             fig = plt.figure(figsize=(12, 8))
             upset.plot(fig=fig)
-
-            # Display the plot using Streamlit
             st.pyplot(fig)
+                            
+           
+                        
             
             
 
