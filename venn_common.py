@@ -16,7 +16,7 @@ from upsetplot import UpSet, from_memberships
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 # Set the threshold at the top of the code (you can change this value easily here)
-THRESHOLD = 100  # Set your default threshold here
+THRESHOLD = 95  # Set your default threshold here
 
 # Function to normalize publication titles
 def clean_title(title):
