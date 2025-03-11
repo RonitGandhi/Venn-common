@@ -119,8 +119,7 @@ st.markdown("""
 2. The algorithm will check for combinations of common publications across 2 to N researchers, where N ~=8 before memory limitations hit. N=8 has 247 combinations.
 3. Once the analysis is complete, download the comparison results as a CSV file.
 4. You can also view the table, Upset plot and Venn diagram showing the overlap of publications between researchers. 
-5. Tables and Upset plots are accurate. Venn diagrams for 4 researchers may be a tad inaccurate, but they look nice. 
-6. Venn diagrams are absent for 5 or more researchers. 
+5. Venn diagrams are absent for 5 or more researchers. 
 """)
 
 # Get the current year dynamically
