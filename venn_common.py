@@ -242,52 +242,110 @@ if run_simulation_button:
             
 
             # Only plot the Venn diagram if there are 2, 3, or 4 researchers
+
             if len(researcher_data) > 1:
                 # Skip the Venn diagram if more than 4 researchers are selected
                 if len(researcher_data) > 4:
                     st.warning("Venn diagrams are only available for up to 4 researchers. Skipping Venn diagram.")
                 else:
-                    # Prepare the set names and publication sets
+                    # Prepare the set names and total publications per researcher
                     researcher_names = list(all_sets.keys())
-                    publication_sets = list(all_sets.values())
+                    total_publications = {name: len(all_sets[name]) for name in researcher_names}
 
-                    if len(publication_sets) == 2:
-                        common_titles = find_similar_titles(publication_sets[0], publication_sets[1], threshold=THRESHOLD)  # Pass threshold here
-                        venn_data = [len(publication_sets[0] - common_titles), len(publication_sets[1] - common_titles), len(common_titles)]
+                    # Initialize dictionaries to store intersection counts
+                    intersection_counts = {}
+                    for r in range(1, len(researcher_names) + 1):
+                        for comb in combinations(researcher_names, r):
+                            intersection_counts[comb] = 0
+
+                    # Populate intersection counts from df_comparisons
+                    for _, row in df_comparisons.iterrows():
+                        researchers_in_comb = tuple(row["Combinations"].split(" ↔ "))
+                        count = row["No. of common publications"]
+                        intersection_counts[researchers_in_comb] = count
+
+                    # Compute singleton counts (e.g., publications unique to each researcher)
+                    singleton_counts = {}
+                    for name in researcher_names:
+                        total = total_publications[name]
+                        # Subtract all intersections involving this researcher
+                        for comb, count in intersection_counts.items():
+                            if name in comb:
+                                total -= count
+                        singleton_counts[name] = max(total, 0)  # Ensure non-negative
+
+                    if len(researcher_names) == 2:
+                        name1, name2 = researcher_names
+                        venn_data = [
+                            singleton_counts[name1],  # Only name1
+                            singleton_counts[name2],  # Only name2
+                            intersection_counts[(name1, name2)]  # name1 & name2
+                        ]
                         fig, ax = plt.subplots(figsize=(6, 6))
                         v = venn.venn2(
                             subsets=venn_data,
                             set_labels=researcher_names
                         )
-                        st.pyplot(fig)  # Explicitly passing the figure object
+                        st.pyplot(fig)
 
-                    elif len(publication_sets) == 3:
-                        common_titles_1_2 = find_similar_titles(publication_sets[0], publication_sets[1], threshold=THRESHOLD)  # Pass threshold here
-                        common_titles_2_3 = find_similar_titles(publication_sets[1], publication_sets[2], threshold=THRESHOLD)  # Pass threshold here
-                        common_titles_1_3 = find_similar_titles(publication_sets[0], publication_sets[2], threshold=THRESHOLD)  # Pass threshold here
-                        common_titles_all = find_similar_titles(common_titles_1_2, common_titles_2_3, threshold=THRESHOLD)  # Pass threshold here
-                        common_titles_all = find_similar_titles(common_titles_all, common_titles_1_3, threshold=THRESHOLD)  # Pass threshold here
+                    elif len(researcher_names) == 3:
+                        name1, name2, name3 = researcher_names
                         venn_data = [
-                            len(publication_sets[0] - common_titles_1_2 - common_titles_1_3),
-                            len(publication_sets[1] - common_titles_1_2 - common_titles_2_3),
-                            len(common_titles_1_2),
-                            len(publication_sets[2] - common_titles_2_3 - common_titles_1_3),
-                            len(common_titles_1_3),
-                            len(common_titles_2_3),
-                            len(common_titles_all)
+                            singleton_counts[name1],  # Only name1
+                            singleton_counts[name2],  # Only name2
+                            intersection_counts[(name1, name2)],  # name1 & name2
+                            singleton_counts[name3],  # Only name3
+                            intersection_counts[(name1, name3)],  # name1 & name3
+                            intersection_counts[(name2, name3)],  # name2 & name3
+                            intersection_counts[(name1, name2, name3)]  # name1 & name2 & name3
                         ]
-                        fig, ax = plt.subplots(figsize=(6, 6))  # Ensure we pass the figure object
+                        fig, ax = plt.subplots(figsize=(6, 6))
                         v = venn.venn3(
                             subsets=venn_data,
                             set_labels=researcher_names
                         )
-                        st.pyplot(fig)  # Explicitly passing the figure object
-
-                    elif len(publication_sets) == 4:
-                        # Handle 4 sets using venny4py
-                        sets = {researcher_names[i]: publication_sets[i] for i in range(4)}  # Map researcher names to sets
-                        fig = venny4py(sets=sets)  # Generate the 4-set Venn diagram with venny4py
                         st.pyplot(fig)
+
+                    elif len(researcher_names) == 4:
+                        # For venny4py, we need to compute all possible intersections
+                        name1, name2, name3, name4 = researcher_names
+                        # Create a dictionary of sets representing each intersection
+                        venn_sets = {
+                            name: set() for name in researcher_names
+                        }
+                        # Populate the sets with dummy elements based on counts
+                        # Singletons
+                        for name in researcher_names:
+                            count = singleton_counts[name]
+                            venn_sets[name].update([f"{name}_unique_{i}" for i in range(count)])
+                        
+                        # Pairwise intersections
+                        for (n1, n2) in combinations(researcher_names, 2):
+                            count = intersection_counts[(n1, n2)]
+                            titles = [f"{n1}_{n2}_{i}" for i in range(count)]
+                            venn_sets[n1].update(titles)
+                            venn_sets[n2].update(titles)
+                        
+                        # Triple intersections
+                        for (n1, n2, n3) in combinations(researcher_names, 3):
+                            count = intersection_counts.get((n1, n2, n3), 0)
+                            titles = [f"{n1}_{n2}_{n3}_{i}" for i in range(count)]
+                            venn_sets[n1].update(titles)
+                            venn_sets[n2].update(titles)
+                            venn_sets[n3].update(titles)
+                        
+                        # Quadruple intersection
+                        count = intersection_counts.get((name1, name2, name3, name4), 0)
+                        titles = [f"{name1}_{name2}_{name3}_{name4}_{i}" for i in range(count)]
+                        for name in researcher_names:
+                            venn_sets[name].update(titles)
+
+                        # Generate the 4-set Venn diagram with venny4py
+                        fig = venny4py(sets=venn_sets)
+                        st.pyplot(fig)
+
+# ... (rest of your code: execution time) ...
+# ... (rest of your code: execution time) ...
         # elif len(publication_sets) == 4:
         #     # Create modified sets accounting for fuzzy matching
         #     fuzzy_sets = {}
