@@ -1,0 +1,682 @@
+Dr. Ravendra Singh - Google Scholar https://scholar.google.com/citations?user=3LpUxd0AAAAJ&hl=en
+Dr. Ravendra Singh
+All Since 2020
+Citations 3161 1627
+Faculty,
+h-index 30 24
+Rutgers University
+i10-index 58 43
+Pharmaceutical System Engineering: Pro…
+Simulation 16 articles 9 articles
+Continuous pharmaceutical manufacturing
+not available available
+Based on funding mandates
+TITLE CITED BY YEAR
+Assessment of recent process analytical technology (PAT) trends: a 464 2015
+multiauthor review
+LL Simon, H Pataki, G Marosi, F Meemken, K Hungerbühler, A Baiker, ...
+Organic Process Research & Development 19 (1), 3-62
+Pharmaceutical Cocrystal Drug Products: An Outlook on Product 180 2018
+Development
+R Shaikh, R Singh, GM Walker, DM Croker
+Trends in pharmacological sciences
+An engineering study on the enhanced control and operation of continuous 151 2012
+manufacturing of pharmaceutical tablets via roller compaction
+R Singh, M Ierapetritou, R Ramachandran
+International journal of pharmaceutics 438 (1), 307-326
+System-wide hybrid MPC–PID control of a continuous pharmaceutical 144 2013
+tablet manufacturing process via direct compaction
+R Singh, M Ierapetritou, R Ramachandran
+European Journal of Pharmaceutics and Biopharmaceutics 85 (3), 1164-1182
+Implementation of an advanced hybrid MPC–PID control system using PAT 121 2014
+tools into a direct compaction continuous pharmaceutical tablet
+manufacturing pilot plant
+R Singh, A Sahay, KM Karry, F Muzzio, M Ierapetritou, R Ramachandran
+International journal of pharmaceutics 473 (1), 38-54
+A systematic framework for onsite design and implementation of a control 117 2014
+system in a continuous tablet manufacturing process
+R Singh, A Sahay, F Muzzio, M Ierapetritou, R Ramachandran
+Computers & Chemical Engineering 66, 186-200
+Model-based computer-aided framework for design of process monitoring 95 2009
+and analysis systems
+R Singh, KV Gernaey, R Gani
+Computers & Chemical Engineering 33 (1), 22-42
+1 of 16 3/4/25, 6:07 PM
+Dr. Ravendra Singh - Google Scholar https://scholar.google.com/citations?user=3LpUxd0AAAAJ&hl=en
+TITLE CITED BY YEAR
+A multi-scale hybrid CFD-DEM-PBM description of a fluid-bed granulation 90 2014
+process
+M Sen, D Barrasso, R Singh, R Ramachandran
+Processes 2 (1), 89-111
+Real time monitoring of powder blend bulk density for coupled feed- 85 2015
+forward/feed-back control of a continuous direct compaction tablet
+manufacturing process
+R Singh, AD Román-Ospino, RJ Romañach, M Ierapetritou, ...
+International journal of pharmaceutics 495 (1), 612-625
+Multi-dimensional population balance modeling and experimental validation 77 2012
+of continuous powder mixing processes
+M Sen, R Singh, A Vanarase, J John, R Ramachandran
+Chemical Engineering Science 80, 349-360
+Near infrared spectroscopic calibration models for real time monitoring of 71 2016
+powder density
+AD Román-Ospino, R Singh, M Ierapetritou, R Ramachandran, R Méndez, ...
+International Journal of Pharmaceutics 512 (1), 61-74
+Closed-loop feedback control of a continuous pharmaceutical tablet 70 2014
+manufacturing process via wet granulation
+R Singh, D Barrasso, A Chaudhury, M Sen, M Ierapetritou, ...
+Journal of Pharmaceutical Innovation 9 (1), 16-37
+Flowsheet optimization of an integrated continuous purification-processing 70 2013
+pharmaceutical manufacturing operation
+M Sen, A Rogers, R Singh, A Chaudhury, J John, MG Ierapetritou, ...
+Chemical Engineering Science 102, 56-66
+Multi-scale flowsheet simulation of an integrated continuous purification– 70 2013
+downstream pharmaceutical manufacturing process
+M Sen, A Chaudhury, R Singh, J John, R Ramachandran
+International journal of pharmaceutics 445 (1), 29-38
+An ontological knowledge-based system for the selection of process 70 2010
+monitoring and analysis tools
+R Singh, KV Gernaey, R Gani
+Computers & chemical engineering 34 (7), 1137-1154
+A Combined Feed-Forward/Feed-Back Control System for a QbD-Based 65 2015
+Continuous Tablet Manufacturing Process
+R Singh, FJ Muzzio, M Ierapetritou, R Ramachandran
+Processes 3 (2), 339-356
+2 of 16 3/4/25, 6:07 PM
+Dr. Ravendra Singh - Google Scholar https://scholar.google.com/citations?user=3LpUxd0AAAAJ&hl=en
+TITLE CITED BY YEAR
+Dynamic flowsheet model development and sensitivity analysis of a 64 2019
+continuous pharmaceutical tablet manufacturing process using the wet
+granulation route
+N Metta, M Ghijs, E Schäfer, A Kumar, P Cappuyns, I Van Assche, ...
+Processes 7 (4), 234
+Development and implementation of an advanced model predictive control 62 2017
+system into continuous pharmaceutical tablet compaction process
+A Bhaskar, FN Barros, R Singh
+International Journal of Pharmaceutics
+Recent advances in integrated process analytical techniques, modeling, 61 2021
+and control strategies to enable continuous biomanufacturing of
+monoclonal antibodies
+V Chopda, A Gyorgypal, O Yang, R Singh, R Ramachandran, H Zhang, ...
+Journal of Chemical Technology & Biotechnology
+ICAS-PAT: A software for design, analysis and validation of PAT systems 61 2010
+R Singh, KV Gernaey, R Gani
+Computers & chemical engineering 34 (7), 1108-1136
+Mathematical development and comparison of a hybrid PBM-DEM 58 2012
+description of a continuous powder mixing process
+M Sen, A Dubey, R Singh, R Ramachandran
+Journal of Powder Technology 2013
+A Training on: Continuous Manufacturing (Direct Compaction) of Solid 45 2018
+Dose Pharmaceutical Products
+S Moghtadernejad, MS Escotet-Espinoza, S Oka, R Singh, Z Liu, ...
+Journal of Pharmaceutical Innovation, 1-33
+A generic multi-dimensional model-based system for batch cooling 43 2011
+crystallization processes
+NAFA Samad, R Singh, G Sin, KV Gernaey, R Gani
+Computers & Chemical Engineering 35 (5), 828-843
+Residence Time Distribution (RTD)-Based Control System for Continuous 41 2018
+Pharmaceutical Manufacturing Process
+A Bhaskar, R Singh
+Journal of Pharmaceutical Innovation, 1-16
+Modeling the effects of material properties on tablet compaction: A building 39 2018
+block for controlling both batch and continuous pharmaceutical
+manufacturing processes
+MS Escotet-Espinoza, S Vadodaria, R Singh, FJ Muzzio, MG Ierapetritou
+International journal of pharmaceutics 543 (1-2), 274-287
+Model development and prediction of particle size distribution, density and 37 2018
+friability of a comilling operation in a continuous pharmaceutical
+manufacturing process
+N Metta, M Verstraeten, M Ghijs, A Kumar, E Schafer, R Singh, T De Beer, ...
+3 of 16 3/4/25, 6:07 PM
+Dr. Ravendra Singh - Google Scholar https://scholar.google.com/citations?user=3LpUxd0AAAAJ&hl=en
+TITLE CITED BY YEAR
+International journal of pharmaceutics 549 (1-2), 271-282
+A Systematic Framework for Data Management and Integration in a 36 2018
+Continuous Pharmaceutical Manufacturing Processing Line
+H Cao, S Mushnoori, B Higgins, C Kollipara, A Fermier, D Hausner, S Jha, ...
+Processes 6 (5), 53
+Surrogate-based Optimization for Pharmaceutical Manufacturing 31 2017
+Processes
+Z Wang, MS Escotet-Espinoza, R Singh, M Ierapetritou
+Computer Aided Chemical Engineering 40, 2797-2802
+A hybrid MPC-PID control system design for the continuous purification and 31 2014
+processing of active pharmaceutical ingredients
+M Sen, R Singh, R Ramachandran
+Processes 2 (2), 392-418
+Integrated moving horizon-based dynamic real-time optimization and hybrid 30 2015
+MPC-PID control of a direct compaction continuous tablet manufacturing
+process
+R Singh, M Sen, M Ierapetritou, R Ramachandran
+Journal of Pharmaceutical Innovation 10 (3), 233-253
+Using residence time distribution in pharmaceutical solid dose 29 2021
+manufacturing–A critical review
+P Bhalode, H Tian, S Gupta, SM Razavi, A Roman-Ospino, S Talebian, ...
+International Journal of Pharmaceutics 610, 121248
+Advanced Model Predictive Feedforward/Feedback Control of a Tablet 29 2017
+Press
+NT Haas, M Ierapetritou, R Singh
+Journal of Pharmaceutical Innovation 12 (2), 110-123
+Systematic framework for implementation of material traceability into 28 2020
+continuous pharmaceutical tablet manufacturing process
+M Billups, R Singh
+Journal of Pharmaceutical Innovation 15 (1), 51-65
+Effect of material properties on the residence time distribution (RTD) of a 27 2020
+tablet press feed frame
+R Furukawa, R Singh, M Ierapetritou
+International Journal of Pharmaceutics 591, 119961
+Sampling optimization for blend monitoring of a low dose formulation in a 24 2021
+tablet press feed frame using spatially resolved near-infrared spectroscopy
+AD Román-Ospino, Y Baranwal, J Li, J Vargas, B Igne, S Bate, ...
+International Journal of Pharmaceutics 602, 120594
+Flowsheet Models Modernize Pharmaceutical Manufacturing Design and 24 2015
+Risk Assessment. In-silico design facilitates process optimization and
+evaluation of process control strategies
+4 of 16 3/4/25, 6:07 PM
+Dr. Ravendra Singh - Google Scholar https://scholar.google.com/citations?user=3LpUxd0AAAAJ&hl=en
+TITLE CITED BY YEAR
+MS Escotet-Espinoza, R Singh, M Sen, T O’Connor, S Lee, S Chatterjee
+Pharm Technol 39, 34-42
+Residence time distribution modelling and in line monitoring of drug 22 2021
+concentration in a tablet press feed frame containing dead zones
+S Tanimura, R Singh, AD Román-Ospino, M Ierapetritou
+International Journal of Pharmaceutics 592, 120048
+Combined feedforward/feedback control of an integrated continuous 22 2018
+granulation process
+GC Pereira, SV Muddu, AD Román-Ospino, D Clancy, B Igne, C Airiau, ...
+Journal of Pharmaceutical Innovation, 1-27
+Design of an Integrated Continuous Manufacturing System 22 2017
+SS Oka, MS Escotet-Espinoza, R Singh, JV Scicolone, DB Hausner, ...
+Continuous Manufacturing of Pharmaceuticals, 405-446
+Flexible multipurpose continuous processing of pharmaceutical tablet 22 2013
+manufacturing process. GMP news, European Compliance Academic
+(ECE)
+R Singh, F Boukouvala, E Jayjock, R Ramachandran, M Ierapetritou, ...
+Optimization of key energy and performance metrics for drug product 20 2023
+manufacturing
+Y Chen, L Kotamarthy, A Dan, C Sampat, P Bhalode, R Singh, BJ Glasser, ...
+International Journal of Pharmaceutics 631, 122487
+Flexible multipurpose continuous processing 20 2012
+R Singh, F Boukouvala, E Jayjock, R Ramachandran, M Ierapetritou, ...
+Pharm Process 27 (6), 22-25
+Flexible multipurpose continuous processing of pharmaceutical tablet 20 2012
+manufacturing process
+R Singh, F Boukouvala, E Jayjock, R Ramachandran, M Ierapetritou, ...
+GMP News, European Compliance Academic (ECE)
+Flexible Multipurpose Continuous Processing of Pharmaceutical Tablet 20
+Manufacturing Process
+R Singh, F Boukouvala, E Jayjock, R Ramachandran, M Ierapetritou, ...
+Systematic substrate adoption methodology (SAM) for future flexible, 19 2013
+generic pharmaceutical production processes
+R Singh, A Godfrey, B Gregertsen, F Muller, KV Gernaey, R Gani, ...
+Computers & Chemical Engineering 58, 344-368
+Enabling energy-efficient manufacturing of pharmaceutical solid oral 18 2022
+dosage forms via integrated techno-economic analysis and advanced
+process modeling
+C Sampat, L Kotamarthy, P Bhalode, Y Chen, A Dan, S Parvani, ...
+Journal of Advanced Manufacturing and Processing, e10136
+5 of 16 3/4/25, 6:07 PM
+Dr. Ravendra Singh - Google Scholar https://scholar.google.com/citations?user=3LpUxd0AAAAJ&hl=en
+TITLE CITED BY YEAR
+A Validated Model for Design and Evaluation of Control Architectures for a 18 2017
+Continuous Tablet Compaction Process
+F Nunes de Barros, A Bhaskar, R Singh
+Processes 5 (4), 76
+Process Simulation and Control for Continuous Pharmaceutical 18 2017
+Manufacturing of Solid Drug Products
+M Ierapetritou, MS Escotet-Espinoza, R Singh
+Continuous Manufacturing of Pharmaceuticals, 33-105
+Characterization of NIR interfaces for the feeding and in-line monitoring of 17 2020
+a continuous granulation process
+AD Román-Ospino, A Tamrakar, B Igne, ET Dimaso, C Airiau, DJ Clancy, ...
+International journal of pharmaceutics 574, 118848
+Model-based control system design and evaluation for continuous tablet 17 2018
+manufacturing processes (via direct compaction, via roller compaction, via
+wet granulation)
+R Singh
+Computer Aided Chemical Engineering 41, 317-351
+A systematic framework to monitor mulling processes using Near Infrared 17 2016
+spectroscopy
+S Wu, SS Panikar, R Singh, J Zhang, B Glasser, R Ramachandran
+Advanced Powder Technology
+Implementation of control system into continuous pharmaceutical 15 2018
+manufacturing pilot plant (powder to tablet)
+R Singh
+Computer Aided Chemical Engineering 41, 447-469
+Advanced Control of Continuous Pharmaceutical Tablet Manufacturing 15 2016
+Processes
+R Singh, C Velazquez, A Sahay, KM Karry, FJ Muzzio, MG Ierapetritou, ...
+Process Simulation and Data Modeling in Solid Oral Drug Development and …
+Automation of continuous pharmaceutical manufacturing process 14 2018
+R Singh
+Computer Aided Chemical Engineering 41, 431-446
+Hybrid advanced control of flexible multipurpose continuous tablet 13 2013
+manufacturing process via direct compaction
+R Singh, M Ierapetritou, R Ramachandran
+Computer Aided Chemical Engineering 32, 757-762
+Simulation-based design of an efficient control system for the continuous 12 2014
+purification and processing of active pharmaceutical ingredients
+M Sen, R Singh, R Ramachandran
+Journal of Pharmaceutical Innovation 9 (1), 65-81
+6 of 16 3/4/25, 6:07 PM
+Dr. Ravendra Singh - Google Scholar https://scholar.google.com/citations?user=3LpUxd0AAAAJ&hl=en
+TITLE CITED BY YEAR
+Model-predictive design, control and optimization of pharmaceutical 12 2013
+process
+F Muzzio, R Singh, A Chaudhury, A Rogers, R Ramachandran, ...
+Pharm. Technol. Mag 37 (6), 40
+Control of process operations and monitoring of product qualities through 12 2010
+generic model-based in batch cooling crystallization
+NAFA Samad, R Singh, G Sin, KV Gernaey, R Gani
+Computer Aided Chemical Engineering 28, 613-618
+Control of Process Operations and Monitoring of Product Qualities through 12
+Generic Model-based in Batch Cooling Crystallization
+NAF Abdul Samad, R Singh, G Sin, K Gernaey, R Gani
+20th European Symposium on Computer Aided Process Engineering, 613-618
+Plant-wide control of a continuous tablet manufacturing for quality-by- 11 2015
+design based pharmaceutical manufacturing
+R Singh, F Muzzio, M Ierapetritou, R Ramachandran
+12th international symposium on process systems engineering and 25th …
+A retrofit strategy to achieve “Fast, Flexible, Future (F3)” pharmaceutical 11 2011
+production processes
+R Singh, R Rozada-Sanchez, T Wrate, F Muller, KV Gernaey, R Gani, ...
+Computer Aided Chemical Engineering 29, 291-295
+Two-dimensional population balance model development and validation of 10 2014
+pharmaceutical crystallization processes
+M Sen, A Chaudhury, R Singh, R Ramachandran
+American Journal of Modern Chemical Engineering 1, 13-29
+An integrated data management and informatics framework for continuous 8 2023
+drug product manufacturing processes: A case study on two pilot plants
+Y Chen, C Sampat, YS Huang, S Ganesh, R Singh, R Ramachandran, ...
+International Journal of Pharmaceutics 642, 123086
+Residence Time Distribution as a Traceability Method for Lot Changes in A 8 2021
+Pharmaceutical Continuous Manufacturing System
+A Sánchez-Paternina, P Martínez-Cartagena, J Li, J Scicolone, R Singh, ...
+International Journal of Pharmaceutics, 121313
+Fit-for-Purpose Miniature NIR Spectroscopy for Solid Dosage Continuous 6 2015
+Manufacturing
+KM Karry, R Singh, FJ Muzzio
+American Pharmaceutical Review 18 (4), 64-67
+PAT for pharmaceutical manufacturing process involving solid dosages 5 2018
+forms
+AD Román-Ospino, V Cárdenas, C Ortega-Zuñiga, R Singh
+Computer Aided Chemical Engineering 41, 293-315
+7 of 16 3/4/25, 6:07 PM
+Dr. Ravendra Singh - Google Scholar https://scholar.google.com/citations?user=3LpUxd0AAAAJ&hl=en
+TITLE CITED BY YEAR
+Process Systems Engineering for Pharmaceutical Manufacturing 5 2018
+R Singh, Z Yuan
+Elsevier
+Material Traceability in Continuous Pharmaceutical Tablet Manufacturing 4 2018
+R Singh, M Billups
+Search form 4 2017
+J Maeda, D Sankyo, MS Escotet-Espinoza, R Singh, M Ierapetritou
+The scope of PAT in real-time advanced control of tablet quality 3 2015
+R Singh, M Ierapetritou, R Ramachandran
+Eur Pharm Rev 20, 76-80
+Flexible multipurpose Continuous processing: Integration of process flow 3 2012
+modeling for continuous processing of pharmaceutical solid dosage forms
+R Singh, F Boukouvala, E Jayjock, R Ramachandran, M Ierapetritou, ...
+A generic process template for continuous pharmaceutical production 3 2012
+R Singh, R Rozada-Sanches, W Dean, J Perkins, F Muller, A Godfrey, ...
+Proceedings of the 11th International Symposium on Process Systems Engineering
+Integration of generic multi-dimensional model and operational policies for 3 2011
+batch cooling crystallization
+NAFA Samad, R Singh, G Sin, KV Gernaey, R Gani
+Computer-Aided Chemical Engineering 29, 86-90
+Modelling for Bio-, Agro-and Pharma-Applications 3 2011
+RM Rodriguez, R Singh, I Cameron, R Gani
+Product and Process Modelling
+Off-line design of PAT systems for on-line applications 3 2008
+R Singh, KV Gernaey, R Gani
+Computer Aided Chemical Engineering 25, 423-428
+A Novel CFD Model of SMX Static Mixer Used in Advanced Continuous 2 2024
+Manufacturing of Active Pharmaceutical Ingredients (API)
+A Kritikos, R Singh, G Tsilomelekis, FJ Muzzio
+Journal of Pharmaceutical Innovation 19 (2), 14
+Experimental investigation and modelling of tensile strength of 2 2021
+pharmaceutical tablets based on shear force applied by feed frame paddles
+R Furukawa, R Singh, M Ierapetritou
+International Journal of Pharmaceutics 606, 120908
+Integrated Control and Data Management System for Continuous 1 2017
+Pharmaceutical Manufacturing Process
+R Singh, FJ Muzzio, M Ierapetritou, R Ramachandran
+2017 AIChE Annual Meeting
+8 of 16 3/4/25, 6:07 PM
+Dr. Ravendra Singh - Google Scholar https://scholar.google.com/citations?user=3LpUxd0AAAAJ&hl=en
+TITLE CITED BY YEAR
+Flowsheet Models Modernize Pharmaceutical Manufacturing Design and 1 2015
+Risk Assessment
+MSEER Singh, MSTOC Sau, LSCRR Marianthi, IF Muzzio
+Pharmaceutical Technology 39 (4)
+Model-Predictive Design, Control, and Optimization 1 2013
+F Muzzio, R Singh, A Chaudhury, A Rogers, R Ramachandran, ...
+Advanstar Communications Inc.
+On the synthesis of diphenhydramine: Steady state ki, solvation effects, 2024
+and in-situ raman and benchtop NMR as PAT
+JA Konkol, R Singh, FJ Muzzio, G Tsilomelekis
+Chemical Engineering Journal, 152159
+Process monitoring & fault detection II 2023
+R Singh, X Yin
+2023 AIChE Annual Meeting
+Next-Gen Manufacturing in Pharma, Food, and Bioprocessing I 2023
+R Singh, KE Joseph, N Nazemifard, AB Bhandari
+2023 AIChE Annual Meeting
+Screening of Parameters Influencing Performance of Tangential/Crossflow 2023
+Filtration Systems in Continuous API Manufacturing Processes with a
+Mechanistic CFD Model
+B Anderson, F Muzzio, R Singh
+2023 AIChE Annual Meeting
+Optimizing Reverse Phase Chromatography Separation in Molnupiravir 2023
+Synthesis: An Inverse Method Approach
+A Kritikos, R Singh, F Muzzio, G Tsilomelekis
+2023 AIChE Annual Meeting
+A Digital Twin Model of Homogenizer Used in Continuous Injectables 2023
+Manufacturing
+P Das, F Muzzio, R Singh
+2023 AIChE Annual Meeting
+Applied Math for Metabolic and Bioreactor Systems 2023
+R Singh, M Papathanasiou
+2023 AIChE Annual Meeting
+CFD-Based Evaluation of Mixing Efficiency and Flow Uniformity in an Smx 2023
+Static Mixer
+A Kritikos, G Tsilomelekis, F Muzzio, R Singh
+2023 AIChE Annual Meeting
+At-Line Monitoring of Diphenhydramine Synthesis Via Low-Field NMR 2023
+Spectroscopy As Process Analytical Technology
+J Konkol, R Singh, F Muzzio, G Tsilomelekis
+2023 AIChE Annual Meeting
+9 of 16 3/4/25, 6:07 PM
+Dr. Ravendra Singh - Google Scholar https://scholar.google.com/citations?user=3LpUxd0AAAAJ&hl=en
+TITLE CITED BY YEAR
+A Novel Modular Plant and Digital Twin Model of Continuous 2023
+Pharmaceutical Manufacturing of Liquid Dosage Forms
+R Singh, F Muzzio
+2023 AIChE Annual Meeting
+Investigating the Effects of Coil Diameters on the Heating Efficiency of a 2023
+Twisted-Helix Preheater for Continuous API Synthesis through CFD
+Modeling
+B Anderson, F Muzzio, R Singh
+2023 AIChE Annual Meeting
+A Novel Digital RTD Toolbox for Adaptive Modelling, Quality Control, and 2023
+Material Traceability of Continuous Pharmaceutical Manufacturing Process
+R Singh, F Muzzio
+2023 AIChE Annual Meeting
+A Novel Adaptive Residence Time Distribution (RTD) Modelling Toolbox 2022
+R Singh, F Muzzio
+2022 AIChE Annual Meeting
+Next-Gen Manufacturing in Pharma, Food, and Bioprocessing I 2022
+M Moharir, R Singh
+2022 AIChE Annual Meeting
+Integrated Flowsheet Model of Continuous API Manufacturing Process and 2022
+Its Applications for Dynamic Optimization and Control
+R Singh, F Muzzio
+2022 AIChE Annual Meeting
+Integrated process control 2022
+R Singh, FJ Muzzio
+How to Design and Implement Powder-To-tablet Continuous Manufacturing …
+Continuous tableting 2022
+SM Razavi, B Yohannes, R Singh, M Gonzalez, HP Lee, FJ Muzzio, ...
+How to Design and Implement Powder-To-tablet Continuous Manufacturing …
+RTD Based Digital Twin of Continuous Pharmaceutical Manufacturing 2021
+Process
+R Singh, F Muzzio
+2021 AIChE Annual Meeting
+A Digital Twin of Flexible Modular Continuous API Manufacturing Process 2021
+R Singh, JP Lim, N Collins, F Muzzio
+2021 AIChE Annual Meeting
+Model-Based Dynamic Optimization of Feeder Refill Strategy Used in 2020
+Continuous Pharmaceutical Manufacturing Process
+R Singh, F Muzzio
+2020 Virtual AIChE Annual Meeting
+10 of 16 3/4/25, 6:07 PM
+Dr. Ravendra Singh - Google Scholar https://scholar.google.com/citations?user=3LpUxd0AAAAJ&hl=en
+TITLE CITED BY YEAR
+Pharma 4.0: Advanced Control and Cyber-Physical Security of Continuous 2020
+Pharmaceutical Manufacturing Pilot-Plant
+R Singh, R Ramachandran, F Muzzio
+2020 Virtual AIChE Annual Meeting
+Applied Math for Biological and Biomedical Systems 2019
+AF Versypt, R Voronov, R Singh, E Read, S Finley
+2019 AIChE Annual Meeting
+Industry 4.0: Advanced Bi-Layer Control System for Continuous 2019
+Pharmaceutical Manufacturing Pilot-Plant
+R Singh, R Ramachandran, M Ierapetritou, FJ Muzzio
+2019 AIChE Annual Meeting
+Process dynamics and control of API manufacturing and purification 2018
+processes
+M Sen, R Singh, R Ramachandran
+Computer Aided Chemical Engineering 41, 261-292
+RTD Based Control System for Continuous Pharmaceutical Manufacturing 2018
+Process
+R Singh, F Muzzio
+2018 AIChE Annual Meeting
+Material traceability in continuous pharmaceutical tablet manufacturing 2018
+M Billups, R Singh
+Pharmaceutical Technology Europe 30 (2), 39-41
+Process system engineering (PSE): Continuous pharmaceutical and bio- 2018
+pharmaceutical manufacturing
+R Singh
+Meet the Faculty Candidate Poster Session-Sponsored by the Education …
+Advanced Model Predictive Control of Powder Level in Continuous 2017
+Pharmaceutical Manufacturing Pilot-Plant
+R Singh, F Muzzio, M Ierapetritou, R Ramachandran
+2017 AIChE Annual Meeting
+Residence Time Distribution and Segregation Studies Trough Real Time 2017
+Measurements By Near Infrared Spectroscopy
+AD Román-Ospino, S Oka, S Moghtadernejad, MS Escotet-Espinoza, ...
+2017 AIChE Annual Meeting
+Real-Time Monitoring and Control of API Concentration in a Tablet Press 2017
+for Continuous Manufacturing of Tablets
+J Maeda, MS Escotet-Espinoza, R Singh, M Ierapetritou
+2017 AIChE Annual Meeting
+Manufacturing of Solid Drug 2017
+M Ierapetritou, MS Escotet-Espinoza, R Singh
+Continuous Manufacturing of Pharmaceuticals, 33
+11 of 16 3/4/25, 6:07 PM
+Dr. Ravendra Singh - Google Scholar https://scholar.google.com/citations?user=3LpUxd0AAAAJ&hl=en
+TITLE CITED BY YEAR
+Pharmaceutical system engineering 2017
+R Singh
+Poster Sessions 2017-Core Programming Area at the 2017 AIChE Annual Meeting …
+Process system engineering for advanced modular continuous 2016
+pharmaceutical manufacturing platform
+R Singh
+Computing and Systems Technology Division 2016-Core Programming Area at the …
+A Systematic Framework for the Design and Implementation of Sensing 2016
+and Control Architecture for a Continuous Pharmaceutical Manufacturing
+Plant
+R Singh, FJ Muzzio, M Ierapetritou, R Ramachnadran
+Computer Aided Chemical Engineering 38, 1473-1478
+Applying batch data principles to continuous manufacturing for the 2015
+purposes of data managemen batch reporting, analytics and traceability
+P Brodbeck, B Engel, R Singh
+Computing and Systems Technology Division 2015-Core Programming Area at the …
+Designing a novel continuous manufacturing plant with superior monitoring 2015
+and control
+R Ramachandran, M Ierapetritou, J Zhang, R Singh
+European Pharmaceutical Review 20 (6), 37-41
+Designing a novel continuous manufacturing plant with superior monitoring 2015
+and control
+R Singh, J Zhang, M Ierapetritou, R Ramachandran
+Use of operating windows for assessment of continuous plug flow slurry 2015
+reactor
+R Singh, B Gregertsen, F Muller, K Gernaey, R Gani, J Woodley
+Technical University of Denmark, Department of Chemical Engineering
+Design of a process template for amine synthesis 2015
+R Singh, A Godfrey, B Gregertsen, F Muller, B Vankayala, K Haas-Santo, ...
+Technical University of Denmark, Department of chemical and Biochemical …
+Design, optimization, monitoring and control of continuous pharmaceutical 2014
+manufacturing plant for QbD and PAT based next generation of efficient
+manufacturing
+R Singh
+Education Division 2014-Core Programming Area at the 2014 AIChE Annual …
+23 European Symposium on Computer Aided Process Engineering: Hybrid 2013
+advanced control of flexible multipurpose continuous tablet manufacturing
+process via direct compaction
+R Singh, M Ierapetritou, R Ramachandran
+Elsevier Inc. Chapters
+12 of 16 3/4/25, 6:07 PM
+Dr. Ravendra Singh - Google Scholar https://scholar.google.com/citations?user=3LpUxd0AAAAJ&hl=en
+TITLE CITED BY YEAR
+Research Article Mathematical Development and Comparison of a Hybrid 2013
+PBM-DEM Description of a Continuous Powder Mixing Process
+M Sen, A Dubey, R Singh, R Ramachandran
+Adaptive Continuous Template-Based Novel Manufacturing Technique for 2012
+Faster Manufacturing of New APIs for Clinical Trials
+R Singh, K Gernaey, R Gani, J Woodley
+2012 AIChE Annual Meeting
+Systematic procedure for generating operational policies to achieve target 2011
+crystal size distribution (CSD) in batch cooling crystallization
+NAFA Samad, R Singh, G Sin, KV Gernaey, R Gani
+Modeling, Simulation and Applied Optimization (ICMSAO), 2011 4th …
+Systematic Modelling and Crystal Size Distribution Control for Batch 2011
+Crystallization Processes
+NAFA Samad, R Singh, G Sin, K Gernaey, R Gani
+2nd European Conference on Process Analytics and Control Technology
+Development of a fast and flexible generic process for the reduction of nitro 2011
+compounds
+K Haas-Santo, B Vankayala, R Dittmeyer, R Singh, K Gernaey, R Gani, ...
+8th European Congress of Chemical Engineering
+Substrates adoption methodology (SAM) to achieve “Fast, Flexible, Future 2011
+(F3)” pharmaceutical production processes
+R Singh, R Rozada-Sanchez, T Wrate, K Gernaey, R Gani, J Woodley
+8th European Congress of Chemical Engineering
+A Generic Multi-Dimensional Model-Based Framework for Batch Cooling 2010
+Crystallization Process
+NAFA Samad, R Singh, G Sin, K Gernaey, R Gani
+2010 AIChE Annual Meeting
+Systematic method and tool for design, analysis &/or validation of PAT 2010
+systems
+R Singh, NAFA Samad, G Sin, K Gernaey, R Gani
+APACT-10
+Mechanistic modeling for systematic design and analysis of PAT systems 2010
+(Invited Lecture)
+R Singh, NAFA Samad, K Gernaey, J Woodley, R Gani
+24th International Foundation Process Analytical Chemistry (IFPAC®)
+F3 process design for fine chemical and Pharmaceutical transformations 2010
+F Muller, RR Sanchez, T Wrate, S Davison, A Manipura, EB Martin, ...
+19th International Congress of Chemical and Process Engineering and 7th …
+Systematic Framework for Design and Adaption of Fast, Flexible, 2010
+Continuous Modular Plants
+R Singh, K Gernaey, R Gani, J Woodley
+13 of 16 3/4/25, 6:07 PM
+Dr. Ravendra Singh - Google Scholar https://scholar.google.com/citations?user=3LpUxd0AAAAJ&hl=en
+TITLE CITED BY YEAR
+Systematic computer-aided method and tool (ICAS-PAT) for design, 2010
+analysis &/or validation of process monitoring and analysis systems (PAT
+systems)
+R Singh, K Gernaey, R Gani
+Model-based computer-aided framework for design of process monitoring 2010
+and analysis systems (PAT systems)(Invited Lecture+ PhD Thesis Award)
+R Singh
+A Generic Model-Based Framework for Batch Cooling Crystallization 2010
+Processes
+NAFA Samad, R Singh, G Sin, K Gernaey, R Gani
+International Conference on Population Balance Modeling
+A software tool for design of process monitoring and analysis systems 2009
+R Singh, KV Gernaey, R Gani
+19th European Symposium on Computer Aided Process Engineering: ESCAPE-19 …
+ICAS-PAT: A new software tool for systematic design/validation of process 2009
+monitoring and analysis systems (PAT systems)
+R Singh, K Gernaey, R Gani
+Advances in process analytics and control technologies
+Application of ICAS-PAT On Design of Process Monitoring and Control 2009
+System for a Batch Cooling Crystallization Process through Hybrid
+Multiscale Model-Based Analysis
+NAFA Samad, R Singh, G Sin, K Gernaey, R Gani
+2009 AIChE Annual Meeting
+A systematic computer aided framework for design and analysis of PAT 2009
+systems
+K Gernaey, R Singh, R Gani
+Design of Process Monitoring and Analysis Systems (PAT Systems) 2008
+R Singh
+Graduate Schools Yearbook 2007, 173
+A model-based framework for design and analysis of PAT systems 2008
+R Gani, R Singh, K Gernaey
+Application of mechanistic models within a PAT framework 2008
+K Gernaey, G Sin, E Albo, J Woodley, R Singh, R Gani
+A Model-Based Framework for Systematic Product Quality Monitoring and 2008
+Control
+R Singh, KV Gernaey, R Gani
+The 2008 Annual Meeting
+Design of Process Monitoring and Analysis Systems 2007
+R Singh, K Gernaey, R Gani
+2007 AIChE Annual Meeting
+14 of 16 3/4/25, 6:07 PM
+Dr. Ravendra Singh - Google Scholar https://scholar.google.com/citations?user=3LpUxd0AAAAJ&hl=en
+TITLE CITED BY YEAR
+Supporting Tools for Design and Validation of Process Analytical 2007
+Technology System
+R Singh, K Gernaey, R Gani
+2007 AIChE Annual Meeting
+TEMPERATURE TRAJECTORY OPTIMIZATION FORA THERMOSTATED 2005
+BATCH CRYSTALLIZATION APPARATUS
+R Singh
+Pharma 4.0: Advanced Continuous Pharmaceutical Tablet Manufacturing
+R Singh
+Data-driven and Surrogate Optimization in Operation
+A Allman, R Singh
+2023 AIChE Annual Meeting
+Applied Math for Biological and Biomedical Systems
+R Singh, AF Versypt, D Howsmon, M Papathanasiou, B Akpa
+2023 AIChE Annual Meeting
+Design of a process template for amine synthesis-DTU Orbit (28/12/2018)
+R Singh
+Advanced Model Predictive Control System of Continuous
+Biopharmaceutical Manufacturing Process
+R Singh
+Use of operating windows for assessment of continuous plug flow slurry
+reactor-DTU Orbit (02/04/2019)
+R Singh, B Gregertsen, F Muller, K Gernaey, R Gani, J Woodley
+Full article title
+H Cao, S Mushnoori, B Higgins, C Kollipara, A Fernier, D Hausner, S Jha, ...
+SUSCRÍBETE AHORA
+F Muzzio, R Singh, A Chaudhury, A Rogers, R Ramachandran, ...
+System Engineering for a Novel Continuous Pharmaceutical Manufacturing
+Process
+R Singh
+Mechanistic modeling for systematic design and analysis of PAT systems
+R Singh, NAFA Samad, KV Gernaey, JM Woodley, R Gani
+New scopes of PAT for real time advanced control of continuous
+pharmaceutical manufacturing processes
+R Singh, M Ierapetritou, R Ramachandran
+433573 Applied Pharmaceutical Process System Engineering
+R Singh
+15 of 16 3/4/25, 6:07 PM
+Dr. Ravendra Singh - Google Scholar https://scholar.google.com/citations?user=3LpUxd0AAAAJ&hl=en
+TITLE CITED BY YEAR
+425912 Sensor Modeling
+R Singh
+422303 Implementation of Advanced Multilayer Plant-Wide Control
+Architecture into a Direct Compaction Continuous Pharmaceutical
+Manufacturing Process
+R Singh
+Modelling for Bio-, Agro-and Pharma-Applications*-Chapter 12
+R Morales-Rodriguez, R Singh, I Cameron, R Gani
+Elsevier BV
+471687 Feedforward Control of Continuous Pharmaceutical Manufacturing
+Process
+R Singh
+Systematic Procedure for Generating Operational Policies to Achieve
+Target Crystal Size Distribution (CSD) in Batch Cooling Crystallization
+NAF Abdul Samad, R Singh, G Sin, K Gernaey, R Gani
+4th International Conference on Modeling, Simulation and Applied Optimization
+2015 Annual Meeting November 8-13, 2015
+MS Escotet-Espinoza, E Jayjock, R Singh, A Vanarase, FJ Muzzio, ...
+Journal of Pharmaceutical Innovation
+OK Cancel
+2012 Annual Meeting October 28-November 2, 2012
+R Singh
+Change 5, 3.9
+Daily news and top headlines for chemical processing professionals
+R SINGH, F BOUKOUVALA, E JAYJOCK, R RAMACHANDRAN, ...
+Design and Implementation of An Efficient Control System in a Continuous
+Pharmaceutical Manufacturing Process Via Roller Compaction
+R Singh
+Systematic Modelling and Crystal Size Distribution Control for Batch
+Crystallization Processes
+NAF Abdul Samad, R Singh, G Sin, K Gernaey, R Gani
+2nd European Conference on Process Analytics and Control Technology
+An Ontological Knowledge-Based System for Identification of Efficient
+Chemical Production Routes
+R Singh
+16 of 16 3/4/25, 6:07 PM
