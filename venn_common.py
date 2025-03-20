@@ -298,42 +298,83 @@ if run_simulation_button:
             comparisons = []
 
             # Generate all subset combinations (from pairs to all researchers)
-            for r in range(2, len(all_sets) + 1):  
-                for comb in combinations(all_sets.keys(), r):
-                    common_titles = all_sets[comb[0]]
-                    for researcher in comb[1:]:
-                        common_titles = find_similar_titles(common_titles, all_sets[researcher])  
+            # for r in range(2, len(all_sets) + 1):  
+            #     for comb in combinations(all_sets.keys(), r):
+            #         common_titles = all_sets[comb[0]]
+            #         for researcher in comb[1:]:
+            #             common_titles = find_similar_titles(common_titles, all_sets[researcher])  
                     
-                    # Calculate total citations for common publications (for the combination table)
+            #         # Calculate total citations for common publications (for the combination table)
+            #         total_citations = 0
+            #         for title in common_titles:
+            #             if title:
+            #                 # Collect citations from all researchers in the combination
+            #                 citation_values = []
+            #                 for researcher in comb:
+            #                     for t, y, c in all_data_with_details[researcher]:
+            #                         if t == "N/A":
+            #                             continue
+            #                         if fuzz.ratio(t, title) >= THRESHOLD:
+            #                             c_int = int(c) if c != "N/A" else 0
+            #                             citation_values.append((researcher, c_int))
+            #                             break
+            #                     else:
+            #                         citation_values.append((researcher, 0))
+            #                 # Use the minimum citation value (if one is 0, use 0)
+            #                 if citation_values:
+            #                     chosen_citation = min(citation[1] for citation in citation_values)
+            #                     total_citations += chosen_citation
+                    
+            #         # Join common titles into a string
+            #         common_titles_str = "|".join(common_titles)
+                    
+            #         comparisons.append({
+            #             "Combinations": " ↔ ".join(comb),  
+            #             "No. of common publications": len(common_titles),
+            #             "Total Common Citations": total_citations,
+            #             "Common Publications": common_titles_str,  
+            #         })
+            for r in range(2, len(all_sets) + 1):
+                for comb in combinations(all_sets.keys(), r):
+                    # 1) Gather the union of all candidate titles from the researchers in `comb`
+                    union_titles = set()
+                    for name in comb:
+                        union_titles.update(all_sets[name])
+                    
+                    # 2) For each candidate in union_titles, check if it fuzzy-matches 
+                    #    a publication in *every* researcher's set in `comb`.
+                    common_titles = set()
+                    for candidate in union_titles:
+                        found_in_all = True
+                        for name in comb:
+                            if not any(fuzz.ratio(candidate, t) >= THRESHOLD for t in all_sets[name]):
+                                found_in_all = False
+                                break
+                        if found_in_all:
+                            common_titles.add(candidate)
+                    
+                    # 3) Summation of citations, etc. (same logic as before)
                     total_citations = 0
                     for title in common_titles:
-                        if title:
-                            # Collect citations from all researchers in the combination
-                            citation_values = []
-                            for researcher in comb:
-                                for t, y, c in all_data_with_details[researcher]:
-                                    if t == "N/A":
-                                        continue
-                                    if fuzz.ratio(t, title) >= THRESHOLD:
-                                        c_int = int(c) if c != "N/A" else 0
-                                        citation_values.append((researcher, c_int))
-                                        break
-                                else:
-                                    citation_values.append((researcher, 0))
-                            # Use the minimum citation value (if one is 0, use 0)
-                            if citation_values:
-                                chosen_citation = min(citation[1] for citation in citation_values)
-                                total_citations += chosen_citation
-                    
-                    # Join common titles into a string
-                    common_titles_str = "|".join(common_titles)
+                        citation_values = []
+                        for researcher in comb:
+                            # Check that researcher's data for a fuzzy match
+                            matched_value = 0
+                            for (t, y, c) in all_data_with_details[researcher]:
+                                if fuzz.ratio(t, title) >= THRESHOLD:
+                                    matched_value = c
+                                    break
+                            citation_values.append(matched_value)
+                        # Use min across them
+                        total_citations += min(citation_values)
                     
                     comparisons.append({
-                        "Combinations": " ↔ ".join(comb),  
+                        "Combinations": " ↔ ".join(comb),
                         "No. of common publications": len(common_titles),
                         "Total Common Citations": total_citations,
-                        "Common Publications": common_titles_str,  
+                        "Common Publications": "|".join(common_titles)
                     })
+
 
                     # Debug: Print common publications and their citations for this combination
                     #st.write(f"Debug - Common Publications for {comb}:")
