@@ -1,125 +1,393 @@
-Rohit Ramachandran - Google Scholar https://scholar.google.com/citations?user=tSsdVLQAAAAJ&hl=en
-Rohit Ramachandran
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+fernando muzzio
 All Since 2020
-Citations 6228 3082
-Professor of Chemical Engineering,
-h-index 47 30
-Rutgers University
-i10-index 114 89
-Process systems engineering
-particle technology 10 articles 27 articles
+Citations 20567 6291
+Rutgers
+h-index 81 43
+i10-index 273 173
+12 articles 18 articles
 not available available
 Based on funding mandates
 TITLE CITED BY YEAR
-Economic analysis of integrated continuous and batch pharmaceutical 612 2011
-manufacturing: a case study
-SD Schaber, DI Gerogiorgis, R Ramachandran, JMB Evans, PI Barton, ...
-Industrial & Engineering Chemistry Research 50 (17), 10083-10092
+Powder technology in the pharmaceutical industry: the need to catch up 322 2002
+fast
+FJ Muzzio, T Shinbrot, BJ Glasser
+Powder technology 124 (1-2), 1-7
+Using time-dependent RPM to enhance mixing in stirred vessels 315 1996
+DJ Lamberto, FJ Muzzio, PD Swanson, AL Tonkovich
+Chemical Engineering Science 51 (5), 733-741
+Reverse buoyancy in shaken granular beds 301 1998
+T Shinbrot, FJ Muzzio
+Physical Review Letters 81 (20), 4365
+Modeling of heat transfer in granular flow in rotating vessels 295 2006
+B Chaudhuri, FJ Muzzio, MS Tomassone
+Chemical Engineering Science 61 (19), 6348-6360
+Experimentally validated computations of flow, mixing and segregation of 280 2000
+non-cohesive grains in 3D tumbling blenders
+M Moakher, T Shinbrot, FJ Muzzio
+Powder technology 109 (1-3), 58-71
+Chaos, symmetry, and self-similarity: exploiting order and disorder in 276 1992
+mixing processes
+JM Ottino, FJ Muzzio, M Tjahjadi, JG Franjione, SC Jana, HA Kusch
+Science 257 (5071), 754-760
+The Kenics static mixer: a three-dimensional chaotic flow 273 1997
+DM Hobbs, FJ Muzzio
+Chemical engineering journal 67 (3), 153-166
+A review of the Residence Time Distribution (RTD) applications in solid unit 271 2012
+operations
+Y Gao, FJ Muzzio, MG Ierapetritou
+Powder technology 228, 416-423
+Sampling practices in powder blending 270 1997
+FJ Muzzio, P Robinson, C Wightman, D Brone
+International journal of pharmaceutics 155 (2), 153-178
+1 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
+Real-time monitoring of drug concentration in a continuous powder mixing 266 2010
+process using NIR spectroscopy
+AU Vanarase, M Alcalà, JIJ Rozo, FJ Muzzio, RJ Romañach
+Chemical Engineering Science 65 (21), 5728-5733
+Experimental and computational investigation of the laminar flow structure 262 1999
+in a stirred tank
+DJ Lamberto, MM Alvarez, FJ Muzzio
+Chemical Engineering Science 54 (7), 919-942
+Effect of operating conditions and design parameters in a continuous 242 2011
+powder mixer
+AU Vanarase, FJ Muzzio
+Powder Technology 208 (1), 26-36
+Characterizing continuous powder mixing using residence time distribution 238 2011
+Y Gao, A Vanarase, F Muzzio, M Ierapetritou
+Chemical Engineering Science 66 (3), 417-425
 An integrated approach for dynamic flowsheet modeling and sensitivity 227 2012
 analysis of a continuous tablet manufacturing process
 F Boukouvala, V Niotis, R Ramachandran, FJ Muzzio, MG Ierapetritou
 Computers & chemical engineering 42, 30-47
-Digital twins in pharmaceutical and biopharmaceutical manufacturing: a 210 2020
-literature review
-Y Chen, O Yang, C Sampat, P Bhalode, R Ramachandran, M Ierapetritou
-Processes 8 (9), 1088
-An engineering study on the enhanced control and operation of continuous 151 2012
-manufacturing of pharmaceutical tablets via roller compaction
-R Singh, M Ierapetritou, R Ramachandran
-International journal of pharmaceutics 438 (1-2), 307-326
-System-wide hybrid MPC–PID control of a continuous pharmaceutical 144 2013
-tablet manufacturing process via direct compaction
-R Singh, M Ierapetritou, R Ramachandran
-European Journal of Pharmaceutics and Biopharmaceutics 85 (3), 1164-1182
+Cohesive effects in powder mixing in a tumbling blender 215 2006
+B Chaudhuri, A Mehrotra, FJ Muzzio, MS Tomassone
+Powder technology 165 (2), 105-114
+The statistics of stretching and stirring in chaotic flows 212 1991
+FJ Muzzio, PD Swanson, JM Ottino
+Physics of Fluids A: Fluid Dynamics 3 (5), 822-834
+Reynolds number effects on laminar mixing in the Kenics static mixer 204 1998
+DM Hobbs, FJ Muzzio
+Chemical engineering journal 70 (2), 93-104
+Quantification of mixing in aperiodic chaotic flows 202 1994
+M Liu, FJ Muzzio, RL Peskin
+Chaos, Solitons & Fractals 4 (6), 869-893
+Using residence time distributions (RTDs) to address the traceability of raw 200 2016
+materials in continuous pharmaceutical manufacturing
+W Engisch, F Muzzio
+Journal of pharmaceutical innovation 11, 64-81
+Numerical characterization of low Reynolds number flow in the Kenics 198 1998
+static mixer
+DM Hobbs, PD Swanson, FJ Muzzio
+Chemical engineering science 53 (8), 1565-1584
+2 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
+Noise to order 196 2001
+T Shinbrot, FJ Muzzio
+Nature 410 (6825), 251-258
+Perspectives on the continuous manufacturing of powder-based 192 2016
+pharmaceutical processes
+M Ierapetritou, F Muzzio, G Reklaitis
+AIChE Journal 62 (6), 1846-1862
+Hydrodynamics-induced variability in the USP apparatus II dissolution test 184 2005
+JL Baxter, J Kukura, FJ Muzzio
+International journal of pharmaceutics 292 (1-2), 17-28
+Avalanching flow of cohesive powders 175 2006
+AW Alexander, B Chaudhuri, AM Faqih, FJ Muzzio, C Davies, ...
+Powder Technology 164 (1), 13-21
+Characterization of continuous convective powder mixing processes 173 2008
+PM Portillo, MG Ierapetritou, FJ Muzzio
+Powder Technology 182 (3), 368-378
+A study of the mixing and segregation mechanisms in the Bohle Tote 173 2006
+blender via DEM simulations
+PE Arratia, N Duong, FJ Muzzio, P Godbole, S Reynolds
+Powder technology 164 (1), 50-57
+Mechanisms of mixing and creation of structure in laminar stirred tanks 170 2002
+MM Alvarez, JM Zalc, T Shinbrot, PE Arratia, FJ Muzzio
+AIChE Journal 48 (10), 2135-2148
+Sampling and characterization of pharmaceutical powders and granular 166 2003
+blends
+FJ Muzzio, CL Goodridge, A Alexander, P Arratia, H Yang, O Sudah, ...
+International journal of pharmaceutics 250 (1), 51-64
+Nonequilibrium patterns in granular mixing and segregation. 160 2000
+T Shinbrot, FJ Muzzio
+Physics Today 53 (3), 25-30
+Effects of powder flow properties and shear environment on the 159 2013
+performance of continuous mixing of pharmaceutical powders
+AU Vanarase, JG Osorio, FJ Muzzio
+Powder technology 246, 63-72
+Laminar mixing in eccentric stirred tank systems 159 2002
+MM Alvarez, PE Arratia, FJ Muzzio
+The Canadian Journal of Chemical Engineering 80 (4), 546-557
+Optimization of a static mixer using dynamical systems techniques 159 1998
+DM Hobbs, FJ Muzzio
+Chemical Engineering Science 53 (18), 3199-3213
+3 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
+Quantitative characterization of mixing of dry powders in V-blenders 156 1998
+D Brone, A Alexander, FJ Muzzio
+AIChE journal 44 (2), 271-278
+Experimentally validated computations of heat transfer in granular materials 154 2010
+in rotary calciners
+B Chaudhuri, FJ Muzzio, MS Tomassone
+Powder Technology 198 (1), 6-15
+Characterization of flow and mixing in an SMX static mixer 146 2002
+JM Zalc, ES Szalai, FJ Muzzio, S Jaffer
+AIChE Journal 48 (3), 427-436
+Self-similar spatiotemporal structure of intermaterial boundaries in chaotic 145 1998
+flows
+MM Alvarez, FJ Muzzio, S Cerbelli, A Adrover, M Giona
+Physical review letters 81 (16), 3395
+Effect of moisture and magnesium stearate concentration on flow 142 2007
+properties of cohesive granular materials
+AMN Faqih, A Mehrotra, SV Hammond, FJ Muzzio
+International journal of pharmaceutics 336 (2), 338-345
+Method for characterization of loss-in-weight feeder equipment 137 2012
+WE Engisch, FJ Muzzio
+Powder technology 228, 395-403
+Spontaneous chaotic granular mixing 137 1999
+T Shinbrot, A Alexander, FJ Muzzio
+Nature 397 (6721), 675-678
+Shear distribution and variability in the USP Apparatus 2 under turbulent 134 2004
+conditions
+J Kukura, JL Baxter, FJ Muzzio
+International journal of pharmaceutics 279 (1-2), 9-17
+Evaluation of resonant acoustic mixing performance 133 2015
+JG Osorio, FJ Muzzio
+Powder Technology 278, 46-56
+Study of the effects of feed frames on powder blend properties during the 131 2010
+filling of tablet press dies
+R Mendez, F Muzzio, C Velazquez
+Powder Technology 200 (3), 105-116
+Mixing of shear-thinning fluids with yield stress in stirred tanks 128 2006
+PE Arratia, J Kukura, J Lacombe, FJ Muzzio
+AIChE journal 52 (7), 2310-2322
+Laser-induced fluorescence technique for the quantification of mixing in 124 1999
+impinging jets
+DR Unger, FJ Muzzio
+4 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
+AIChE Journal 45 (12), 2477-2486
 Implementation of an advanced hybrid MPC–PID control system using PAT 122 2014
 tools into a direct compaction continuous pharmaceutical tablet
 manufacturing pilot plant
 R Singh, A Sahay, KM Karry, F Muzzio, M Ierapetritou, R Ramachandran
 International journal of pharmaceutics 473 (1-2), 38-54
+Influence of shear intensity and total shear on properties of blends and 122 2007
+tablets of lactose and cellulose lubricated with magnesium stearate
+A Mehrotra, M Llusa, A Faqih, M Levin, FJ Muzzio
+International journal of pharmaceutics 336 (2), 284-291
+Effects of rotation rate, mixing angle, and cohesion in two continuous 121 2009
+powder mixers—A statistical approach
+PM Portillo, MG Ierapetritou, FJ Muzzio
+Powder Technology 194 (3), 217-227
+Computational analysis of regular and chaotic mixing in a stirred tank 120 2001
+reactor
+DJ Lamberto, MM Alvarez, FJ Muzzio
+Chemical Engineering Science 56 (16), 4887-4899
+Feedrate deviations caused by hopper refill of loss-in-weight feeders 119 2015
+WE Engisch, FJ Muzzio
+Powder Technology 283, 389-400
+Using CFD to understand chaotic mixing in laminar stirred tanks 119 2002
+JM Zalc, ES Szalai, MM Alvarez, FJ Muzzio
+AIChE Journal 48 (10), 2124-2134
 A systematic framework for onsite design and implementation of a control 117 2014
 system in a continuous tablet manufacturing process
 R Singh, A Sahay, F Muzzio, M Ierapetritou, R Ramachandran
 Computers & chemical engineering 66, 186-200
-1 of 22 3/14/25, 9:45 PM
-Rohit Ramachandran - Google Scholar https://scholar.google.com/citations?user=tSsdVLQAAAAJ&hl=en
+Quantitative characterization of mixing of free-flowing granular material in 116 2002
+tote (bin)-blenders
+OS Sudah, D Coffin-Beach, FJ Muzzio
+Powder Technology 126 (2), 191-200
+Enhanced mixing in double-cone blenders 116 2000
+D Brone, FJ Muzzio
+Powder Technology 110 (3), 179-189
+Investigation of the effect of impeller rotation rate, powder flow rate, and 113 2010
+cohesion on powder flow behavior in a continuous blender using PEPT
+PM Portillo, AU Vanarase, A Ingram, JK Seville, MG Ierapetritou, ...
+Chemical Engineering Science 65 (21), 5658-5668
+5 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
 TITLE CITED BY YEAR
-Effective parameter estimation within a multi-dimensional population 110 2010
-balance model framework
-R Ramachandran, PI Barton
-Chemical Engineering Science 65 (16), 4884-4893
-A mechanistic model for breakage in population balances of granulation: 108 2009
-Theoretical kernel development and experimental validation
-R Ramachandran, CD Immanuel, F Stepanek, JD Litster, FJ Doyle III
-Chemical Engineering Research and Design 87 (4), 598-614
-Experimental studies on distributions of granule size, binder content and 108 2008
-porosity in batch drum granulation: Inferences on process modelling
-requirements and process sensitivities
-R Ramachandran, JMH Poon, CFW Sanders, T Glaser, CD Immanuel, ...
-Powder Technology 188 (2), 89-101
-A multi-scale, mechanistic model of a wet granulation process using a 102 2015
-novel bi-directional PBM–DEM coupling algorithm
-D Barrasso, T Eppinger, FE Pereira, R Aglave, K Debus, SK Bermingham, ...
-Chemical Engineering Science 123, 500-513
-Multi-dimensional population balance model development and validation for 97 2015
-a twin screw granulation process
-D Barrasso, A El Hagrasy, JD Litster, R Ramachandran
-Powder Technology 270, 612-621
-Multi-scale modeling of granulation processes: Bi-directional coupling of 94 2015
-PBM with DEM via collision frequencies
-D Barrasso, R Ramachandran
-Chemical Engineering Research and Design 93, 304-317
-A multi-scale hybrid CFD-DEM-PBM description of a fluid-bed granulation 89 2014
-process
-M Sen, D Barrasso, R Singh, R Ramachandran
-Processes 2 (1), 89-111
-A comparison of model order reduction techniques for a four-dimensional 88 2012
-population balance model describing multi-component wet granulation
-processes
-D Barrasso, R Ramachandran
-Chemical engineering science 80, 380-392
-Experimental validation studies on a multi-dimensional and multi-scale 88 2009
-population balance model of batch granulation
-JMH Poon, R Ramachandran, CFW Sanders, T Glaser, CD Immanuel, ...
-Chemical Engineering Science 64 (4), 775-786
-Real time monitoring of powder blend bulk density for coupled feed- 85 2015
-forward/feed-back control of a continuous direct compaction tablet
-manufacturing process
-R Singh, AD Román-Ospino, RJ Romañach, M Ierapetritou, ...
-2 of 22 3/14/25, 9:45 PM
-Rohit Ramachandran - Google Scholar https://scholar.google.com/citations?user=tSsdVLQAAAAJ&hl=en
+Design space of pharmaceutical processes using data-driven-based 113 2010
+methods
+F Boukouvala, FJ Muzzio, MG Ierapetritou
+Journal of Pharmaceutical Innovation 5, 119-137
+Extensive validation of computed laminar flow in a stirred tank with three 112 2001
+Rushton turbines
+JM Zalc, MM Alvarez, FJ Muzzio, BE Arik
+AIChE Journal 47 (10), 2144-2154
+Scaling and multifractal properties of mixing in chaotic flows 111 1992
+FJ Muzzio, C Meneveau, PD Swanson, JM Ottino
+Physics of Fluids A: Fluid Dynamics 4 (7), 1439-1456
+Scaling surface velocities in rotating cylinders as a function of vessel 110 2002
+radius, rotation rate, and particle size
+A Alexander, T Shinbrot, FJ Muzzio
+Powder Technology 126 (2), 174-190
+Mixing order of glidant and lubricant–influence on powder and tablet 109 2011
+properties
+K Pingali, R Mendez, D Lewis, B Michniak-Kohn, A Cuitino, F Muzzio
+International journal of pharmaceutics 409 (1-2), 269-277
+Practical chaotic mixing 106 2002
+MM Alvarez-Hernández, T Shinbrot, J Zalc, FJ Muzzio
+Chemical Engineering Science 57 (17), 3749-3753
+Predicting feeder performance based on material flow properties 105 2017
+Y Wang, T Li, FJ Muzzio, BJ Glasser
+Powder Technology 308, 135-148
+Loss-in-weight feeding trials case study: pharmaceutical formulation 103 2015
+WE Engisch, FJ Muzzio
+Journal of pharmaceutical innovation 10, 56-75
+Particle size segregation promoted by powder flow in confined space: The 103 2014
+die filling process case
+D Mateo-Ortiz, FJ Muzzio, R Méndez
+Powder technology 262, 215-222
+Prediction of dissolution profiles by non-destructive near infrared 99 2016
+spectroscopy in tablets subjected to different levels of strain
+E Hernandez, P Pawar, G Keyvan, Y Wang, N Velez, G Callegari, ...
+Journal of pharmaceutical and biomedical analysis 117, 568-576
+Comparison of three rotational shear cell testers: Powder flowability and 99 2015
+bulk density
+S Koynov, B Glasser, F Muzzio
+Powder technology 283, 103-112
+6 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
 TITLE CITED BY YEAR
-International journal of pharmaceutics 495 (1), 612-625
-A multi-dimensional population balance model approach to continuous 84 2013
-powder mixing processes
-M Sen, R Ramachandran
-Advanced Powder Technology 24 (1), 51-59
-Computer-aided flowsheet simulation of a pharmaceutical tablet 81 2013
-manufacturing process incorporating wet granulation
-F Boukouvala, A Chaudhury, M Sen, R Zhou, L Mioduszewski, ...
-Journal of Pharmaceutical Innovation 8, 11-27
-A reduced order PBM–ANN model of a multi-scale PBM–DEM description 80 2014
-of a wet granulation process
-D Barrasso, A Tamrakar, R Ramachandran
-Chemical Engineering Science 119, 319-329
+Quantitative characterization of mixing processes in rotary calciners 98 2002
+OS Sudah, AW Chester, JA Kowalski, JW Beeckman, FJ Muzzio
+Powder technology 126 (2), 166-173
+Structure of the stretching field in chaotic cavity flows 98 1994
+M Liu, RL Peskin, FJ Muzzio, CW Leong
+AIChE journal 40 (8), 1273-1286
+Computational approaches for studying the granular dynamics of 95 2011
+continuous blending processes, 1–DEM based methods
+A Dubey, A Sarkar, M Ierapetritou, CR Wassgren, FJ Muzzio
+Macromolecular Materials and Engineering 296 (3-4), 290-307
+Enabling real time release testing by NIR prediction of dissolution of tablets 93 2016
+made by continuous direct compression (CDC)
+P Pawar, Y Wang, G Keyvan, G Callegari, A Cuitino, F Muzzio
+International journal of pharmaceutics 512 (1), 96-107
+Chemical reactions in chaotic flows 91 1996
+FJ Muzzio, M Liu
+The Chemical Engineering Journal and the Biochemical Engineering Journal 64 …
+Effect of tracer material properties on the residence time distribution (RTD) 89 2019
+of continuous powder blending operations. Part I of II: Experimental
+evaluation
+MS Escotet-Espinoza, S Moghtadernejad, S Oka, Y Wang, ...
+Powder Technology 342, 744-763
+Effects of injection location, flow ratio and geometry on Kenics mixer 86 1997
+performance
+DM Hobbs, FJ Muzzio
+AIChE Journal 43 (12), 3121-3132
+A method to analyze shear cell data of powders measured under different 85 2016
+initial consolidation stresses
+Y Wang, S Koynov, BJ Glasser, FJ Muzzio
+Powder technology 294, 105-112
+Size segregation in vibrated granular systems: A reversible process 85 1997
+D Brone, FJ Muzzio
+Physical Review E 56 (1), 1059
+Engineering tools for understanding the hydrodynamics of dissolution tests 84 2003
+J Kukura, PE Arratia, ES Szalai, FJ Muzzio
+Drug development and industrial pharmacy 29 (2), 231-239
+Using a material property library to find surrogate materials for 83 2018
+pharmaceutical process development
+MS Escotet-Espinoza, S Moghtadernejad, J Scicolone, Y Wang, G Pereira, ...
+Powder technology 339, 659-676
+7 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
+An experimental/computational approach for examining unconfined 83 2006
+cohesive powder flow
+AM Faqih, B Chaudhuri, AW Alexander, C Davies, FJ Muzzio, ...
+International journal of pharmaceutics 324 (2), 116-127
+Segregation patterns in V-blenders 83 2003
+A Alexander, FJ Muzzio, T Shinbrot
+Chemical Engineering Science 58 (2), 487-496
+Shear and flow behavior of pharmaceutical blends—Method comparison 82 2011
+study
+A Vasilenko, BJ Glasser, FJ Muzzio
+Powder Technology 208 (3), 628-636
+A homogeneity study using NIR spectroscopy: tracking magnesium 82 2003
+stearate in Bohle bin-blender
+NH Duong, P Arratia, F Muzzio, A Lange, J Timmermans, S Reynolds
+Drug development and industrial pharmacy 29 (6), 679-687
+Mixing analysis in a tank stirred with Ekato Intermig® impellers 81 2004
+ES Szalai, P Arratia, K Johnson, FJ Muzzio
+Chemical Engineering Science 59 (18), 3793-3805
+The intermaterial area density generated by time-and spatially periodic 2D 80 2000
+chaotic flows
+FJ Muzzio, MM Alvarez, S Cerbelli, M Giona, A Adrover
+Chemical Engineering Science 55 (8), 1497-1508
+Experimental and numerical characterization of viscous flow and mixing in 80 1998
+an impinging jet contactor
+DR Unger, FJ Muzzio, RS Brodkey
+The Canadian journal of chemical engineering 76 (3), 546-555
 The effects of improper mixing and preferential wetting of active and 79 2015
 excipient ingredients on content uniformity in high shear wet granulation
 S Oka, H Emady, O Kašpar, V Tokárová, F Muzzio, F Štěpánek, ...
 Powder Technology 278, 266-277
-Multi-dimensional population balance modeling and experimental validation 77 2012
-of continuous powder mixing processes
-M Sen, R Singh, A Vanarase, J John, R Ramachandran
-Chemical engineering science 80, 349-360
-Distribution and accessibility of binder in wet granules 77 2009
-F Štěpánek, P Rajniak, C Mancinelli, RT Chern, R Ramachandran
-Powder Technology 189 (2), 376-384
-Multi-component population balance modeling of continuous granulation 75 2013
-processes: A parametric study and comparison with experimental trends
-D Barrasso, S Walia, R Ramachandran
-Powder technology 241, 85-97
-Model-based control-loop performance of a continuous direct compaction 73 2011
+A method for predicting hopper flow characteristics of pharmaceutical 79 2007
+powders
+AMN Faqih, AW Alexander, FJ Muzzio, MS Tomassone
+Chemical Engineering Science 62 (5), 1536-1542
+Dynamics of a lamellar system with diffusion and reaction: Scaling analysis 79 1989
+and global kinetics
+FJ Muzzio, JM Ottino
+Physical Review A 40 (12), 7182
+Assessment of blend uniformity in a continuous tablet manufacturing 78 2019
 process
-R Ramachandran, J Arjunan, A Chaudhury, MG Ierapetritou
-Journal of Pharmaceutical Innovation 6, 249-263
+NO Sierra-Vega, A Román-Ospino, J Scicolone, FJ Muzzio, ...
+8 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
+International journal of pharmaceutics 560, 322-333
+Reduced-order discrete element method modeling 78 2013
+F Boukouvala, Y Gao, F Muzzio, MG Ierapetritou
+Chemical Engineering Science 95, 12-26
+Evolution of a lamellar system with diffusion and reaction: A scaling 78 1989
+approach
+FJ Muzzio, JM Ottino
+Physical review letters 63 (1), 47
+Diminished segregation in continuous powder mixing 76 2017
+S Oka, A Sahay, W Meng, F Muzzio
+Powder Technology 309, 79-88
+A modeling approach for understanding effects of powder flow properties 76 2009
+on tablet weight variability
+A Mehrotra, B Chaudhuri, A Faqih, MS Tomassone, FJ Muzzio
+Powder Technology 188 (3), 295-300
+Evaluating the mixing performance of a ribbon blender 76 2008
+FJ Muzzio, M Llusa, CL Goodridge, NH Duong, E Shen
+Powder technology 186 (3), 247-254
+Effects of powder flow properties on capsule filling weight uniformity 75 2013
+JG Osorio, FJ Muzzio
+Drug development and industrial pharmacy 39 (9), 1464-1475
+Simulation and experiments of mixing and segregation in a tote blender 75 2005
+OS Sudah, PE Arratia, A Alexander, FJ Muzzio
+AIChE Journal 51 (3), 836-844
+Characterizing mixing and lubrication in the Bohle Bin blender 74 2006
+PE Arratia, N Duong, FJ Muzzio, P Godbole, A Lange, S Reynolds
+Powder Technology 161 (3), 202-208
+Effects of blender rotational speed and discharge on the homogeneity of 74 2002
+cohesive and free-flowing mixtures
+OS Sudah, D Coffin-Beach, FJ Muzzio
+International Journal of Pharmaceutics 247 (1-2), 57-68
+Mixing of granular material in a drum mixer undergoing rotational and 73 1998
+rocking motions I. Uniform particles
+C Wightman, FJ Muzzio
+Powder Technology 98 (2), 113-124
+Dynamic data-driven modeling of pharmaceutical processes 72 2011
+F Boukouvala, FJ Muzzio, MG Ierapetritou
+Industrial & engineering chemistry research 50 (11), 6743-6754
+9 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
+Simulation of flow and mixing of particles in a rotating and rocking cylinder 72 1998
+C Wightman, M Moakher, FJ Muzzio, O Walton
+AIChE journal 44 (6), 1266-1276
 Near infrared spectroscopic calibration models for real time monitoring of 71 2016
 powder density
 AD Román-Ospino, R Singh, M Ierapetritou, R Ramachandran, R Méndez, ...
@@ -129,33 +397,56 @@ characteristics in a high shear wet granulation process involving a two
 component pharmaceutical blend
 S Oka, O Kašpar, V Tokárová, K Sowrirajan, H Wu, M Khan, F Muzzio, ...
 Advanced Powder Technology 26 (1), 315-322
-3 of 22 3/14/25, 9:45 PM
-Rohit Ramachandran - Google Scholar https://scholar.google.com/citations?user=tSsdVLQAAAAJ&hl=en
+Development of a methodology to estimate error in the on-line 70 2013
+measurements of blend uniformity in a continuous powder mixing process
+AU Vanarase, M Järvinen, J Paaso, FJ Muzzio
+Powder technology 241, 263-271
+Spontaneous separation of charged grains 70 2007
+A Mehrotra, FJ Muzzio, T Shinbrot
+Physical review letters 99 (5), 058001
+Fundamental approach to the design and optimization of static mixers 70 2003
+ES Szalai, FJ Muzzio
+AIChE journal 49 (11), 2687-2699
+Prediction of conductive heating time scales of particles in a rotary drum 69 2016
+HN Emady, KV Anderson, WG Borghard, FJ Muzzio, BJ Glasser, A Cuitino
+Chemical Engineering Science 152, 45-54
+The geometry of mixing in time-periodic chaotic flows. I. Asymptotic 68 1999
+directionality in physically realizable flows and global invariant properties
+M Giona, A Adrover, FJ Muzzio, S Cerbelli, MM Alvarez
+Physica D: Nonlinear Phenomena 132 (3), 298-324
+Using flow perturbations to enhance mixing of dry powders in V-blenders 68 1997
+D Brone, C Wightman, K Connor, A Alexander, FJ Muzzio, P Robinson
+Powder Technology 91 (3), 165-172
+A quantitative image analysis method for characterizing mixtures of 68 1996
+granular materials
+C Wightman, FJ Muzzio, J Wilder
+Powder Technology 89 (2), 165-176
+Diffusion and reaction in a lamellar system: Self-similarity with finite rates of 68 1990
+reaction
+FJ Muzzio, JM Ottino
+Physical Review A 42 (10), 5873
+10 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
 TITLE CITED BY YEAR
-Closed-loop feedback control of a continuous pharmaceutical tablet 70 2014
-manufacturing process via wet granulation
-R Singh, D Barrasso, A Chaudhury, M Sen, M Ierapetritou, ...
-Journal of Pharmaceutical Innovation 9, 16-37
-Flowsheet optimization of an integrated continuous purification-processing 70 2013
-pharmaceutical manufacturing operation
-M Sen, A Rogers, R Singh, A Chaudhury, J John, MG Ierapetritou, ...
-Chemical Engineering Science 102, 56-66
-Multi-scale flowsheet simulation of an integrated continuous purification– 70 2013
-downstream pharmaceutical manufacturing process
-M Sen, A Chaudhury, R Singh, J John, R Ramachandran
-International journal of pharmaceutics 445 (1-2), 29-38
-An extended cell-average technique for a multi-dimensional population 67 2013
-balance of granulation describing aggregation and breakage
-A Chaudhury, A Kapadia, AV Prakash, D Barrasso, R Ramachandran
-Advanced Powder Technology 24 (6), 962-971
-Model-based design and control of a continuous drum granulation process 66 2012
-R Ramachandran, A Chaudhury
-Chemical Engineering Research and Design 90 (8), 1063-1073
-Dynamic flowsheet model development and sensitivity analysis of a 65 2019
-continuous pharmaceutical tablet manufacturing process using the wet
-granulation route
-N Metta, M Ghijs, E Schäfer, A Kumar, P Cappuyns, I Van Assche, ...
-Processes 7 (4), 234
+Continuous direct tablet compression: effects of impeller rotation rate, total 67 2013
+feed rate and drug content on the tablet properties and drug release
+MA Järvinen, J Paaso, M Paavola, K Leiviskä, M Juuti, F Muzzio, ...
+Drug development and industrial pharmacy 39 (11), 1802-1808
+A simple correlation for predicting effective diffusivities in immobilized cell 67 1996
+systems
+MR Riley, FJ Muzzio, HM Buettner, SC Reyes
+Biotechnology and bioengineering 49 (2), 223-227
+An observed correlation between flow and electrical properties of 66 2009
+pharmaceutical blends
+KC Pingali, T Shinbrot, SV Hammond, FJ Muzzio
+Powder Technology 192 (2), 157-165
+Planar laser-induced fluorescence method for analysis of mixing in laminar 66 2004
+flows
+PE Arratia, FJ Muzzio
+Industrial & engineering chemistry research 43 (20), 6557-6568
+Mixing distributions produced by multiplicative stretching in chaotic flows 66 1992
+FJ Muzzio, PD Swanson, JM Ottino
+International journal of bifurcation and chaos 2 (01), 37-50
 Statistical analysis and comparison of a continuous high shear granulator 65 2016
 with a twin screw granulator: Effect of process parameters on critical
 granule attributes and …
@@ -165,162 +456,354 @@ A combined feed-forward/feed-back control system for a QbD-based 65 2015
 continuous tablet manufacturing process
 R Singh, FJ Muzzio, M Ierapetritou, R Ramachandran
 Processes 3 (2), 339-356
+Granular segregation in the double-cone blender: transitions and 65 2001
+mechanisms
+AW Alexander, T Shinbrot, FJ Muzzio
+Physics of Fluids 13 (3), 578-587
+Mixing dynamics in catalyst impregnation in double-cone blenders 65 1999
+AW Chester, JA Kowalski, ME Coles, EL Muegge, FJ Muzzio, D Brone
+Powder Technology 102 (1), 85-94
+Batch uptake of lysozyme: effect of solution viscosity and mass transfer on 65 1998
+adsorption
+PR Wright, FJ Muzzio, BJ Glasser
+Biotechnology progress 14 (6), 913-921
 Computational Approaches for Studying the Granular Dynamics of 64 2012
 Continuous Blending Processes, 2–Population Balance and Data-Based
+11 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
 Methods
 F Boukouvala, A Dubey, A Vanarase, R Ramachandran, FJ Muzzio, ...
 Macromolecular Materials and Engineering 297 (1), 9-19
-4 of 22 3/14/25, 9:45 PM
-Rohit Ramachandran - Google Scholar https://scholar.google.com/citations?user=tSsdVLQAAAAJ&hl=en
-TITLE CITED BY YEAR
-A combined experimental and modeling approach to study the effects of 62 2013
-high-shear wet granulation process parameters on granule characteristics
-P Pandey, J Tao, A Chaudhury, R Ramachandran, JZ Gao, DS Bindra
-Pharmaceutical development and technology 18 (1), 210-224
-Recent advances in integrated process analytical techniques, modeling, 60 2022
-and control strategies to enable continuous biomanufacturing of
-monoclonal antibodies
-V Chopda, A Gyorgypal, O Yang, R Singh, R Ramachandran, H Zhang, ...
-Journal of Chemical Technology & Biotechnology 97 (9), 2317-2335
-Model predictive control of continuous drum granulation 60 2009
-T Glaser, CFW Sanders, FY Wang, IT Cameron, JD Litster, JMH Poon, ...
-Journal of Process Control 19 (4), 615-622
+V-blender segregation patterns for free-flowing materials: effects of blender 62 2004
+capacity and fill level
+A Alexander, T Shinbrot, B Johnson, FJ Muzzio
+International journal of pharmaceutics 269 (1), 19-28
+Effect of material properties on the residence time distribution (RTD) 61 2019
+characterization of powder blending unit operations. Part II of II: Application
+of models
+MS Escotet-Espinoza, S Moghtadernejad, S Oka, Z Wang, Y Wang, ...
+Powder technology 344, 525-544
+Hybrid DEM-compartment modeling approach for granular mixing 60 2007
+PM Portillo, FJ Muzzio, MG Ierapetritou
+AIChE Journal 53 (1), 119-128
+Effect of feed frame design and operating parameters on powder attrition, 59 2012
+particle breakage, and powder properties
+R Mendez, C Velazquez, FJ Muzzio
+Powder technology 229, 253-260
 Advanced process design and understanding of continuous twin-screw 58 2019
 granulation via implementation of in-line process analytical technologies
 W Meng, AD Román-Ospino, SS Panikar, C O'Callaghan, SJ Gilliam, ...
 Advanced Powder Technology 30 (4), 879-894
-Mathematical development and comparison of a hybrid PBM-DEM 58 2013
-description of a continuous powder mixing process
-M Sen, A Dubey, R Singh, R Ramachandran
-Journal of Powder Technology 2013 (1), 843784
-A mechanistic population balance model for granulation processes: effect 56 2014
-of process and formulation parameters
-A Chaudhury, H Wu, M Khan, R Ramachandran
-Chemical Engineering Science 107, 76-92
+Optimizing continuous powder mixing processes using periodic section 58 2012
+modeling
+Y Gao, FJ Muzzio, MG Ierapetritou
+Chemical Engineering Science 80, 70-80
+Powder hydrophobicity and flow properties: Effect of feed frame design and 58 2012
+operating parameters
+R Mendez, FJ Muzzio, C Velazquez
+AIChE journal 58 (3), 697-706
+Effect of resonant acoustic mixing on pharmaceutical powder blends and 57 2016
+tablets
+JG Osorio, K Sowrirajan, FJ Muzzio
+Advanced Powder Technology 27 (4), 1141-1148
+Role of consolidation state in the measurement of bulk density and 55 2013
+cohesion
+A Vasilenko, S Koynov, BJ Glasser, FJ Muzzio
+Powder technology 239, 366-373
+Pharmaceutical engineering science-new approaches to pharmaceutical 55 2010
+development and manufacturing
+GV Reklaitis, J Khinast, F Muzzio
+12 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
+Chemical Engineering Science 65 (21), iv-vii
+Predictive modeling for pharmaceutical processes using kriging and 55 2009
+response surface
+Z Jia, E Davis, FJ Muzzio, MG Ierapetritou
+Journal of Pharmaceutical Innovation 4, 174-186
+Effects of scale and inertia on granular banding segregation 55 2004
+A Alexander, FJ Muzzio, T Shinbrot
+Granular Matter 5, 171-175
+Mixing in globally chaotic flows: a self-similar process 55 1997
+DM Hobbs, MM Alvarez, FJ Muzzio
+Fractals 5 (03), 395-425
+Numerical analysis of motion and deposition of particles in cascade 55 1996
+impactors
+PD Swanson, FJ Muzzio, A Annapragada, A Adjei
+International Journal of Pharmaceutics 142 (1), 33-51
+The structure of mixtures of particles generated by time-dependent flows 55 1995
+C Wightman, PR Mort, FJ Muzzio, RE Riman, EK Gleason
+Powder technology 84 (3), 231-240
+Practical methods for improving flow properties of active pharmaceutical 54 2009
+ingredients
+KC Pingali, K Saranteas, R Foroughi, FJ Muzzio
+Drug development and industrial pharmacy 35 (12), 1460-1469
+Method of chaotic mixing and improved stirred tank reactors 54 1999
+FJ Muzzio, DJ Lamberto
+US Patent 5,921,679
+Quality by design methodology for development and scale-up of batch 53 2008
+mixing processes
+PM Portillo, M Ierapetritou, S Tomassone, C Mc Dade, D Clancy, ...
+Journal of Pharmaceutical Innovation 3, 258-270
+Solids mixing 53 2003
+FJ Muzzio, A Alexander, C Goodridge, E Shen, T Shinbrot, K Manjunath, ...
+Handbook of Industrial Mixing: Science and Practice, 887-985
+Mixing dynamics in the SMX static mixer as a function of injection location 53 2003
+and flow ratio
+JM Zalc, ES Szalai, FJ Muzzio
+Polymer Engineering & Science 43 (4), 875-890
 Analysis of the origins of content non-uniformity in high-shear wet 52 2017
 granulation
 S Oka, D Smrčka, A Kataria, H Emady, F Muzzio, F Štěpánek, ...
 International journal of pharmaceutics 528 (1-2), 578-585
-Qualitative assessment of a multi-scale, compartmental PBM-DEM model 51 2016
-of a continuous twin-screw wet granulation process
-D Barrasso, R Ramachandran
-Journal of Pharmaceutical Innovation 11, 231-249
-Population balance model validation and predictionof CQAs for Continuous 51 2013
-milling processes: Toward QbDin pharmaceutical drug product
-manufacturing
-D Barrasso, S Oka, A Muliadi, JD Litster, C Wassgren, R Ramachandran
-Journal of Pharmaceutical Innovation 8, 147-162
-Multi-dimensional mechanistic modeling of fluid bed granulation processes: 51 2013
-an integrated approach
-A Chaudhury, A Niziolek, R Ramachandran
-Advanced Powder Technology 24 (1), 113-131
-5 of 22 3/14/25, 9:45 PM
-Rohit Ramachandran - Google Scholar https://scholar.google.com/citations?user=tSsdVLQAAAAJ&hl=en
+13 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
 TITLE CITED BY YEAR
-Analyzing the mixing dynamics of an industrial batch bin blender via 47 2017
-discrete element modeling method
-M Sen, S Karkala, S Panikar, O Lyngberg, M Johnson, A Marchut, ...
-Processes 5 (2), 22
-Population balance model development, validation, and prediction of CQAs 47 2014
-of a high-shear wet granulation process: towards QbD in drug product
-pharmaceutical manufacturing
-A Chaudhury, D Barrasso, P Pandey, H Wu, R Ramachandran
-Journal of Pharmaceutical Innovation 9, 53-64
-CFD–DEM–PBM coupled model development and validation of a 3D top- 44 2019
-spray fluidized bed wet granulation process
-A Tamrakar, R Ramachandran
-Computers & Chemical Engineering 125, 249-270
-Raman spectroscopy for in-line and off-line quantification of poorly soluble 44 2014
-drugs in strip films
-J Zhang, Y Ying, B Pielecha-Safira, E Bilgili, R Ramachandran, ...
-International Journal of Pharmaceutics 475 (1-2), 428-437
-A multiscale DEM-PBM approach for a continuous comilling process using 43 2018
-a mechanistically developed breakage kernel
-N Metta, M Ierapetritou, R Ramachandran
-Chemical Engineering Science 178, 211-221
-Combined UV/vis and micro-tomography investigation of acetaminophen 43 2013
-dissolution from granules
-O Kašpar, V Tokárová, S Oka, K Sowrirajan, R Ramachandran, ...
-International journal of pharmaceutics 458 (2), 272-281
-Calibration of discrete-element-method parameters for cohesive materials 41 2019
-using dynamic-yield-strength and shear-cell experiments
-S Karkala, N Davis, C Wassgren, Y Shi, X Liu, C Riemann, G Yacobian, ...
-Processes 7 (5), 278
-Continuous feeding of low-dose APIs via periodic micro dosing 39 2016
-MO Besenhard, SK Karkala, E Faulhammer, S Fathollahi, ...
-International journal of pharmaceutics 509 (1-2), 123-134
-Model development and prediction of particle size distribution, density and 38 2018
-friability of a comilling operation in a continuous pharmaceutical
-manufacturing process
-N Metta, M Verstraeten, M Ghijs, A Kumar, E Schafer, R Singh, T De Beer, ...
-International journal of pharmaceutics 549 (1-2), 271-282
-A systematic framework for data management and integration in a 36 2018
-continuous pharmaceutical manufacturing processing line
-H Cao, S Mushnoori, B Higgins, C Kollipara, A Fermier, D Hausner, S Jha, ...
-Processes 6 (5), 53
-6 of 22 3/14/25, 9:45 PM
-Rohit Ramachandran - Google Scholar https://scholar.google.com/citations?user=tSsdVLQAAAAJ&hl=en
+Effect of hydrodynamics on reactive mixing in laminar flows 52 2003
+ES Szalai, J Kukura, PE Arratia, FJ Muzzio
+AIChE journal 49 (1), 168-179
+Mixing of granular material in a drum mixer undergoing rotational and 52 1998
+rocking motions II. Segregating particles
+C Wightman, FJ Muzzio
+Powder Technology 98 (2), 125-134
+Self-similar drop-size distributions produced by breakup in chaotic flows 52 1991
+FJ Muzzio, M Tjahjadi, JM Ottino
+Physical review letters 67 (1), 54
+Segregated regions in continuous laminar stirred tank reactors 51 2004
+PE Arratia, JP Lacombe, T Shinbrot, FJ Muzzio
+Chemical Engineering Science 59 (7), 1481-1490
+Measuring the hydrophobicity of lubricated blends of pharmaceutical 50 2010
+excipients
+M Llusa, M Levin, RD Snee, FJ Muzzio
+Powder technology 198 (1), 101-107
+Shear-induced variability in the United States Pharmacopeia Apparatus 2: 50 2005
+modifications to the existing system
+JL Baxter, J Kukura, FJ Muzzio
+The AAPS Journal 7, E857-E864
+Parallel-competitive reactions in a two-dimensional chaotic flow 50 1999
+JM Zalc, FJ Muzzio
+Chemical Engineering Science 54 (8), 1053-1069
+Characterization of pharmaceutical powder blends using in situ near- 49 2014
+infrared chemical imaging
+JG Osorio, G Stuessy, GJ Kemeny, FJ Muzzio
+Chemical Engineering Science 108, 244-257
+Determination of the confidence interval of the relative standard deviation 49 2013
+using convolution
+Y Gao, MG Ierapetritou, FJ Muzzio
+Journal of Pharmaceutical Innovation 8, 72-82
+Periodic section modeling of convective continuous powder mixing 49 2012
+processes
+Y Gao, M Ierapetritou, F Muzzio
+AIChE Journal 58 (1), 69-78
+Novel bioreactor design for the culture of suspended mammalian cells. Part 49 2006
+I: Mixing characterization
+MIS Cervantes, J Lacombe, FJ Muzzio, MM Álvarez
+Chemical Engineering Science 61 (24), 8075-8084
+14 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
 TITLE CITED BY YEAR
+Effect of speed, loading and spray pattern on coating variability in a pan 48 2011
+coater
+A Dubey, R Hsia, K Saranteas, D Brone, T Misra, FJ Muzzio
+Chemical engineering science 66 (21), 5107-5115
+Predictive modeling of pharmaceutical processes with missing and noisy 48 2010
+data
+F Boukouvala, FJ Muzzio, MG Ierapetritou
+AIChE journal 56 (11), 2860-2872
+Flow-induced dilation of cohesive granular materials 48 2006
+AM Faqih, B Chaudhuri, FJ Muzzio, MS Tomassone, A Alexander, ...
+AIChE journal 52 (12), 4124-4132
+Capillary drop penetration method to characterize the liquid wetting of 47 2017
+powders
+Z Liu, Y Wang, FJ Muzzio, G Callegari, G Drazer
+Langmuir 33 (1), 56-65
+Characterization of resonant acoustic mixing using near-infrared chemical 47 2016
+imaging
+JG Osorio, E Hernández, RJ Romañach, FJ Muzzio
+Powder Technology 297, 349-356
+Characterization of feeder effects on continuous solid mixing using fourier 47 2011
+series analysis
+Y Gao, F Muzzio, M Ierapetritou
+AIChE Journal 57 (5), 1144-1153
+Granular flow and dielectrophoresis: The effect of electrostatic forces on 47 2010
+adhesion and flow of dielectric granular materials
+KR LaMarche, FJ Muzzio, T Shinbrot, BJ Glasser
+Powder Technology 199 (2), 180-188
+Use of a static eliminator to improve powder flow 47 2009
+KC Pingali, SV Hammond, FJ Muzzio, T Shinbrot
+International journal of pharmaceutics 369 (1-2), 2-4
+Using compartment modeling to investigate mixing behavior of a 47 2008
+continuous mixer
+PM Portillo, FJ Muzzio, MG Ierapetritou
+Journal of Pharmaceutical Innovation 3, 161-174
+Characterizing powder mixing processes utilizing compartment models 47 2006
+PM Portillo, FJ Muzzio, MG Ierapetritou
+International Journal of Pharmaceutics 320 (1-2), 14-22
+Predicting flow behavior of pharmaceutical blends using shear cell 46 2016
+methodology: a quality by design approach
+Y Wang, RD Snee, W Meng, FJ Muzzio
+Powder technology 294, 22-29
+15 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
+A training on: continuous manufacturing (direct compaction) of solid dose 45 2018
+pharmaceutical products
+S Moghtadernejad, MS Escotet-Espinoza, S Oka, R Singh, Z Liu, ...
+Journal of pharmaceutical innovation 13, 155-187
+Comparing mixing performance of uniaxial and biaxial bin blenders 45 2009
+A Mehrotra, FJ Muzzio
+Powder Technology 196 (1), 1-7
+Attraction of minute particles to invariant regions of volume preserving 44 2001
+flows by transients
+T Shinbrot, MM Alvarez, JM Zalc, FJ Muzzio
+Physical Review Letters 86 (7), 1207
+Chaotic granular mixing 44 1999
+T Shinbrot, A Alexander, M Moakher, FJ Muzzio
+Chaos: An Interdisciplinary Journal of Nonlinear Science 9 (3), 611-620
+Evaluation of strain-induced hydrophobicity of pharmaceutical blends and 43 2011
+its effect on drug release rate under multiple compression conditions
+K Pingali, R Mendez, D Lewis, B Michniak-Kohn, A Cuitiño, F Muzzio
+Drug development and industrial pharmacy 37 (4), 428-435
+Statistical comparison of dissolution profiles 42 2016
+Y Wang, RD Snee, G Keyvan, FJ Muzzio
+Drug Development and Industrial Pharmacy 42 (5), 796-807
+Recommendations for the assessment of blend and content uniformity: 40 2015
+modifications to withdrawn FDA draft stratified sampling guidance
+T Garcia, J Bergum, J Prescott, R Tejwani, T Parks, J Clark, W Brown, ...
+Journal of Pharmaceutical Innovation 10, 76-83
+Measurement of residence time distribution in a rotary calciner 40 2013
+Y Gao, BJ Glasser, MG Ierapetritou, A Cuitino, FJ Muzzio, JW Beeckman, ...
+AIChE Journal 59 (11), 4068-4076
+Mixing of cohesive pharmaceutical formulations in tote (bin) blenders 40 2002
+OS Sudah, PE Arratia, D Coffin-Beach, FJ Muzzio
+Drug development and industrial pharmacy 28 (8), 905-918
+Modeling the effects of material properties on tablet compaction: A building 39 2018
+block for controlling both batch and continuous pharmaceutical
+manufacturing processes
+MS Escotet-Espinoza, S Vadodaria, R Singh, FJ Muzzio, MG Ierapetritou
+International Journal of Pharmaceutics 543 (1-2), 274-287
+Diffusion in heterogeneous media: application to immobilized cell systems 38 1995
+MR Riley, FJ Muzzio, HM Buettner, SC Reyes
+AIChE journal 41 (3), 691-700
+16 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
+Coagulation in chaotic flows 38 1988
+FJ Muzzio, JM Ottino
+Physical Review A 38 (5), 2516
+Effects of processing parameters and blade patterns on continuous 37 2016
+pharmaceutical powder mixing
+JG Osorio, FJ Muzzio
+Chemical Engineering and Processing-Process Intensification 109, 59-67
+Improvement of tablet coating uniformity using a quality by design 37 2012
+approach
+A Dubey, F Boukouvala, G Keyvan, R Hsia, K Saranteas, D Brone, T Misra, ...
+AAPS PharmSciTech 13, 231-246
+Computational and experimental investigation of flow and fluid mixing in the 37 2000
+roller bottle bioreactor
+DR Unger, FJ Muzzio, JG Aunins, R Singhvi
+Biotechnology and bioengineering 70 (2), 117-130
+The use of stratified sampling of blend and dosage units to demonstrate 36 2003
+adequacy of mix for powder blends
+G Boehm, J Clark, J Dietrick, L Foust, T Garcia, M Gavini, L Gelber, ...
+PDS J Pharm Sci Tech 57, 59-74
+Modeling and experimental validation of volatile organic contaminant 36 1997
+diffusion through an unsaturated soil
+R Arands, T Lam, I Massry, DH Berler, FJ Muzzio, DS Kosson
+Water Resources Research 33 (4), 599-609
 Prediction of dissolution profiles by non-destructive NIR spectroscopy in 35 2019
 bilayer tablets
 Y Baranwal, AD Román-Ospino, G Keyvan, JM Ha, EP Hong, FJ Muzzio, ...
 International Journal of Pharmaceutics 565, 419-436
-Model order reduction of a multi-scale PBM-DEM description of a wet 34 2015
-granulation process via ANN
-D Barrasso, A Tamrakar, R Ramachandran
-Procedia Engineering 102, 1295-1304
-A quantitative assessment of the influence of primary particle size 34 2012
-polydispersity on granule inhomogeneity
-R Ramachandran, MA Ansari, A Chaudhury, A Kapadia, AV Prakash, ...
-Chemical Engineering Science 71, 104-110
-Mechanistic understanding of the effects of process and design parameters 31 2021
-on the mixing dynamics in continuous twin-screw granulation
-L Kotamarthy, R Ramachandran
-Powder Technology 390, 73-85
-A hybrid MPC-PID control system design for the continuous purification and 31 2014
-processing of active pharmaceutical ingredients
-M Sen, R Singh, R Ramachandran
-Processes 2 (2), 392-418
-Simulation of population balance model-based particulate processes via 31 2013
-parallel and distributed computing
-AV Prakash, A Chaudhury, D Barrasso, R Ramachandran
-Chemical Engineering Research and Design 91 (7), 1259-1271
-Granule formation and structure from single drop impact on heterogeneous 30 2018
-powder beds
-T Gao, ASS Singaravelu, S Oka, R Ramachandran, F Štepánek, ...
-International Journal of Pharmaceutics 552 (1-2), 56-66
-Compartment based population balance model development of a high 30 2017
-shear wet granulation process via dry and wet binder addition
-A Chaturbedi, CK Bandi, D Reddy, P Pandey, A Narang, D Bindra, L Tao, ...
-Chemical Engineering Research and Design 123, 187-200
-Integrated moving horizon-based dynamic real-time optimization and hybrid 30 2015
-MPC-PID control of a direct compaction continuous tablet manufacturing
-process
-R Singh, M Sen, M Ierapetritou, R Ramachandran
-Journal of Pharmaceutical Innovation 10, 233-253
-Evaluation of parameter estimation methods for crystallization processes 30 2015
-modeled via population balance equations
-MO Besenhard, A Chaudhury, T Vetter, R Ramachandran, JG Khinast
-Chemical Engineering Research and Design 94, 275-289
-7 of 22 3/14/25, 9:45 PM
-Rohit Ramachandran - Google Scholar https://scholar.google.com/citations?user=tSsdVLQAAAAJ&hl=en
+Continuous powder mixing 35 2015
+JG Osorio, AU Vanarase, RJ Romañach, FJ Muzzio
+Pharmaceutical blending and mixing, 101-127
+Experimental and modeling studies of diffusion in immobilized cell systems: 35 1999
+a review of recent literature and patents
+MR Riley, FJ Muzzio, SC Reyes
+Applied biochemistry and biotechnology 80, 151-188
+The effect of mechanical strain on properties of lubricated tablets 33 2016
+compacted at different pressures
+P Pawar, H Joo, G Callegari, G Drazer, AM Cuitino, FJ Muzzio
+Powder Technology 301, 657-664
+Analysis of pharmaceutical tablet coating uniformity by laser-induced 33 2011
+breakdown spectroscopy (LIBS)
+A Dubey, G Keyvan, R Hsia, K Saranteas, D Brone, T Misra, FJ Muzzio
+17 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
 TITLE CITED BY YEAR
-A computationally efficient technique for the solution of multi-dimensional 30 2014
-PBMs of granulation via tensor decomposition
-A Chaudhury, I Oseledets, R Ramachandran
-Computers & chemical engineering 61, 234-244
-A novel adaptive sampling based methodology for feasible region 29 2021
-identification of compute intensive models using artificial neural network
-N Metta, R Ramachandran, M Ierapetritou
-AIChE Journal 67 (2), e17095
+Journal of pharmaceutical innovation 6, 77-87
+Understanding pharmaceutical flows 33 2002
+J Kukura, PC Arratia, ES Szalai, KJ Bittorf, FJ Muzzio
+Pharmaceutical technology 26 (10), 48-73
+An improved powder-sampling tool 33 1999
+FJ Muzzio, M Roddy, D Brone, AW Alexander, O Sudan
+Pharmaceutical technology 23 (4), 92
+Monte Carlo simulation of diffusion and reaction in two-dimensional cell 33 1995
+structures
+MR Riley, HM Buettner, FJ Muzzio, SC Reyes
+Biophysical journal 68 (5), 1716-1726
+Scale up of powder-blending operations 32 2005
+FJ Muzzio, AW Alexander
+Pharmaceutical Technology 26, 34-41
+Analytic expression for the short-time rate of growth of the intermaterial 32 1998
+contact perimeter in two-dimensional chaotic flows and Hamiltonian
+systems
+A Adrover, M Giona, FJ Muzzio, S Cerbelli, MM Alvarez
+Physical Review E 58 (1), 447
+Scaling of heat transfer and temperature distribution in granular flows in 31 2016
+rotating drums
+B Yohannes, H Emady, K Anderson, I Paredes, M Javed, W Borghard, ...
+Physical Review E 94 (4), 042902
+Using residence time distribution in pharmaceutical solid dose 30 2021
+manufacturing–A critical review
+P Bhalode, H Tian, S Gupta, SM Razavi, A Roman-Ospino, S Talebian, ...
+International journal of Pharmaceutics 610, 121248
+Mixing of non-Newtonian fluids in steadily forced systems 30 2005
+PE Arratia, T Shinbrot, MM Alvarez, FJ Muzzio
+Physical review letters 94 (8), 084501
+Effects of mill design and process parameters in milling dry extrudates 29 2015
+A Vanarase, R Aslam, S Oka, F Muzzio
+Powder Technology 278, 84-93
+Formulation and manufacture of pharmaceuticals by fluidized-bed 29 2013
+impregnation of active pharmaceutical ingredients onto porous carriers
+PI Grigorov, BJ Glasser, FJ Muzzio
+AIChE Journal 59 (12), 4538-4552
+Laminar mixing: a dynamical systems approach 29 2003
+ES Szalai, MM Alvarez, FJ Muzzio
+Handbook of industrial mixing: science and practice, 89-143
+18 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
+The curvature of material lines in chaotic cavity flows 29 1996
+M Liu, FJ Muzzio
+Physics of Fluids 8 (1), 75-83
+Identifying a loss-in-weight feeder design space based on performance and 28 2020
+material properties
+T Li, JV Scicolone, E Sanchez, FJ Muzzio
+Journal of Pharmaceutical Innovation 15, 482-495
+The effect of operating conditions on the residence time distribution and 28 2017
+axial dispersion coefficient of a cohesive powder in a rotary kiln
+IJ Paredes, B Yohannes, H Emady, BJ Glasser, WG Borghard, F Muzzio, ...
+Chemical Engineering Science 158, 50-57
+A simple color concentration measurement technique for powders 28 2015
+HN Emady, M Wittman, S Koynov, WG Borghard, FJ Muzzio, BJ Glasser, ...
+Powder Technology 286, 392-400
 A comprehensive analysis and optimization of continuous twin-screw 27 2019
 granulation processes via sequential experimentation strategy
 W Meng, KS Rao, RD Snee, R Ramachandran, FJ Muzzio
 International Journal of Pharmaceutics 556, 349-362
-Compartment based population balance modeling of a high shear wet 27 2015
-granulation process using data analytics
-A Chaudhury, ME Armenante, R Ramachandran
-Chemical Engineering Research and Design 95, 211-228
+A drop penetration method to measure powder blend wettability 27 2018
+Y Wang, Z Liu, F Muzzio, G Drazer, G Callegari
+International journal of pharmaceutics 538 (1-2), 112-118
+Scale-up strategy for continuous powder blending process 26 2013
+Y Gao, FJ Muzzio, MG Ierapetritou
+Powder technology 235, 55-69
+Impact of process parameters on critical performance attributes of a 26 2012
+continuous blender—A DEM-based study
+A Dubey, AU Vanarase, FJ Muzzio
+AIChE journal 58 (12), 3676-3684
 Computer aided design and analysis of continuous pharmaceutical 26 2011
 manufacturing processes
 F Boukouvala, R Ramachandran, A Vanarase, FJ Muzzio, MG Ierapetritou
@@ -329,126 +812,217 @@ Sampling optimization for blend monitoring of a low dose formulation in a 24 202
 tablet press feed frame using spatially resolved near-infrared spectroscopy
 AD Román-Ospino, Y Baranwal, J Li, J Vargas, B Igne, S Bate, ...
 International Journal of Pharmaceutics 602, 120594
-A dem model-based study to quantitatively compare the effect of wet and 24 2019
-dry binder addition in high-shear wet granulation processes
-A Tamrakar, SW Chen, R Ramachandran
-Chemical Engineering Research and Design 142, 307-326
 Flowsheet models modernize pharmaceutical manufacturing design and 24 2015
 risk assessment: in silico design facilitates process optimization and
 evaluation of process control strategies
 MS Escotet-Espinoza, R Singh, M Sen, T O'Connor, S Lee, S Chatterjee, ...
 Pharmaceutical Technology 39 (4), 34-41
-Model development and validation of fluid bed wet granulation with dry 23 2018
-binder addition using a population balance model methodology
-SV Muddu, A Tamrakar, P Pandey, R Ramachandran
-Processes 6 (9), 154
-Mechanistic understanding of granule growth behavior in bi-component wet 22 2020
-granulation processes with wettability differentials
-I Muthancheri, R Ramachandran
-Powder technology 367, 841-859
-8 of 22 3/14/25, 9:45 PM
-Rohit Ramachandran - Google Scholar https://scholar.google.com/citations?user=tSsdVLQAAAAJ&hl=en
+19 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
 TITLE CITED BY YEAR
+Quantitative on-line vs. off-line NIR analysis of fluidized bed drying with 24 2013
+consideration of the spectral background
+N Heigl, DM Koller, BJ Glasser, FJ Muzzio, JG Khinast
+European Journal of Pharmaceutics and Biopharmaceutics 85 (3), 1064-1074
+Batch size increase in dry blending and mixing 24 2005
+AW Alexander, FJ Muzzio
+Pharmaceutical process scale-up, 195-214
+Prediction and quantification of micromixing intensities in laminar flows 24 2002
+S Cerbelli, MM Alvarez, FJ Muzzio
+AIChE journal 48 (4), 686-700
+The evolution of material lines curvature in deterministic chaotic flows 24 2000
+S Cerbelli, JM Zalc, FJ Muzzio
+Chemical engineering science 55 (2), 363-371
+Effects of manifolds and corner singularities on stretching in chaotic cavity 24 1994
+flows
+M Liu, FJ Muzzio, RL Peskin
+Chaos, Solitons & Fractals 4 (12), 2145-2167
+Controlled shear system and resonant acoustic mixing: Effects on 23 2017
+lubrication and flow properties of pharmaceutical blends
+Y Wang, JG Osorio, T Li, FJ Muzzio
+Powder Technology 322, 332-339
+Measurement of the axial dispersion coefficient of powders in a rotating 23 2016
+cylinder: dependence on bulk flow properties
+S Koynov, Y Wang, A Redere, P Amin, HN Emady, FJ Muzzio, BJ Glasser
+Powder Technology 292, 298-306
+Constitutive model to predict flow of cohesive powders in bench scale 23 2010
+hoppers
+AMN Faqih, B Chaudhuri, A Mehrotra, MS Tomassone, F Muzzio
+Chemical engineering science 65 (10), 3341-3351
 Combined feedforward/feedback control of an integrated continuous 22 2019
 granulation process
 GC Pereira, SV Muddu, AD Román-Ospino, D Clancy, B Igne, C Airiau, ...
 Journal of Pharmaceutical Innovation 14, 259-285
-Process simulation and data modeling in solid oral drug development and 22 2016
-manufacture
-MG Ierapetritou, R Ramachandran
-Humana Press
-Understanding the effect of granulation and milling process parameters on 21 2020
-the quality attributes of milled granules
-L Kotamarthy, N Metta, R Ramachandran
-Processes 8 (6), 683
-Optimization of key energy and performance metrics for drug product 20 2023
-manufacturing
-Y Chen, L Kotamarthy, A Dan, C Sampat, P Bhalode, R Singh, BJ Glasser, ...
-International Journal of Pharmaceutics 631, 122487
+Design of an integrated continuous manufacturing system 22 2017
+SS Oka, MS Escotet-Espinoza, R Singh, JV Scicolone, DB Hausner, ...
+Continuous Manufacturing of Pharmaceuticals, 405-446
+Assessment of blend and content uniformity. Technical discussion of 22 2015
+sampling plans and application of ASTM E2709/E2810
+J Bergum, T Parks, J Prescott, R Tejwani, J Clark, W Brown, F Muzzio, ...
+Journal of Pharmaceutical Innovation 10, 84-97
+20 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
+Investigation on the effect of blade patterns on continuous solid mixing 22 2011
+performance
+Y Gao, M Ierapetritou, F Muzzio
+The Canadian Journal of Chemical Engineering 89 (5), 969-984
+Segregation in granular materials and the direct measurement of surface 22 2004
+forces using atomic force microscopy
+NH Duong, E Shen, T Shinbrot, F Muzzio
+Powder technology 145 (1), 69-72
+Computational and experimental investigation of flow and particle settling in 22 1999
+a roller bottle bioreactor
+FJ Muzzio, DR Unger, M Liu, J Bramble, J Searles, P Fahnestock
+Biotechnology and bioengineering 63 (2), 185-196
+Computational approaches to granular segregation in tumbling blenders 21 2001
+T Shinbrot, M Zeggio, FJ Muzzio
+Powder technology 116 (2-3), 224-231
+Fractal structure of a dissipative particle-fluid system in a time-dependent 21 1994
+chaotic flow
+M Liu, RL Peskin, FJ Muzzio
+Physical Review E 50 (5), 4245
+Monte Carlo calculation of effective diffusivities in two-and three- 21 1994
+dimensional heterogeneous materials of variable structure
+MR Riley, FJ Muzzio, HM Buettner, SC Reyes
+Physical Review E 49 (4), 3500
+Aggregation and structure formation in chaotic and regular flows 21 1991
+TJ Danielson, FJ Muzzio, JM Ottino
+Physical review letters 66 (24), 3128
 Flexible multipurpose continuous processing of pharmaceutical tablet 20 2012
 manufacturing process
 R Singh, F Boukouvala, E Jayjock, R Ramachandran, M Ierapetritou, ...
 GMP News, European Compliance Academic (ECE)
-A parallel unidirectional coupled DEM-PBM model for the efficient 19 2018
-simulation of computationally intensive particulate process systems
-C Sampat, F Bettencourt, Y Baranwal, I Paraskevakos, A Chaturbedi, ...
-Computers & Chemical Engineering 119, 128-142
-Process identification using open-loop and closed-loop step responses 19 2005
-R Ramachandran, S Lakshminarayanan, GP Rangaiah
-Journal of The Institution of Engineers, Singapore 45 (6)
-Enabling energy-efficient manufacturing of pharmaceutical solid oral 18 2022
-dosage forms via integrated techno-economic analysis and advanced
-process modeling
-C Sampat, L Kotamarthy, P Bhalode, Y Chen, A Dan, S Parvani, ...
-Journal of Advanced Manufacturing and Processing 4 (4), e10136
-A computationally efficient surrogate-based reduction of a multiscale Comill 18 2020
-process model
-N Metta, R Ramachandran, M Ierapetritou
-Journal of Pharmaceutical Innovation 15, 424-444
+Shear-induced APAP de-agglomeration 20 2009
+M Llusa, M Levin, RD Snee, FJ Muzzio
+Drug development and industrial pharmacy 35 (12), 1487-1495
+Effect of high shear blending protocols and blender parameters on the 20 2009
+degree of API agglomeration in solid formulations
+M Llusa, K Sturm, O Sudah, H Stamato, DJ Goldfarb, H Ramachandruni, ...
+Industrial & Engineering Chemistry Research 48 (1), 93-101
+Prediction of tablet weight variability in continuous manufacturing 19 2020
+SM Razavi, J Scicolone, RD Snee, A Kumar, J Bertels, P Cappuyns, ...
+International journal of pharmaceutics 575, 118727
+21 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
+A forward-looking approach to process scale-up for solid dose 19 2008
+manufacturing
+FJ Muzzio, M Ierapetritou, P Portillo, M Llusa, M Levin, KR Morris, ...
+Pharmaceutical Dosage Forms-Tablets, 135-168
+Characterization of the performance of bin blenders Part 3 of 3: cohesive 19 2004
+powders: in this final part of a series of three articles, the results from
+experiments involving …
+A Alexander, O Sudah, P Arratia, NH Duong, S Reynolds, F Muzzio
+Pharmaceutical technology 28 (9), 54-65
+Characterization of the performance of bin blenders: Part 1 of 3: 19 2004
+methodology
+A Alexander, P Arratia, C Goodridge, O Sudah, D Brone, F Muzzio
+Pharmaceutical Technology 28 (5), 70-86
+The geometry of mixing in 2-d time-periodic chaotic flows 19 2000
+M Giona, A Adrover, FJ Muzzio, S Cerbelli
+Chemical engineering science 55 (2), 381-389
+The curvature of material lines in a three-dimensional chaotic flow 19 1998
+DM Hobbs, FJ Muzzio
+Physics of Fluids 10 (8), 1942-1952
+Important factors in the size reduction of polymer-stabilized drug particle 18 2011
+suspensions using high-pressure homogenization
+FS Romanski, E Jayjock, FJ Muzzio, MS Tomassone
+Journal of Pharmaceutical Innovation 6 (2), 97-106
+Effect of resin characteristics on fluidized bed adsorption of proteins 18 1999
+PR Wright, FJ Muzzio, BJ Glasser
+Biotechnology progress 15 (5), 932-940
+Non-uniform stationary measure properties of chaotic area-preserving 18 1998
+dynamical systems
+M Giona, S Cerbelli, FJ Muzzio, A Adrover
+Physica A: Statistical Mechanics and its Applications 254 (3-4), 451-465
+Chaotic motion of fluid and solid particles in plane wakes 18 1997
+AM Froncioni, FJ Muzzio, RL Peskin, PD Swanson
+Chaos, Solitons & Fractals 8 (1), 109-130
+SEM/EDX and Raman chemical imaging of pharmaceutical tablets: A 17 2022
+comparison of tablet surface preparation and analysis methods
+S Gupta, T Omar, FJ Muzzio
+International Journal of Pharmaceutics 611, 121331
 Characterization of NIR interfaces for the feeding and in-line monitoring of 17 2020
 a continuous granulation process
 AD Román-Ospino, A Tamrakar, B Igne, ET Dimaso, C Airiau, DJ Clancy, ...
 International Journal of Pharmaceutics 574, 118848
-9 of 22 3/14/25, 9:45 PM
-Rohit Ramachandran - Google Scholar https://scholar.google.com/citations?user=tSsdVLQAAAAJ&hl=en
+22 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
 TITLE CITED BY YEAR
-A systematic framework to monitor mulling processes using Near Infrared 17 2016
-spectroscopy
-S Wu, SS Panikar, R Singh, J Zhang, B Glasser, R Ramachandran
-Advanced Powder Technology 27 (4), 1115-1127
-Integrated population balance model development and validation of a 17 2013
-granulation process
-A Chaudhury, R Ramachandran
-Particulate Science and Technology 31 (4), 407-418
-Data analysis, modeling and control performance enhancement of an 16 2007
-industrial fluid catalytic cracking unit
-R Ramachandran, GP Rangaiah, S Lakshminarayanan
-Chemical engineering science 62 (7), 1958-1973
-A moving-boundary model of dissolution from binary drug-excipient 15 2021
-granules incorporating microstructure
-KM Moroney, L Kotamarthy, I Muthancheri, R Ramachandran, ...
-International Journal of Pharmaceutics 599, 120219
+A “Large-N” content uniformity process analytical technology (PAT) method 17 2019
+for phenytoin sodium tablets
+P Pawar, S Talwar, D Reddy, CK Bandi, H Wu, K Sowrirajan, R Friedman, ...
+Journal of pharmaceutical sciences 108 (1), 494-505
+Effect of liquid addition on the bulk and flow properties of fine and coarse 17 2016
+glass beads
+JV Scicolone, M Metzger, S Koynov, K Anderson, P Takhistov, BJ Glasser, ...
+AIChE Journal 62 (3), 648-658
+Effect of oxygen limitations on monoclonal antibody production by 17 1997
+immobilized hybridoma cells
+MR Riley, FJ Muzzio, SC Reyes
+Biotechnology progress 13 (3), 301-310
+Association between iron deficiency anemia and chronic daily headache: A 16 2023
+case-control study
+RK Singh, RM Kaushik, D Goel, R Kaushik
+Cephalalgia 43 (2), 03331024221143540
+The effect of shear mixing on the blending of cohesive lubricants and drugs 16 2005
+M Llusa, FJ Muzzio
+Pharmaceutical technology
+Improving feedability of highly adhesive active pharmaceutical ingredients 15 2021
+by silication
+MS Escotet-Espinoza, JV Scicolone, S Moghtadernejad, E Sanchez, ...
+Journal of pharmaceutical innovation 16, 279-292
+Improving dissolution kinetics of pharmaceuticals by fluidized bed 15 2016
+impregnation of active pharmaceutical ingredients
+PI Grigorov, BJ Glasser, FJ Muzzio
+AIChE Journal 62 (12), 4201-4214
 Advanced control of continuous pharmaceutical tablet manufacturing 15 2016
 processes
 R Singh, C Velazquez, A Sahay, KM Karry, FJ Muzzio, MG Ierapetritou, ...
 Process Simulation and Data Modeling in Solid Oral Drug Development and …
-Investigating the effects of material properties on the mixing dynamics of 14 2022
-cohesive particles in a twin screw mixer using a discrete element method
-approach
-S Karkala, R Ramachandran
-Powder Technology 409, 117762
-Adsorption of positively and negatively charged heavy metal ions from 14 2020
-wastewater by heteroaggregates of biopolymer particles
-A Chaturbedi, S Patil, R Ramachandran, NC Shapley
-Colloids and Surfaces A: Physicochemical and Engineering Aspects 602, 124789
+Automated drop-on-demand system with real-time gravimetric control for 15 2013
+precise dosage formulation
+A Sahay, M Brown, F Muzzio, P Takhistov
+Journal of laboratory automation 18 (2), 152-160
+The effect of structure on diffusion and reaction in immobilized cell systems 15 1995
+MR Riley, FJ Muzzio, HM Buettner, SC Reyes
+Chemical engineering science 50 (21), 3357-3367
 Continuous high-shear granulation: mechanistic understanding of the 14 2019
 influence of process parameters on critical quality attributes via elucidating
 the internal physical and …
+23 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
 W Meng, J Dvořák, R Kumar, R Hofmeister, F Štěpánek, ...
 Advanced Powder Technology 30 (9), 1765-1781
-Optimization of screw design for continuous wet granulation: A case study 13 2022
-of metoprolol succinate ER tablets
-A Zidan, L Kotamarthy, R Ramachandran, M Ashraf, T O'Connor
-International Journal of Pharmaceutics 623, 121964
-10 of 22 3/14/25, 9:45 PM
-Rohit Ramachandran - Google Scholar https://scholar.google.com/citations?user=tSsdVLQAAAAJ&hl=en
-TITLE CITED BY YEAR
-Switching from batch to continuous granulation: A case study of metoprolol 13 2022
-succinate ER tablets
-L Kotamarthy, X Feng, A Alayoubi, PK Bolla, R Ramachandran, M Ashraf, ...
-International journal of pharmaceutics 617, 121598
-An evaluation of the Johanson model for roller compaction process 13 2020
-development for a high dose API
-KM Moroney, P Cronin, OA Adeleye, BE Schaller, MA Howard, ...
-Powder Technology 366, 82-95
-Hybrid advanced control of flexible multipurpose continuous tablet 13 2013
-manufacturing process via direct compaction
-R Singh, M Ierapetritou, R Ramachandran
-Computer Aided Chemical Engineering 32, 757-762
-Identification of granule growth regimes in high shear wet granulation 12 2021
-processes using a physics-constrained neural network
-C Sampat, R Ramachandran
-Processes 9 (5), 737
+AFM study of hydrophilicity on acetaminophen crystals 14 2012
+KC Pingali, T Shinbrot, A Cuitino, FJ Muzzio, E Garfunkel, Y Lifshitz, ...
+International journal of pharmaceutics 438 (1-2), 184-190
+Experimental and model-based approaches to studying mixing in coating 14 2009
+pans
+D Fichana, AJ Marchut, PH Ohlsson, SY Chang, O Lyngberg, J Dougherty, ...
+Pharmaceutical development and technology 14 (2), 173-184
+Method and apparatus for mixing particulate solids with rocking and 14 1999
+rotational motion
+FJ Muzzio, RE Riman, C Wightman, PR Mort
+US Patent 5,884,999
+System and method for fabrication of uniform polymer films containing 13 2020
+nano and micro particles via continuous drying process
+RN Dave, R Susarla, B Khusid, AA Bhakay, EA Bilgili, F Muzzio
+US Patent 10,646,452
+Hopper refill of loss-in-weight feeding equipment 13 2010
+W Engisch, M Ierapetritou, FJ Muzzio
+Proceedings of the 2010 AIChE Annual Meeting, Salt Lake City, UT, USA
+Numerical calibration of the Andersen cascade impactor using a single jet 13 2009
+model
+Y Gulak, E Jayjock, F Muzzio, A Bauer, P McGlynn
+International journal of pharmaceutics 377 (1-2), 45-51
+Results of statistical analysis of blend and dosage unit content uniformity 13 2004
+data obtained from the Product Quality Research Institute Blend Uniformity
+Working Group data-mining …
+G Boehm, J Clark, J Dietrick, L Foust, T Garcia, M Gavini, JM Geoffroy, ...
+PDA Journal of Pharmaceutical Science and Technology 58 (2), 62-74
 Effects of process and design parameters on granule size distribution in a 12 2017
 continuous high shear granulation process
 W Meng, S Oka, X Liu, T Omer, R Ramachandran, FJ Muzzio
@@ -457,308 +1031,635 @@ Quantitative validation and analysis of the regime map approach for the wet 12 2
 granulation of industrially relevant zirconium hydroxide powders
 M Adepu, S Hate, A Bétard, S Oka, M Schongut, M Sen, Y Sood, D Wolf, ...
 Powder Technology 294, 177-184
-Simulation-based design of an efficient control system for the continuous 12 2014
-purification and processing of active pharmaceutical ingredients
-M Sen, R Singh, R Ramachandran
-Journal of Pharmaceutical Innovation 9, 65-81
+24 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
 Model-predictive design, control, and optimization: Applying model- 12 2013
 predictive methods and a continuous process-control framework to
 continuous tablet-manufacturing processes
 F Muzzio, R Singh, A Chaudhury, A Rogers, R Ramachandran, ...
 Pharmaceutical Technology 37 (6), 40-41
+Improving continuous powder blending performance using projection to 12 2013
+latent structures regression
+Y Gao, F Boukouvala, W Engisch, W Meng, FJ Muzzio, MG Ierapetritou
+Journal of Pharmaceutical Innovation 8, 99-110
+Inversion of Andersen cascade impactor data using the maximum entropy 12 2010
+method
+Y Gulak, E Jayjock, F Muzzio, A Bauer, P McGlynn
+Aerosol Science and Technology 44 (1), 29-37
 Performance assessment of linear iterative optimization technology (IOT) 11 2021
 for Raman chemical mapping of pharmaceutical tablets
 S Gupta, AD Román-Ospino, Y Baranwal, D Hausner, R Ramachandran, ...
 Journal of Pharmaceutical and Biomedical Analysis 205, 114305
-A compartment based population balance model for the prediction of 11 2021
-steady and induction granule growth behavior in high shear wet granulation
-I Muthancheri, A Chaturbedi, A Bétard, R Ramachandran
-Advanced Powder Technology 32 (6), 2085-2096
-11 of 22 3/14/25, 9:45 PM
-Rohit Ramachandran - Google Scholar https://scholar.google.com/citations?user=tSsdVLQAAAAJ&hl=en
-TITLE CITED BY YEAR
-Development and validation of a two-dimensional population balance 11 2020
-model for a supercritical CO2 antisolvent batch crystallization process
-I Muthancheri, B Long, KM Ryan, L Padrela, R Ramachandran
-Advanced Powder Technology 31 (8), 3191-3204
-Advanced multiphase hybrid model development of fluidized bed wet 11 2018
-granulation processes
-A Tamrakar, DR Devarampally, R Ramachandran
-Computer Aided Chemical Engineering 41, 159-187
-Population balance model development and experimental validation for the 11 2016
-heteroaggregation of oppositely charged micro-and nano-particles
-A Chaturbedi, C Pathak, K Deshpande, N Shapley, R Ramachandran
-Chemical Engineering Research and Design 113, 96-111
 Plant-wide control of a continuous tablet manufacturing for quality-by- 11 2015
 design based pharmaceutical manufacturing
 R Singh, F Muzzio, M Ierapetritou, R Ramachandran
 Computer Aided Chemical Engineering 37, 2183-2188
-Parallel Simulation of Population Balance Model-Based Particulate 11 2013
-Processes Using Multicore CPUs and GPUs
-AV Prakash, A Chaudhury, R Ramachandran
-Modelling and Simulation in Engineering 2013 (1), 475478
-Parallelization methods for efficient simulation of high dimensional 10 2017
-population balance models of granulation
-FE Bettencourt, A Chaturbedi, R Ramachandran
-Computers & Chemical Engineering 107, 158-170
-Dynamic agglomeration profiling during the drying phase in an agitated 10 2016
-filter dyer: Parametric investigation and regime map studies
-A Tamrakar, A Gunadi, PM Piccione, R Ramachandran
-Powder Technology 303, 109-123
-Multidimensional population balance model development and validation of 10 2015
-a reactive detergent granulation process
-A Chaudhury, A Tamrakar, M Schöngut, D Smrčka, F Štěpánek, ...
-Industrial & Engineering Chemistry Research 54 (3), 842-857
-Two-dimensional population balance model development and validation of 10 2014
-pharmaceutical crystallization processes
-M Sen, A Chaudhury, R Singh, R Ramachandran
-American Journal of Modern Chemical Engineering 1, 13-29
-Twin-screw granulation: Mechanistic understanding of the effect of material 9 2023
-properties on key granule quality attributes through the analysis of mixing
-dynamics and granulation …
-L Kotamarthy, A Dan, S Karkala, S Parvani, AD Román-Ospino, ...
-Advanced Powder Technology 34 (9), 104137
-12 of 22 3/14/25, 9:45 PM
-Rohit Ramachandran - Google Scholar https://scholar.google.com/citations?user=tSsdVLQAAAAJ&hl=en
-TITLE CITED BY YEAR
-An integrated data management and informatics framework for continuous 9 2023
-drug product manufacturing processes: A case study on two pilot plants
-Y Chen, C Sampat, YS Huang, S Ganesh, R Singh, R Ramachandran, ...
-International Journal of Pharmaceutics 642, 123086
-Development of a granule growth regime map for twin screw wet 9 2022
-granulation process via data imputation techniques
-L Kotamarthy, C Sampat, R Ramachandran
-Pharmaceutics 14 (10), 2211
-Powder bed packing and API content homogeneity of granules in single 9 2020
-drop granule formation
-T Gao, ASS Singaravelu, S Oka, R Ramachandran, F Štepánek, ...
-Powder Technology 366, 12-21
-A quantitative analysis of drug migration during granule drying 9 2018
-A Kataria, S Oka, D Smrčka, Z Grof, F Štěpánek, R Ramachandran
-Chemical Engineering Research and Design 136, 199-206
-Inhibiting PAC1 receptor internalization and endosomal ERK pathway 8 2023
-activation may ameliorate hyperalgesia in a chronic migraine rat model
-L Zhang, Y Zhou, Y Wang, L Yang, Y Wang, Z Shan, J Liang, Z Xiao
-Cephalalgia 43 (4), 03331024231163131
-Predictive population balance model development and validation of the 8 2018
-effect of high shear wet granulation process parameters on granule
-properties
-A Chaturbedi, P Pandey, D Bindra, JP Reddy, B Lang, D Buckley, ...
-Powder Technology 338, 391-401
-Mechanistic modeling of high-shear and twin screw mixer granulation 8 2017
-processes
-A Chaudhury, D Barrasso, DA Pohlman, JD Litster, R Ramachandran
-Predictive Modeling of Pharmaceutical Unit Operations, 99-135
-Population balance models for pharmaceutical processes 8 2016
-A Chaudhury, M Sen, D Barrasso, R Ramachandran
+Invariant properties of a class of exactly solvable mixing transformations–A 11 2000
+measure-theoretical approach to model the evolution of material lines
+advected by chaotic flows
+S Cerbelli, M Giona, A Adrover, MM Alvarez, FJ Muzzio
+Chaos, Solitons & Fractals 11 (4), 607-630
+End-sampling thief probe 11 1999
+PA Robinson, D Brone, EK Gleason, FJ Muzzio, C Wightman
+US Patent 5,996,426
+Method transfer of a near-infrared spectroscopic method for blend 10 2020
+uniformity in a poorly flowing and hygroscopic blend
+BB Alvarado-Hernández, JV Scicolone, C Ortega-Zuniga, ...
+Journal of Pharmaceutical and Biomedical Analysis 180, 113054
+Methods and tools for design space identification in pharmaceutical 10 2017
+development
+F Boukouvala, FJ Muzzio, MG Ierapetritou
+Comprehensive Quality by Design for Pharmaceutical Product Development and …
+A quantitative approach to understand raw material variability 10 2016
+S Koynov, FJ Muzzio
 Process Simulation and Data Modeling in Solid Oral Drug Development and …
-End-point determination of heterogeneous formulations using inline torque 7 2023
-measurements for a high-shear wet granulation process
-A Dan, H Vaswani, A Šimonová, A Grząbka-Zasadzińska, J Li, K Sen, ...
-International Journal of Pharmaceutics: X 6, 100188
-Optimization of pharmaceutical processes 7 2022
-A Fytopoulos, R Ramachandran, PM Pardalos
-Springer
-A hybrid model to predict formulation dependent granule growth in a bi- 7 2021
-component wet granulation process
-I Muthancheri, R Ramachandran
-13 of 22 3/14/25, 9:45 PM
-Rohit Ramachandran - Google Scholar https://scholar.google.com/citations?user=tSsdVLQAAAAJ&hl=en
+25 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
 TITLE CITED BY YEAR
-Pharmaceutics 13 (12), 2063
-A semi-mechanistic prediction of residence time metrics in twin screw 7 2021
-granulation
-SV Muddu, L Kotamarthy, R Ramachandran
-Pharmaceutics 13 (3), 393
-Accelerating multi-dimensional population balance model simulations via a 7 2020
-highly scalable framework using GPUs
-C Sampat, Y Baranwal, R Ramachandran
-Computers & Chemical Engineering 140, 106935
-Investigating particle-level dynamics to understand bulk behavior in a lab- 7 2020
-scale Agitated Filter Dryer (AFD) using Discrete Element Method (DEM)
-A Tamrakar, A Zheng, PM Piccione, R Ramachandran
-Advanced Powder Technology 31 (1), 477-492
-Multi-dimensional population balance model development using a breakage 6 2023
-mode probability kernel for prediction of multiple granule attributes
-A Dan, H Vaswani, A Šimonová, R Ramachandran
-Pharmaceutical Development and Technology 28 (7), 638-649
-Continuous dry granulation 6 2022
-N Metta, B Yohannes, L Kotamarthy, R Ramachandran, RJ Romañach, ...
+Effects of shear and electrical properties on flow characteristics of 10 2010
+pharmaceutical blends
+KC Pingali, MS Tomassone, FJ Muzzio
+AIChE journal 56 (3), 570-583
+Resonant acoustic® mixing; uniform distribution of minor materials during 10 2010
+powder mixing
+A Vanarase, J Osorio, F Muzzio, S Coguill, P Lucon
+JANNAF 36th Propellant and Explosives Development and Characterization Joint
+Inherent method variability in dissolution testing: the effect of 10 2005
+hydrodynamics in the USP II apparatus
+P Armenante, F Muzzio
+A Technical Report Submitted to the Food and Drug Administration
+Selection of an appropriate tracer to measure the residence time 9 2023
+distribution (RTD) of continuous powder blending operations
+SM Razavi, AD Román-Ospino, P Bhalode, J Scicolone, G Callegari, ...
+Powder Technology 429, 118864
+NIR spectroscopy as an online PAT tool for a narrow therapeutic index 9 2022
+drug: Toward a platform approach across lab and pilot scales for
+development of a powder blending …
+S Talwar, P Pawar, H Wu, K Sowrirajan, S Wu, B Igne, R Friedman, ...
+The AAPS Journal 24 (6), 103
+Dissolution study on grape polyphenol hard gelatin capsule dietary 9 2021
+supplements
+W Lyu, T Omar, H Patel, D Rodriguez, MG Ferruzzi, GM Pasinetti, ...
+Frontiers in Nutrition 8, 780260
+Using residence time distribution to understand continuous blending 9 2017
+F Muzzio, S Oka
+Powder Bulk Eng
+Effect of shear applied during a pharmaceutical process on near infrared 9 2016
+spectra
+E Hernández, P Pawar, S Rodriguez, S Lysenko, FJ Muzzio, ...
+Applied spectroscopy 70 (3), 455-466
+Method to study the effect of blend flowability on the homogeneity of 9 2013
+acetaminophen
+M Llusá, K Pingali, FJ Muzzio
+Drug Development and Industrial Pharmacy 39 (2), 252-258
+Predicting mixing microstructure in three-dimensional chaotic systems 9 2003
+ES Szalai, FJ Muzzio
+Physics of Fluids 15 (11), 3274-3279
+Powder property change after passing through a feeder: The effect of 8 2023
+electrostatics on powder flow
+26 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
+Z Liu, FJ Muzzio, G Callegari
+Powder Technology 425, 118532
+Effect of liquid addition on the bulk and flow properties of cohesive powders 8 2022
+T Li, W Meng, Y Wang, A Valia, R Jamsandekar, R Kumar, FJ Muzzio, ...
+Particulate Science and Technology 40 (2), 141-150
+Residence time distribution as a traceability method for lot changes in a 8 2022
+pharmaceutical continuous manufacturing system
+A Sánchez-Paternina, P Martínez-Cartagena, J Li, J Scicolone, R Singh, ...
+International Journal of Pharmaceutics 611, 121313
+Manufacturing of pharmaceuticals by impregnation of an active 8 2019
+pharmaceutical ingredient onto a mesoporous carrier: Impact of solvent
+and loading
+TA Omar, S Oka, FJ Muzzio, BJ Glasser
+Journal of Pharmaceutical Innovation 14, 194-205
+Measurement of the residence time distribution of a cohesive powder in a 8 2018
+flighted rotary kiln
+IJ Paredes, B Yohannes, HN Emady, FJ Muzzio, A Maglio, WG Borghard, ...
+Chemical Engineering Science 191, 56-66
+Micro-mixing dynamics of active pharmaceutical ingredients in bin-blending 8 2016
+JG Osorio, G Stuessy, GJ Kemeny, FJ Muzzio
+Chemical Engineering and Processing: Process Intensification 102, 141-155
+Fluidized bed drying of pharmaceutical materials: Moisture measurement 8 2013
+and effects of particle size
+X Liu, FJ Muzzio, JG Khinast, BJ Glasser
+American Pharmaceutical Review 16 (2)
+Characterization and propagation of RTD uncertainty for continuous 7 2022
+powder blending processes
+H Tian, P Bhalode, SM Razavi, A Koolivand, FJ Muzzio, MG Ierapetritou
+International Journal of Pharmaceutics 628, 122326
+Binder-free twin-screw melt granulation: An effective approach to 7 2021
+manufacture high-dose API formulations
+I Cotabarren, TA Omar, FJ Muzzio
+International Journal of Pharmaceutics 606, 120886
+Integrating sensors for monitoring blend content in a pharmaceutical 7 2021
+continuous manufacturing plant
+S Panikar, J Li, V Rane, S Gillam, G Callegari, B Kurtyka, S Lee, F Muzzio
+International Journal of Pharmaceutics 606, 120085
+Formulation and manufacture of pharmaceuticals by impregnation onto 7 2018
+porous carriers
+FJ Muzzio, BJ Glasser, PI Grigorov
+US Patent 10,004,682
+27 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
+Lubrication in continuous tubular powder blenders 7 2016
+F Muzzio, S Oka, S Moghtadernejad, Z Liu, D Hausner
+MJH Life Sciences 40, 44–45-44–45
+Pharmaceutical preparations having individualized dosage and structure 7 2013
+FJ Muzzio, P Takhistov, BB Michniak-Kohn
+US Patent App. 13/508,485
+Characterization of the performance of bin blenders. Part 2 of 3: Free- 7 2004
+flowing mixtures
+A Alexander, O Sudah, P Arratia, C Goodridge, L Alani, F Muzzio
+Pharmaceutical technology (2003) 28 (7), 56-67
+Method of improved mixing in roller bottles 7 2000
+JL Bramble, FJ Muzzio, JA Searles
+US Patent 6,096,544
+Dynamically enhanced V-blender 7 1999
+PA Robinson, FJ Muzzio, D Brone, K Connor, C Wightman
+US Patent 5,938,330
+Biophysics of inhaled drug particles 7 1997
+A Annapragada, P Swanson, F Muzzio
+LUNG BIOLOGY IN HEALTH AND DISEASE 107, 27-58
+Advanced pharmaceutical manufacturing: A functional definition 6 2023
+RJ Romañach, T Stelzer, E Sanchez, F Muzzio
+Journal of Advanced Manufacturing and Processing 5 (2), e10150
+Optimal quantification of residence time distribution profiles from a quality 6 2023
+assurance perspective
+P Bhalode, SM Razavi, A Roman-Ospino, J Scicolone, G Callegari, ...
+International Journal of Pharmaceutics 634, 122653
+Fit-for-Purpose Miniature NIR Spectroscopy for Solid Dosage Continuous 6 2015
+Manufacturing
+KM Karry, R Singh, FJ Muzzio
+American Pharmaceutical Review 18 (4), 64-67
+Experimentally validated numerical modeling of heat transfer in granular 6 2011
+flow in rotating vessels
+B Chaudhuri, FJ Muzzio, MS Tomassone
+Heat Transfer: Mathematical Modelling, Numerical Methods and Information …
+Batch size increase in dry blending and mixing 6 2006
+AW Alexander, FJ Muzzio
+DRUGS AND THE PHARMACEUTICAL SCIENCES 157, 161
+28 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
+Calculation of effective diffusivities and reactivities in immobilized cell 6 1998
+systems using finite difference methods
+MR Riley, FJ Muzzio, SC Reyes
+Computers & chemical engineering 22 (4-5), 525-534
+How to design and implement powder-to-tablet continuous manufacturing 5 2022
+systems
+F Muzzio, S Oka
+Academic Press
+Using multivariate analysis for pharmaceutical drug product development 5 2016
+Y Wang
+Rutgers University-Graduate School-New Brunswick
+Continuous powder blenders for pharmaceutical applications 5 2012
+S Oka, F Muzzio
+Pharmaceutical Manufacturing. Heidelberg: Springer
+Study of tablet coating thickness uniformity using LIBS, DEM and 5 2008
+compartment modeling
+A Dubey, PM Portillo, FJ Muzzio
+2008 AIChE Annual Meeting, Philadelphia, US
+Simulation of flow and mixing in stirred tank reactors 5 1999
+JM Zalc, MM Alvarez, FJ Muzzio
+American Society of Mechanical Engineers, Pressure Vessels and Piping …
+Mixing and segregation in tumbling blenders 5 1805
+T Shinbrot, FJ Muzzio
+Encyclopedia of Pharmaceutical Technology, 1805-20
+Multi-layer Raman chemical mapping to investigate the effect of API 4 2022
+particle size and blending shear rate on API domain sizes in
+pharmaceutical tablets
+S Gupta, B Igne, T Omar, AD Román-Ospino, D Hausner, F Muzzio
+International Journal of Pharmaceutics 624, 122052
+Continuous powder mixing and lubrication 4 2022
+S Oka, FJ Muzzio
 How to Design and Implement Powder-To-Tablet Continuous Manufacturing …
-Understanding the effects of process parameters and material properties 5 2022
-on the breakage mechanisms and regimes of a milling process
-A Dan, L Kotamarthy, R Ramachandran
-Chemical Engineering Research and Design 188, 607-619
-Analysis and prediction of nucleation mechanisms in a bi-component 5 2021
-powder bed with wettability differentials
-I Muthancheri, S Oka, R Ramachandran
-Powder Technology 390, 209-218
-Development of a low-volume, highly sensitive microimmunoassay using 5 2015
-computational fluid dynamics-driven multiobjective optimization
-M Ghodbane, A Kulesa, HH Yu, TJ Maguire, RS Schloss, ...
-Microfluidics and nanofluidics 18, 199-214
-A combined experimental and computational approach to the scale-up of 5 2011
-high-shear wet granulation
-P Pandey, J Tao, JZ Gao, D Bindra, A Narang, R Ramachandran, ...
-Minneapolis, Minnesota: American Association of Chemical Engineers (AIChE …
-Risk assessment for a twin-screw granulation process using a supervised 4 2022
-physics-constrained auto-encoder and support vector machine framework
-C Sampat, R Ramachandran
-Pharmaceutical research 39 (9), 2095-2107
-14 of 22 3/14/25, 9:45 PM
-Rohit Ramachandran - Google Scholar https://scholar.google.com/citations?user=tSsdVLQAAAAJ&hl=en
+Mixing cell: A device to mimic extent of lubrication and shear in continuous 4 2019
+tubular blenders
+S Moghtadernejad, MS Escotet-Espinoza, Z Liu, E Schäfer, F Muzzio
+AAPS PharmSciTech 20, 1-12
+Feasibility analysis of black-box processes using an adaptive sampling 4 2011
+kriging based method
+F Boukouvala, FJ Muzzio, MG Ierapetritou
+Computer aided chemical engineering 29, 432-436
+29 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
 TITLE CITED BY YEAR
-A population balance methodology incorporating Semi-Mechanistic 4 2022
-residence time metrics for twin screw granulation
-SV Muddu, R Ramachandran
-Processes 10 (2), 292
-HPC enabled parallel, multi-scale & mechanistic model for high shear 4 2018
-granulation using a coupled DEM-PBM framework
-C Sampat, Y Baranwal, I Paraskevakos, S Jha, M Ierapetritou, ...
-Computer Aided Chemical Engineering 44, 1459-1464
-Implementation of hybrid DEM-PBM approach to reduce the computational 4 2016
-cost of powder mixing modeling
-A Tamrakar, S Karkala, D Schankel, R Ramachandran
-Computer Aided Chemical Engineering 38, 1267-1273
+Powder sampling method and apparatus 4 2005
+FJ Muzzio, A Alexander, D Brone, M Roddy
+US Patent 6,910,393
+Performance of Bin Blenders 4 2004
+A Alexander, O Sudah, P Arratia, C Goodridge, L Alani, F Muzzio
+Pharmaceutical Technology
+A comprehensive approach to pharmaceutical engineering training 4 2001
+BJ Glasser, J Cole, FJ Muzzio
+Pharmaceutical technology 25 (12), 34-37
+Harmonic patterns in fine granular vibrated beds 4 2000
+T Shinbrot, L Lomelo, FJ Muzzio
+Granular Matter 2, 65-69
+Statistical data treatment for residence time distribution studies in 3 2024
+pharmaceutical manufacturing
+P Bhalode, SM Razavi, H Tian, A Roman-Ospino, J Scicolone, ...
+International Journal of Pharmaceutics 657, 124133
 Prediction of entire tablet formulations from pure powder components’ 3 2022
 spectra via a two-step non-linear optimization methodology
 Y Baranwal, AD Román-Ospino, J Li, SM Razavi, FJ Muzzio, ...
 International Journal of Pharmaceutics 615, 121472
-Effect of Binder Attributes on Granule Growth and Densification 3 2019
-AS Narang, L Tao, J Zhao, R Keluskar, S Gour, T Stevens, K Macias, ...
-Handbook of Pharmaceutical Wet Granulation, 351-386
-The scope of PAT in real-time advanced control of tablet quality 3 2015
-R Singh, M Ierapetritou, R Ramachandran
-European Pharmaceutical Review 20, 76-80
+Reshoring pharmaceutical manufacturing to the US: can we do it? 3 2021
+E Sanchez, F Muzzio
+MJH Life Sciences 45, 28–30-28–30
+Optimizing loss-in-weight feeding of poorly flowing materials 3 2020
+J Scicolone, D Hausner, J Palmer, A Birkmire, J Holman, F Muzzio
+MJH Life Sciences 2020, 24–28-24–28
+Workshop report: USP workshop on advancements in in vitro performance 3 2020
+testing of drug products
+A Hermans, P Dorozynski, FJ Muzzio, H Li, S Nielsen, S Chen, C Reppas, ...
+Dissolution Technologies 27 (2), 52-70
+Cross-sectional analysis of impregnated excipient particles by energy 3 2018
+dispersive X-ray spectroscopy
+PI Grigorov, BJ Glasser, FJ Muzzio
+Powder Technology 332, 197-209
+A novel consolidation method to measure powder flow properties using a 3 2016
+small amount of material
+S Koynov, FJ Muzzio, BJ Glasser
+AIChE Journal 62 (12), 4193-4200
+30 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
+Practical powder blending: Run-time failures 3 2013
+FJ Muzzio
+Bulk Powder Eng., 1-3
 Flexible multipurpose Continuous processing: Integration of process flow 3 2012
 modeling for continuous processing of pharmaceutical solid dosage forms
 R Singh, F Boukouvala, E Jayjock, R Ramachandran, M Ierapetritou, ...
-Application of a 2-d population balance model to a pharmaceutical 3 2011
-crystallization process
-A Chaudhury, JE Tabora, S Murugesan, B Remy, R Ramachandran
-Proceedings of 2011 AIChe annual meeting, Minneapolis
-A multi-dimensional population balance model validation approach to high- 3 2011
-shear wet granulation (HSWG) processes
-A Chaudhury, P Pandey, R Ramachandran
-AIChE Annual Meeting, Minneapolis, USA, Oct, 17-21
-Multi-scale population balance modelling and controllability of granulation 3 2008
-processes
-R Ramachandran
-Imperial College London
-Investigating the Effects of Mixing Dynamics on Twin-Screw Granule 2 2024
-Quality Attributes via the Development of a Physics-Based Process Map
-L Kotamarthy, S Karkala, A Dan, AD Román-Ospino, R Ramachandran
-Pharmaceutics 16 (4), 456
-15 of 22 3/14/25, 9:45 PM
-Rohit Ramachandran - Google Scholar https://scholar.google.com/citations?user=tSsdVLQAAAAJ&hl=en
-TITLE CITED BY YEAR
-Optimizing energy efficiency of a twin-screw granulation process in real- 2 2023
-time using a long short-term memory (lstm) network
-C Sampat, R Ramachandran
-ACS Engineering Au 4 (2), 278-289
-A modeling, control, sensing, and experimental overview of continuous wet 2 2022
-granulation
-SV Muddu, R Ramachandran
+Modeling and designing powder mixing processes utilizing compartment 3 2006
+modeling
+PM Portillo, FJ Muzzio, MG Ierapetritou
+Computer Aided Chemical Engineering 21, 1039-1044
+Characterization of suspension flows using particle image velocimetry (PIV) 3 1999
+OS Hasan, MM Alvarez, FJ Muzzio, HM Buettner
+AIChE Symposium Series 95 (321), 90-94
+A Novel CFD Model of SMX Static Mixer Used in Advanced Continuous 2 2024
+Manufacturing of Active Pharmaceutical Ingredients (API)
+A Kritikos, R Singh, G Tsilomelekis, FJ Muzzio
+Journal of Pharmaceutical Innovation 19 (2), 14
+Starch products as candidate excipients in a continuous direct compression 2 2022
+line
+SM Razavi, Y Tao, J Scicolone, T Morker, C Cunningham, ...
+Journal of Pharmaceutical Innovation, 1-12
+Characterization of material properties 2 2022
+SM Razavi, S Oka, MS Escotet-Espinoza, Y Wang, T Li, M Futran, ...
+How to Design and Implement Powder-to-Tablet Continuous Manufacturing …
+Loss-in-weight feeding 2 2022
+T Li, S Oka, JV Scicolone, FJ Muzzio
 How to Design and Implement Powder-To-Tablet Continuous Manufacturing …
-Reducing Time-to-Respond in a modern manufacturing environment 2 2007
-R Van Roijen, C Collins, J Ayala, K Barker, H Boiselle, S Catlett, ...
-2007 IEEE/SEMI Advanced Semiconductor Manufacturing Conference, 29-33
-Modeling of multi-component granule formation in a wet granulation 2 2006
-process
-F Stepanek, R Ramachandran, P Rajniak, R Chern, C Mancinelli
-2006 AIChE Spring National Meeting-5th World Congress on Particle Technology
-Autoencoder-based inverse design and surrogate-based optimization of an 1 2024
-integrated wet granulation manufacturing process
-A Dan, R Ramachandran
-International Journal of Pharmaceutics: X 8, 100287
-Quantitative analysis of the effects of multi-component formulation 1 2024
-parameters on granule and tablet properties via a combined population
-balance and statistical predictive model
-A Dan, S Paul, H Vaswani, A Grząbka-Zasadzińska, A Thakkelapally, J Li, ...
-Powder Technology 435, 119391
-Energy efficient smart manufacturing of pharmaceutical solid oral dosage 1 2023
-forms
-A Dan, R Ramachandran
-Journal of Medical Science 92 (3), e893-e893
+Predicting Loss-in-Weight Feeder Performance Based on a Reduced Set of 2 2019
+Material Property Measurements
+T Li, Y Tao, F Muzzio, B Glasser
+2019 AIChE Annual Meeting
+Modeling fluidized bed impregnation of active pharmaceutical ingredients 2 2019
+onto porous excipients
+PI Grigorov, FJ Muzzio, BJ Glasser
+Chemical Engineering Science 202, 36-54
+Enabling real time release testing (RTRt) with NIR-based prediction of 2 2017
+dissolution for tablets made by continuous direct compression (CDC)
+G Drazer, P Pawar, Y Wang, G Keyvan, G Callegari, A Cuitino, F Muzzio
+Dissolution and translational modeling strategies enabling patient-centric …
+31 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
+Mixing and segregation in tumbling blenders 2 2013
+T Shinbrot, FJ Muzzio, J Swarbrick
+Encyclopedia of pharmaceutical science and technology. 4th ed: CRC Press …
+Uniform shear application system and methods relating thereto 2 2009
+FJ Muzzio, L Tsygan, S Dukler
+US Patent 7,571,871
+The effect of shear mixing on the blending of cohesive lubricants and drugs 2 2005
+F Muzzio
+MJH Life Sciences
+A method for predicting hopper flow characteristics of unconfined cohesive 2 2005
+powders
+AM Faqih, A Mehrotra, B Chaudhuri, MS Tomassone, FJ Muzzio
+05AIChE: 2005 AIChE Annual Meeting and Fall Showcase
+Three-dimensional chaotic mixing 2 2004
+PE Arratia, MM Alvarez, T Shinbrot, FJ Muzzio
+Physics of fluids 16 (9), S8-S8
+Part 1 2 2004
+A Alexander, C Goodridge, F Muzzio, P Arratia, D Brone, O Sudah
+Pharm Tech
+Validation of the ORCA CFD Software Using SMX and Kenics Static Mixer 2 2002
+Elements
+ES Szalai, FJ Muzzio, KJ Bittorf
+Chemical and Biochemical Engineering Journal 1, 1-8
+Method of improved mixing of a varicella-infected cell culture in roller 2 2001
+bottles
+JL Bramble, FJ Muzzio, JA Searles
+US Patent 6,251,653
+Nonlinearity, chaos, and self-similarity: Effects of mixing, aggregation, 2 1991
+reaction and breakup on structure formation
+FJ Muzzio
+University of Massachusetts Amherst
+High-dose modified-release formulation of a poorly soluble drug via twin- 1 2025
+screw melt coating and granulation
+S Gupta, T Omar, Q Zhou, J Scicolone, G Callegari, A Dubey, F Muzzio
+International Journal of Pharmaceutics 670, 125090
+Powder agglomeration in continuous powder feeding by twin-screw feeder 1 2024
+Z Liu, FJ Muzzio, G Callegari
+Powder Technology 444, 120016
+32 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
+Accelerating process development and product formulation 1 2024
+M Futran, F Muzzio, B Chatterjee
+Pharmaceutical research 41 (5), 833-837
+Continuous Fluidized Bed Drying of Pharmaceutical Materials 1 2017
+H Chen, F Muzzio, B Glasser
+2017 AIChE Annual Meeting
 Integrated Control and Data Management System for Continuous 1 2017
 Pharmaceutical Manufacturing Process
 R Singh, FJ Muzzio, M Ierapetritou, R Ramachandran
 2017 AIChE Annual Meeting
+Feeder Characterization and Model Development Accounting for Incoming 1 2017
+Material Properties
+MS Escotet-Espinoza, GC Pereira, A Roman-Ospino, F Muzzio, ...
+2017 AIChE Annual Meeting
+Evolution of the temperature distribution of granular material in a horizontal 1 2017
+rotating cylinder
+B Yohannes, H Emady, K Anderson, M Javed, IJ Paredes, FJ Muzzio, ...
+EPJ Web of Conferences 140, 03012
+Advances in 3D raman imaging: Tablet microstructure 1 2016
+FJ Muzzio, S Panikar
+American Pharmaceutical Review 19 (6)
 Model-predictive design, control and optimisation: applying model- 1 2013
 predictive methods and a continuous process-control framework to
 continuous tablet-manufacturing processes
 F Muzzio, R Singh, A Chaudhury, A Rogers, R Ramachandran, ...
 Pharmaceutical Technology Europe 25 (6), 31-34
-A Multi-scale Systems Approach to Granulation Process Design 1 2011
-R Ramachandran
-Computer Aided Chemical Engineering 29, 91-95
-16 of 22 3/14/25, 9:45 PM
-Rohit Ramachandran - Google Scholar https://scholar.google.com/citations?user=tSsdVLQAAAAJ&hl=en
+Scaling up strategy for continuous powder mixing process 1 2012
+Y Gao, F Muzzio, M Ierapetritou
+Submitted to
+Uniform shear application system and methods relating thereto 1 2011
+FJ Muzzio
+US Patent 7,918,410
+Surface Tension in Pharmaceutical Manufacturing: An Overview and Two 1 2008
+Case Studies
+FJ Muzzio, MS Tomassone, C Velázquez, F Romanski, M Llusa, W Zhu, ...
+Annual AIChE Meeting, Philadelphia, PA
+Introduction to Studies in Granular Mixing 1 2008
+M Llusa, F Muzzio
+Chemical Engineering Education 42 (4), 173-178
+33 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
 TITLE CITED BY YEAR
-Model predictive control of continuous drum granulation of limestone 1 2007
-T Glaser, CFW Sanders, FY Wang, IT Cameron, JD Litster, JMH Poon, ...
-AIChE Annual Meeting: Conference Proceedings, Salt Lake City, Utah, USA, 1-10
-Investigating chaos in an industrial fluid catalytic cracking unit 1 2005
-R Ramachandran, L Samavedham, GP Rangaiah
-Proceedings of the 2005, American Control Conference, 2005., 3656-3658
-Machine learning model-based design and model predictive control of a 2025
-bioreactor for the improved production of mammalian cell-based bio-
-therapeutics
-A Dan, B Liu, U Patil, BNM Manuraj, R Gandhi, J Buchel, SPS Chundawat, ...
-Control Engineering Practice 156, 106198
-CPU and GPU based acceleration of high-dimensional population balance 2025
-models via the vectorization and parallelization of multivariate aggregation
-and breakage integral terms
-A Dan, U Patil, A De, BNM Manuraj, R Ramachandran
-Computers & Chemical Engineering, 109037
-Adaptive PBM-DEM Framework for Wet Granulation: A Mechanistic, Multi- 2024
-Component, and Bi-Directional Approach
-A Das, T De, A Dan, R Ramachandran
-2024 AIChE Annual Meeting
-Particulate Process Modeling and Product Design Session 1 2024
-I Muthancheri, R Ramachandran
-2024 AIChE Annual Meeting
-Numerical modeling of fill-level and residence time in starve-fed single- 2024
-screw extrusion: a dimensionality reduction study from a 3D CFD model to
-a 2D convection-diffusion model
-EH Olofsson, A Dan, M Roland, NH Jokil, R Ramachandran, JH Hattel
-The International Journal of Advanced Manufacturing Technology 132 (3), 1111 …
-Semi-Mechanistic Prediction and Optimization of Residence Time Metrics 2024
-of a Starve-Fed Extruder via a Hybrid Machine-Learning Convection–
-Diffusion Model
-A Dan, U Patil, EH Olofsson, JH Hattel, R Ramachandran
-Industrial & Engineering Chemistry Research 63 (16), 7271-7280
-Semi-Mechanistic Prediction of Residence Time Metrics and Mixing 2023
-Dynamics in Single-Screw Extrusion Via a 2-D Convection-Diffusion Model
-Combined with Machine Learning
-A Dan, EH Olofsson, SV Muddu, NH Jokil, JH Hattel, R Ramachandran
-2023 AIChE Annual Meeting
-Particulate Process Modeling and Product Design 2023
-R Ramachandran, I Muthancheri
-2023 AIChE Annual Meeting
-17 of 22 3/14/25, 9:45 PM
-Rohit Ramachandran - Google Scholar https://scholar.google.com/citations?user=tSsdVLQAAAAJ&hl=en
+Shear and composition effects on the flow and electrostatic properties of 1 2008
+pharmaceutical powders
+A Vasilenko, K Pingali, FJ Muzzio
+AIChE Annual Meeting, Conference Proceedings. Philadelphia, PA
+A Quantitative Method for Modeling Blend Composition Distributions in the 1 2007
+Presence of Agglomerates
+M Llusa, F Muzzio
+Journal of Pharmaceutical Innovation 2, 51-64
+Characterization and Modeling of Continuous Convective Powder Mixing 1 2006
+Processes
+PM Portillo, M Ierapetritou, FJ Muzzio
+AICHE annual meeting
+Discrete Element Simulation for Fundamental Process Understanding 1 2005
+MS Tomassone, B Chaudhuri, A Faqih, A Mehrotra, F Muzzio
+MJH Life Sciences
+Modeling Granular Mixing Processes Utilizing a Hybrid DEM-Compartment 1 2005
+Modeling Approach
+PM Portillo, FJ Muzzio, MG Ierapetritou
+American Institute of Chemical Engineers
+Experimental and computational methods for understanding 1 2003
+pharmaceutical flows, Part I: laboratory scale devices
+J Kukura, PE Arratia, ES Szalai, KE Johnson, FJ Muzzio
+Pharmaceutical Technology Europe 15 (3), 23-26+ 29-31
+Quantitative characterization of powder blending processes 1 1996
+C Wightman
+AIChE Symp. Ser. 313, 71-75
+Machine vision-based evaluation of mixture percentages for powder 1 1995
+blending processes
+J Wilder, I Marsic, FJ Muzzio, A Tsai, S Weiner, C Wightman
+Videometrics IV 2598, 200-206
+Mixing as a tool for pollution prevention in reactive systems 1 1995
+FJ Muzzio, EL Paul
+McGraw-Hill, Inc., New York, NY (United States)
+Real-time monitoring of small changes in powder blends and ejected 2025
+tablets in a low-dose formulation with 1% w/w of active pharmaceutical
+ingredient using Raman and near …
+CA Ortega-Zúñiga, AD Román-Ospino, S Gupta, T Omar, Y Baranwal, ...
+International Journal of Pharmaceutics 670, 125165
+Exploring pharmaceutical powder cohesion through the Warren Spring 2025
+cohesion test
+ZD Vyas, A Sen, A Shetty, G Callegari, FJ Muzzio, SM Razavi
+34 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
 TITLE CITED BY YEAR
-Designing a novel continuous manufacturing plant with superior monitoring 2023
-and control
-R Singh, JI Zhang, R Ramachandran
-Development of Multi-Dimensional Population Balance Using a Breakage 2022
-Mode Classification Kernel for the Prediction of Milled Granule Quality
-Attributes
-A Dan, R Ramachandran
+Advanced Powder Technology 36 (1), 104745
+HIGH-DOSE COMPRESSIBLE DOSAGE FORMS MANUFACTURED BY 2024
+SIMULTANEOUS MELT-COATING AND MELT-GRANULATION OF
+ACTIVE PHARMACEUTICAL INGREDIENTS
+FJ Muzzio, IM Cotabarren, S Gupta, Q Zhou, TA Omar, J Scicolone, ...
+US Patent App. 18/694,042
+Kinetics, Solvent Effects, and at-Line Monitoring of Diphenhydramine 2024
+Synthesis
+J Konkol, R Singh, F Muzzio, G Tsilomelekis
+2024 AIChE Annual Meeting
+Are Blenders Needed in Continuous Direct Compaction? 2024
+Y Tao, C Ortega-Zuniga, J Scicolone, F Muzzio
+2024 AIChE Annual Meeting
+Effects of Tracer Physical Properties and Quantities on the Residence Time 2024
+Distribution (RTD) of a Continuous Pharmaceutical Manufacturing Line
+Y Tao, SM Razavi, C Ortega-Zuniga, J Scicolone, F Muzzio
+2024 AIChE Annual Meeting
+Innovative Approaches in Amorphous Solid Dispersions Production in 2024
+Pharmaceutical Formulations with Porous Carrier Impregnation: a Case
+Study for Fenofibrate
+M Khakbiz, F Muzzio, G Callegari
+2024 AIChE Annual Meeting
+Continous impregnation of active pharmaceutical ingredients onto porous 2024
+carriers
+FJ Muzzio, BJ Glasser, TA Omar, AD Román-ospino, B Gudrun
+US Patent App. 18/571,083
+On the synthesis of diphenhydramine: Steady state kinetics, solvation 2024
+effects, and in-situ Raman and benchtop NMR as PAT
+JA Konkol, R Singh, FJ Muzzio, G Tsilomelekis
+Chemical Engineering Journal 493, 152159
+Inverse Method-Based Kinetic Modelling and Process Optimization of 2024
+Reverse-Phase Chromatography for Molnupiravir Synthesis
+F Muzzio, G Tsilomelekis, R Singh, A Kritikos
+Inverse Method-Based Kinetic Modelling and Process Optimization of 2024
+Reverse-Phase Chromatography for Molnupiravir Synthesis
+A Kritikos, R Singh, F Muzzio, G Tsilomelekis
+Processes 12 (6), 1273
+Screening of Parameters Influencing Performance of Tangential/Crossflow 2023
+Filtration Systems in Continuous API Manufacturing Processes with a
+Mechanistic CFD Model
+B Anderson, F Muzzio, R Singh
+35 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
+2023 AIChE Annual Meeting
+Optimizing Reverse Phase Chromatography Separation in Molnupiravir 2023
+Synthesis: An Inverse Method Approach
+A Kritikos, R Singh, F Muzzio, G Tsilomelekis
+2023 AIChE Annual Meeting
+Intelligent Size Characterization of Granules By Machine Learning Method 2023
+M Khakbiz, M Rezaeizadeh, G Callegari, F Muzzio
+2023 AIChE Annual Meeting
+A Digital Twin Model of Homogenizer Used in Continuous Injectables 2023
+Manufacturing
+P Das, F Muzzio, R Singh
+2023 AIChE Annual Meeting
+Comparison of Granule Properties Obtained in Two Different Twin-Screw 2023
+Granulators at the Same Shear Rate
+N Ceschan, M Balbi, P Ravazzoli, F Muzzio, G Drazer, G Callegari
+2023 AIChE Annual Meeting
+Powder to Dry Granules in a Single Step Wet Granulation and Drying 2023
+Process
+M Rezaeizadeh, M Khakbiz, G Callegari, V Rao, B Padmanabhan, ...
+2023 AIChE Annual Meeting
+Enhancing the Oral Bioavailability of Poorly Soluble Drug through Twin- 2023
+Screw Melt Coating and Granulation
+Z Vyas, R Shinde, J Scicolone, F Muzzio
+2023 AIChE Annual Meeting
+A Systematic Study on Improving the Flowability of Poorly Flowing API By 2023
+Dry Coating
+R Shinde, J Scicolone, G Callegari, F Muzzio
+2023 AIChE Annual Meeting
+Characterization of Pharmaceutical Powder Flowability Using a Powder 2023
+Flow Cell Coupled to an Air-Bearing Rheometer
+A Sen, Z Vyas, R Shinde, A Shetty, G Callegari, SM Razavi, F Muzzio
+2023 AIChE Annual Meeting
+Powder Characterization Using an Annular Ring Shear Cell Under 2023
+Temperature and Humidity Control
+R Shinde, Z Vyas, A Sen, A Shetty, SM Razavi, G Callegari, F Muzzio
+2023 AIChE Annual Meeting
+Capillary Imbibition Techniques Used to Characterize the Structural 2023
+Changes in Microcrystalline Cellulose Due to Wet and Dry Processes
+P Ravazzoli, M Balbi, N Ceschan, F Muzzio, G Callegari, G Drazer
+2023 AIChE Annual Meeting
+36 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
+A Novel Modular Plant and Digital Twin Model of Continuous 2023
+Pharmaceutical Manufacturing of Liquid Dosage Forms
+R Singh, F Muzzio
+2023 AIChE Annual Meeting
+CFD-Based Evaluation of Mixing Efficiency and Flow Uniformity in an Smx 2023
+Static Mixer
+A Kritikos, G Tsilomelekis, F Muzzio, R Singh
+2023 AIChE Annual Meeting
+At-Line Monitoring of Diphenhydramine Synthesis Via Low-Field NMR 2023
+Spectroscopy As Process Analytical Technology
+J Konkol, R Singh, F Muzzio, G Tsilomelekis
+2023 AIChE Annual Meeting
+Investigating the Effects of Coil Diameters on the Heating Efficiency of a 2023
+Twisted-Helix Preheater for Continuous API Synthesis through CFD
+Modeling
+B Anderson, F Muzzio, R Singh
+2023 AIChE Annual Meeting
+Characterization of Residence Time Distribution of One Formulation on 2023
+Two Mirror Continuous Lines
+SM Razavi, J Scicolone, C Ortega-Zuniga, P Bhalode, J Li, H Tian, Y Lugo, ...
+2023 AIChE Annual Meeting
+Exploring Nondestructive Analytical Methods for Characterizing the Effect 2023
+of Polymers in Pharmaceutical Formulations from Continuous
+Manufacturing Process
+D Dobaria, C Ortega-Zuniga, Y Lugo, G Oze, SM Razavi, F Muzzio
+2023 AIChE Annual Meeting
+Determining the Dissolution Profile of Tablets from Continuous 2023
+Pharmaceutical Manufacturing Process By Employing Non-Destructive
+Analytical Spectroscopic Methods
+D Dobaria, C Ortega-Zuniga, Y Lugo, G Oze, SM Razavi, F Muzzio
+2023 AIChE Annual Meeting
+A Novel Digital RTD Toolbox for Adaptive Modelling, Quality Control, and 2023
+Material Traceability of Continuous Pharmaceutical Manufacturing Process
+R Singh, F Muzzio
+2023 AIChE Annual Meeting
+Exploring API Impregnation Technology with a Case Study on 2023
+Carbamazepine
+M Khakbiz, F Muzzio, G Callegari
+2023 AIChE Annual Meeting
+37 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
+How to Design and Implement Powder-to-Tablet Continuous Manufacturing 2023
+Systems
+S Oka, F Muzzio
+Continuous melt-coating of active pharmaceutical ingredients using 2023
+surfactants for dissolution enhancement
+FJ Muzzio, Z Liu, G Callegari, D Hausner
+US Patent App. 17/906,514
+Continuous Impregnation Processes 2023
+TA Omar, FJ Muzzio
+Continuous Pharmaceutical Processing and Process Analytical Technology, 167-178
+Residence Time Distribution in Continuous Manufacturing 2023
+SM Razavi, A Dubey, FJ Muzzio
+Continuous Pharmaceutical Processing and Process Analytical Technology, 111-124
+Continuous Processes for Manufacturing Impregnated Porous Carriers and 2023
+for Manufacturing Pharmaceuticals Containing Impregnated Porous
+Carriers
+FJ Muzzio, BJ Glasser, TA Omar
+US Patent App. 17/756,738
+A Novel Adaptive Residence Time Distribution (RTD) Modelling Toolbox 2022
+R Singh, F Muzzio
 2022 AIChE Annual Meeting
-Physics-Constrained Autoencoder Neural Network for the Prediction of Key 2022
-Granule Properties in a Twin-Screw Granulation Process
-C Sampat, R Ramachandran
-Computer Aided Chemical Engineering 49, 1687-1692
-Optimizing Energy Efficiency of a Twin Screw Granulation Process Using a 2021
-Physics-Constrained Hybrid Model
-C Sampat, R Ramachandran
+Integrated Flowsheet Model of Continuous API Manufacturing Process and 2022
+Its Applications for Dynamic Optimization and Control
+R Singh, F Muzzio
+2022 AIChE Annual Meeting
+Laminar Chaotic Mixing in 3D Systems-A Thirty-Year Conversation with 2022
+Robert Brodkey
+F Muzzio
+2022 AIChE Annual Meeting
+Formulation and manufacture of pharmaceuticals by impregnation onto 2022
+porous carriers
+FJ Muzzio, BJ Glasser, PI Grigorov
+US Patent 11,344,494
+Outlookdwhat comes next in continuous manufacturing (and in advanced 2022
+pharmaceutical manufacturing)
+FJ Muzzio
+How to Design and Implement Powder-to-Tablet Continuous Manufacturing …
+Continuous tableting 2022
+SM Razavi, B Yohannes, R Singh, M Gonzalez, HP Lee, FJ Muzzio, ...
+How to Design and Implement Powder-To-Tablet Continuous Manufacturing …
+38 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
+Integrated process control 2022
+R Singh, FJ Muzzio
+How to Design and Implement Powder-To-Tablet Continuous Manufacturing …
+Development of RTD-Based Flowsheet Modeling Including Process 2021
+Uncertainty for Continuous Solid-Based Drug Manufacturing
+H Tian, P Bhalode, SM Razavi, A Roman-Ospino, F Muzzio, M Ierapetritou
 2021 AIChE Annual Meeting
-Effect of Process and Design Parameters on Granule Content Uniformity in 2021
-High Shear Granulation
-Z Dholakia, L Kotamarthy, I Muthancheri, R Ramachandran
+Development of Discrete Element Method Calibration Approach for 2021
+Pharmaceutical Applications
+P Bhalode, Y Tao, F Muzzio, M Ierapetritou
 2021 AIChE Annual Meeting
+Binder-Free Twin-Screw Melt Granulation: An Effective Approach to 2021
+Manufacture High-Dose API Formulations
+O Thamer, I Cotabarren, F Muzzio
+2021 AIChE Annual Meeting
+RTD Based Digital Twin of Continuous Pharmaceutical Manufacturing 2021
+Process
+R Singh, F Muzzio
+2021 AIChE Annual Meeting
+A Digital Twin of Flexible Modular Continuous API Manufacturing Process 2021
+R Singh, JP Lim, N Collins, F Muzzio
+2021 AIChE Annual Meeting
+Adaptive Strategies for Updating Unit Operation Models and in-Line 2021
+Monitoring of Blend Uniformity in Continuous Pharmaceutical
+Manufacturing Process
+Y Chen, S Gupta, A Roman-Ospino, F Muzzio, M Ierapetritou
+2021 AIChE Annual Meeting
+Melt-Coating of APIs with Surfactant for Drug Dissolution Enhancement 2020
+Z Liu, F Muzzio
+2020 Virtual AIChE Annual Meeting
 Prediction of Entire Tablet Compositions from Pure Powder Spectra Using 2020
 a Nonlinear Iterative Optimization Method
 Y Baranwal, A Roman-Ospino, D Hausner, F Muzzio, R Ramachandran
@@ -767,156 +1668,608 @@ Pharma 4.0: Advanced Control and Cyber-Physical Security of Continuous 2020
 Pharmaceutical Manufacturing Pilot-Plant
 R Singh, R Ramachandran, F Muzzio
 2020 Virtual AIChE Annual Meeting
-Validation of Combined PBM-RTD Technique to Simulate Continuous Wet 2019
-Granulation Systems for Pharmaceutical Manufacturing Processes
-SV Muddu, R Ramachandran
+Characterization of Starch Products in Continuous Direct Compression 2020
+Process
+Y Tao, SM Razavi, T Morker, D Hausner, C Cunningham, ...
+39 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
+2020 Virtual AIChE Annual Meeting
+Half Tablet Methodology: Investigating the Relationship between 2019
+Dissolution Behavior and Raman Chemical Imaging
+S Gupta, A Roman, D Hausner, F Muzzio
 2019 AIChE Annual Meeting
-An Efficient Data-Based Methodology to Identify the Design Space of 2019
-Continuous Pharmaceutical Manufacturing Processes
-N Metta, M Ierapetritou, R Ramachandran, A Bhosekar
+Material Property Database and Its Applications in Predictive Batch and 2019
+Continuous Unit Operation Modeling
+P Pawar, A Benedetti, J Li, D Clancy, F Muzzio, RE Yule
+2019 AIChE Annual Meeting
+Modeling Fluidized Bed Impregnation of Active Pharmaceutical Ingredients 2019
+Onto Porous Excipients
+B Glasser, F Muzzio, P Grigorov
+2019 AIChE Annual Meeting
+Optimizing Continuous Twin-Screw Wet Granulation for a Batch to 2019
+Continuous Conversion
+Q Zhou, F Muzzio
 2019 AIChE Annual Meeting
 Industry 4.0: Advanced Bi-Layer Control System for Continuous 2019
 Pharmaceutical Manufacturing Pilot-Plant
 R Singh, R Ramachandran, M Ierapetritou, F Muzzio
 2019 AIChE Annual Meeting
-18 of 22 3/14/25, 9:45 PM
-Rohit Ramachandran - Google Scholar https://scholar.google.com/citations?user=tSsdVLQAAAAJ&hl=en
-TITLE CITED BY YEAR
-Model Development and Validation of Fluid Bed Wet Granulation with Dry 2019
-Binder Addition Using a Population Balance Model Methodology
-R Ramachandran
-Process Modelling and Simulation, 180
-Sensitivity Analysis and Identification of Feasible Region of a Wet 2018
-Granulation Continuous Pharmaceutical Manufacturing Process
-N Metta, M Ierapetritou, R Ramachandran
-2018 AIChE Annual Meeting
-Developing a Formulation Dependent Mechanistic Kernel to Predict the 2018
-Granule Size Distribution in a Two Component High Shear Wet Granulation
+Dampening Effect of Feedrate Variation By Downstream Unit Operations in 2019
+Pharmaceutical Continuous Manufacturing
+T Li, J Scicolone, B Glasser, F Muzzio
+2019 AIChE Annual Meeting
+Scale up of Catalyst Powder Flow and Heat Transfer in Rotary Kilns 2019
+W Borghard, B Yohannes, B Glasser, F Muzzio, A Cuitino, A Nachtigal
+2019 North American Catalysis Society Meeting
+Flowsheet modeling of the compression step of a continuous wet 2019
+granulation production line
+B Vanbillemont, M Ghijs, MS Escotet-Espinoza, P Cappuyns, ...
+1st APV Continuous Manufacturing Conference
+RTD Based Control System for Continuous Pharmaceutical Manufacturing 2018
 Process
-I Muthancheri, R Ramachandran
+R Singh, F Muzzio
 2018 AIChE Annual Meeting
-Process dynamics and control of API manufacturing and purification 2018
-processes
-M Sen, R Singh, R Ramachandran
-Computer Aided Chemical Engineering 41, 261-292
+Material Properties Characterization and Ingredient Agglomerate Behavior 2018
+in Continuous Direct Compaction Process
+Z Liu, G Callegari, Q Zhou, F Muzzio
+2018 AIChE Annual Meeting
+40 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
+Developing a Loss-in-Weight Feeder Design Space Based on Performance 2018
+and Material Properties
+T Li, J Scicolone, B Glasser, F Muzzio
+2018 AIChE Annual Meeting
+Experimental Studies of Thermal Properties of Packed Powder Beds 2018
+A Nachtigal, C Kim, B Yohannes, F Muzzio, W Borghard, B Glasser, ...
+2018 AIChE Annual Meeting
+Effect of Baffles on the Rate of Heat Transfer in Rotating Drums 2018
+B Yohannes, C Kim, W Borghard, F Muzzio, B Glasser, A Cuitino
+2018 AIChE Annual Meeting
+Experimental and Numerical Studies on the Thermal Diffusivity of PackedÂ 2018
+Powder Beds
+B Yohannes, S Navodia, A Nachtigal, C Kim, FJ Muzzio, W Borghard, ...
+8th World Congress on Particle Technology
+Novel Technologies to Improve the Bioavailability, Content Uniformity and 2018
+Manufacturing of Pharmaceuticals
+B Glasser, PI Grigorov, O Thamer, F Muzzio
+8th World Congress on Particle Technology
 Advanced Model Predictive Control of Powder Level in Continuous 2017
 Pharmaceutical Manufacturing Pilot-Plant
 R Singh, F Muzzio, M Ierapetritou, R Ramachandran
+2017 AIChE Annual Meeting
+Effect of Bulk Properties of the Tracer on the Measurement of Residence 2017
+Time Distributions in Continuous Powder Based Unit Operations
+S Oka, MS Escotet-Espinoza, A Roman-Ospino, Y Wang, M Ierapetritou, ...
+2017 AIChE Annual Meeting
+Modeling the Effects of Material Properties on Tablet Compaction a Case 2017
+Study for Development
+MS Escotet-Espinoza, S Vadodaria, F Muzzio, M Ierapetritou
+2017 AIChE Annual Meeting
+Wettability of Pharmaceutical Powders of Different Particle Size By Droplet 2017
+Penetration Technique
+Y Han, Z Liu, S Moghtadernejad, F Muzzio, G Callegari, G Drazer
+2017 AIChE Annual Meeting
+Effect of Material Properties on the Mass Hold up Dynamics and Residence 2017
+Time Distribution in Continuous Powder Blenders
+MS Escotet-Espinoza, S Oka, S Moghtadernejad, A Roman-Ospino, ...
+2017 AIChE Annual Meeting
+Finding a Surrogate Material to an Expensive API By Applying a 2017
+Multivariate Analysis on a Material Database
+MS Escotet-Espinoza, G Callegari, M Ierapetritou, F Muzzio
+41 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
+2017 AIChE Annual Meeting
+Prediction of Tablet Dissolution By Process Parameters in Continuous 2017
+Manufacturing
+G Keyvan, Y Wang, F Muzzio
 2017 AIChE Annual Meeting
 Residence Time Distribution and Segregation Studies Trough Real Time 2017
 Measurements By Near Infrared Spectroscopy
 A Roman-Ospino, S Oka, S Moghtadernejad, MS Escotet-Espinoza, ...
 2017 AIChE Annual Meeting
-Reduced Order-Discrete Element Method Modeling of Comilling for 2017
-Efficient Integration into Continuous Process
-N Metta, M Ierapetritou, R Ramachandran
+3D Raman Imaging: A Method to Study the Effects of Lubrication on the 2017
+Microstructure of Tablets
+S Gupta, S Panikar, FJ Muzzio
 2017 AIChE Annual Meeting
-Enhanced Process Design and Control of a Multiple-Input Multiple-Output 2017
-Granulation Process
-R Ramachandran
-Comprehensive Quality by Design for Pharmaceutical Product Development and …
-Discrete Element Modeling of Solid Dosage Manufacturing Processes 2016
-D Barrasso, R Ramachandran
-Process Simulation and Data Modeling in Solid Oral Drug Development and …
+A Method to Reduce Dimensionality of Powder Flow Characterization 2017
+Y Wang, K Dhinoja, F Muzzio, C Cruz
+2017 AIChE Annual Meeting
+Effect of Baffles on Heat Transfer and Temperature Distribution in Granular 2017
+Materials in Rotating Drums
+B Yohannes, M Kalluri, W Borghard, F Muzzio, B Glasser, A Cuitino
+2017 AIChE Annual Meeting
+Predicting Feeder Performance during Hopper Refill Based on Material 2017
+Flow Properties
+T Li, Y Wang, B Glasser, F Muzzio
+2017 AIChE Annual Meeting
+Using liquid droplet penetration experiments to determine wetting 2016
+properties of powders
+G Callegari, Z Liu, Y Wang, F Muzzio, G Drazer
+APS Division of Fluid Dynamics Meeting Abstracts, H40. 001
+A Systematic Framework for the Design and Implementation of Sensing 2016
+and Control Architecture for a Continuous Pharmaceutical Manufacturing
+Plant
+R Singh, FJ Muzzio, M Ierapetritou, R Ramachnadran
+Computer Aided Chemical Engineering 38, 1473-1478
+Scaling of heat transfer in granular material in rotating drums 2016
+B Yohannes, H Emady, I Pardes, M Javed, W Borghard, B Glasser, ...
+APS March Meeting Abstracts 2016, R36. 014
+Optimization and Scale-up of the Rotary Calcination Processes 2015
+HN Emady, IJ Paredes, G Jezek, S Ilias, P Podsiadlo, BJG Beeckman, ...
+24th North American Catalysis Society Meeting
+42 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
 Flowsheet Models Modernize Pharmaceutical Manufacturing Design and 2015
 Risk Assessment
 F Muzzio, M Ierapetritou, R Singh, R Ramachandran, S Escotet-Espinoza, ...
 MJH Life Sciences
-19 of 22 3/14/25, 9:45 PM
-Rohit Ramachandran - Google Scholar https://scholar.google.com/citations?user=tSsdVLQAAAAJ&hl=en
+Continuous high shear wet granulation: Impact of process and design 2014
+parameters on granule properties
+W Meng, X Liu, FJ Muzzio
+Pharmaceutical Discovery, Development and Manufacturing Forum 2014-Core …
+The effect of process parameters including blend shearing and compaction 2014
+pressure on pharmaceutical tablet properties
+P Pawar, H Joo, Y Wang, A Cuitino, F Muzzio
+Pharmaceutical Discovery, Development and Manufacturing Forum 2014-Core …
+Feasibility study of terahertz time-domain measurement to monitor 2014
+individual layer thickness of bilayer tablets
+Y Wang, F Muzzio, A Cuitino, D Heaps
+Capsule manufacturing: Improving performance in product development 2013
+and production
+F Muzzio, S Stegemann, M Richardson, J Davidson
+Parametric analysis of fluidized bed drying of pharmaceutical materials 2013
+X Liu, F Muzzio, JG Khinast, B Glasser
+Pharmaceutical Discovery, Development and Manufacturing Forum 2013-Core …
+Effect of lubricant mixing time and concentration, compaction speed and 2012
+compression force on the dissolution profile of a control release formulation
+S Oka, P Pawar, F Boukouvala, FJ Muzzio
+Sustainable Packaging Symposium 2012, 94-95
+A. Dubey, R. Hsia, K. Saranteas, D. Brone 2011
+T Misra, FJ Muzzio, E Gallego, F Ayuga, S Bosca, D Fissore, Z Yuan, ...
+Chemical Engineering Science 66 (21)
+Resonant acoustic (vibratory) powder mixing performance 2011
+JG Osorio, FJ Muzzio
+North American Mixing Forum-Core Programming Topic at the 2011 AIChE Annual …
+Novel optical measurement tools for continuous pharmaceutical 2011
+manufacturing
+J Paaso, M Toiviainen, C Finta, P Teppola, M Järvinen, K Järvinen, ...
+2nd European Conference on Process Analytics and Control Technology …
+Inline monitoring of pharmaceutical tabletting by real-time chemical imaging 2011
+M Toiviainen, J Paaso, P Teppola, F Muzzio, J Suhonen, M Juuti
+2nd European Conference on Process Analytics and Control Technology …
+Turning around Pharmaceutical Manufacturing in the United States 2011
+F Muzzio, M Futran
+43 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
 TITLE CITED BY YEAR
-Designing a novel continuous manufacturing plant with superior monitoring 2015
-and control
-R Ramachandran, M Ierapetritou, J Zhang, R Singh
-European Pharmaceutical Review 20 (6), 37-41
-Process Simulation and Data Modeling in Solid Oral Drug Development 2015
-and Manufacture
-R Ramachandran, MG Ierapetritou
-Springer
-Acknowledgement to Reviewers of Processes in 2014 2015
-A Abou-Hassan, FG Acién Fernández, LG Alexopoulos, K Allaf, R Alves, ...
-Implementation of advanced hybrid MPC-PID control system into a 2013
-continuous pharmaceutical tablet manufacturing pilot-plant
-R Singh, A Sahay, P Brodbeck, M Ierapetritou, R Ramachandran
-Pharmaceutical Discovery, Development and Manufacturing Forum 2013-Core …
-Design of an efficient control system for flexible continuous tablet 2013
-manufacturing process
-R Singh, A Sahay, M Ierapetritou, R Ramachandran
-Pharmaceutical Discovery, Development and Manufacturing Forum 2013-Core …
-Research Article Mathematical Development and Comparison of a Hybrid 2013
-PBM-DEM Description of a Continuous Powder Mixing Process
-M Sen, A Dubey, R Singh, R Ramachandran
-Design and implementation of an efficient control system in a continuous 2012
-pharmaceutical manufacturing process via roller compaction
-R Singh, MG Ierapetritou, R Ramachandran
-Sustainable Packaging Symposium 2012, 69-70
-Plant-wide hybrid model predictive control of a continuous pharmaceutical 2012
-tablet manufacturing process via direct compaction
-R Singh, MG Ierapetritou, R Ramachandran
-Sustainable Packaging Symposium 2012, 10-11
-Dynamic simulation of the dissolution of pharmaceutical tablet integrated 2011
-with continuous manufacturing process
-L Mioduszewski, F Boukouvala, M Ierapetritou, R Ramachandran
-Food, Pharmaceutical and Bioengineering Division-Core Programming Topic at …
-A Combined Mechanistic Model for Nucleation, Aggregation and Breakage 2008
-In a Population Balance Model of Granulation
-R Ramachandran, CD Immanuel, JD Litster, FJD Iii, F Stepanek
+Pharmaceutical Technology 35 (11), 92
+Multivariate analysis and reduced order modeling based on Discrete 2011
+Element Method (DEM) simulations for a powder blender
+Y Gao, F Boukouvala, FJ Muzzio, MG Ierapetritou
+Computing and Systems Technology Division-Core Programming Topic at the 2011 …
+Quantitative Design of Continuous Mixing Processes for Pharmaceutical 2010
+Applications
+F MUZZIO
+Sci Pharm 78, 581
+Oral Presentations (LDD, LPES, LNM, LPAT, LNT, LPPT, LPM) 2010
+R Martien, H Hoyer, G Perera, A Bernkop-Schnürch, M Dürrigl, A Hafner, ...
+Scientia Pharmaceutica 78 (3), 555-589
+Optimization of Particle Simulations using online Process Monitoring 2009
+C Radeke, A Posch, G Hörl, S Radl, C Voura, S Fraser, B Glasser, ...
+Congress for Pharmaceutical Engineering
+Analysis of operating conditions of a continuous powder mixer using pept 2008
+PM Portillo, A Ingram, JPK Seville, MG Ierapetritou, FJ Muzzio
+2008 AIChE Fall and Annual Meeting Conference Proceedings
+Using Dem Models to Understand Segregation In Mixtures with Continuous 2008
+Grain Size Distribution In Long Cylinders
+A Dubey, FJ Muzzio, MS Tomassone
 2008 AIChE Annual Meeting, AIChE 100
-A Mechanistic Model for Nucleation and Aggregation in Population 2007
-Balances of Granulation: Batch Characterisation Studies and Experimental
-Validation
-R Ramachandran, MHP Jonathan, CFW Sanders, T Glaser, FJ Doyle III, ...
-20 of 22 3/14/25, 9:45 PM
-Rohit Ramachandran - Google Scholar https://scholar.google.com/citations?user=tSsdVLQAAAAJ&hl=en
+Particle technology gaps of Qbd 2008
+FJ Muzzio
+2008 AIChE Annual Meeting, AIChE 100
+Analyzing the Data from An Anderson Cascade Impactor. A Computational 2008
+Perspective
+Y Gulak, E Jayjock, FJ Muzzio
+2008 AIChE Annual Meeting, AIChE 100
+A Hydrodynamic Method for the Production of Nanoparticles 2008
+E Jayjock, FJ Muzzio
+2008 AIChE Annual Meeting, AIChE 100
+Predictive Modeling for Mixing and Feeding Processes Using Kriging 2008
+Apporach
+Z Jia, E Davis, FJ Muzzio, MG Ierapetritou
+2008 AIChE Annual Meeting, AIChE 100
+Computational Characterization of Continuous Mixers Using Discrete 2008
+Element Modeling Techniques
+A Dubey, FJ Muzzio
+The 2008 Annual Meeting
+44 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
 TITLE CITED BY YEAR
+Production and Stabilization of Organic Crystalline Sub-Micron and 2008
+Nanoparticles Using High Pressure Homogenization for Drug Delivery
+F Romanski, MS Tomassone, E Jayjock, FJ Muzzio
+2008 AIChE Annual Meeting, AIChE 100
+NSF Engineering Research Center for Structured Organic Particulate 2007
+Systems
+FJ Muzzio
 The 2007 Annual Meeting
-A mechanistic model for nucleation and aggregation in population balances 2007
-of granulation: Batch characterisation studies and experimental validation
-JMH Poon, R Ramachandran, CFW Sanders, T Glaser, FJ Doyle, ...
-2007 AIChE Annual Meeting
-Performance analysis and troubleshooting of process control loops 2006
-R RAMACHANDRAN
-A Mechanistic Kernel for the Aggregation Phenomenon in Population 2006
-Balance Models of Granulation Processes
-R Ramachandran, F Stepanek
+Shear-Thinning Mixing With Three-Coaxial Pitched-Blade Impellers 2007
+JP Lacombe, FJ Muzzio, B Glasser, T Shinbrot
+The 2007 Annual Meeting
+A High Intensity Emulsification Method For The Production Of 2007
+Nanoparticles
+E Jayjock, MS Tomasone, FJ Muzzio
+The 2007 Annual Meeting
+Computational Modelling Of The Anderson Cascade Impactor 2007
+E Jayjock, JP Lacombe, FJ Muzzio
+The 2007 Annual Meeting
+Relation Between Flow And Electrical Properties Of Pharmaceutical Blends 2007
+K Pingali, FJ Muzzio, T Shinbrot, MS Tomassone
+The 2007 Annual Meeting
+Experimental Study And Computational Modeling Of Continuous Powder 2007
+Mixing Processes
+PM Portillo, MG Ierapetritou, FJ Muzzio
+Experimental And Dem Study Of The Compaction Of Blends In A Shear 2007
+Environment
+M Llusa, F Muzzio, B Chaudhuri
+The 2007 Annual Meeting
+Study of the Lubrication Effect on the Feedframe 2007
+R Mendez-Roman, A Realpe, C Velazquez-Figueroa, FJ Muzzio
+The 2007 Annual Meeting
+The Effects Of Material And Processing Variables On The Properties Of 2007
+Formulations
+M Llusa, F Muzzio, K Pingali
+The 2007 Annual Meeting
+Study of the Variables Affecting the Api De-Agglomeration in Solid 2007
+Formulations
+H Eichenblatt, M Kizilbash, M Llusa, F Muzzio
+The 2007 Annual Meeting
+45 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
+An Approach For The Parallelization Of The Discrete Element Code 2007
+A Dubey, MS Tomassone, FJ Muzzio
+The 2007 Annual Meeting
+Discrete Element Simulation Of The Mixing Process In A Pancoater 2007
+A Dubey, B Chaudhuri, MS Tomassone, FJ Muzzio
+The 2007 Annual Meeting
+Evaluation of Strain and Shear Effects in Pharmaceutical Blends Using 2007
+near Infrared Spectroscopy
+W Vargas, M Alcalà, M Llusá, FJ Muzzio, RJ Romañach
+The 2007 Annual Meeting
+Study of the Feedframe Effect on Particle Size Distribution 2007
+R Mendez-Roman, FJ Muzzio, C Velazquez
+The 2007 Annual Meeting
+Study of the Variables Determining the Hydrophobicity of Lubricated 2007
+Pharmaceutical Formulations
+MM Kizilbash, M Llusa, H Eichenblatt, F Muzzio
+The 2007 Annual Meeting
+Master of Engineering in Pharmaceutical Engineering and Science 2007
+FJ Muzzio
+Rutgers University
+G. Delaplace, RK Thakur, L. Bouvier 2007
+C Andre, C Torrez, SR Inamdar, NS Pujari, IA Karimi, S Ponrathnam, ...
+Chemical Engineering Science 62 (5)
+Cohesion, Cracking, Dilation, and Flow--Rheological Behavior of Cohesive 2007
+Pharmaceutical Powders
+F Muzzio
+APS March Meeting Abstracts, U5. 005
+B. Coto, R. van Grieken, JL Pena and 2006
+JJ Espada, XS Wang, V Palero, J Soria, MJ Rhodes, A Min, AT Harris, ...
+Chemical Engineering Science 61 (24)
+Shear-Induced Compaction of Pharmaceutical Formulations 2006
+M Llusa, B Chaudhuri, MS Tomassone, M Faqih, A Mehrotra, FJ Muzzio
 The 2006 Annual Meeting
-Economic Analysis of Integrated Continuous and Batch Pharmaceutical
-Manufacturing: A Case Study
-DI Gerogiorgis, R Ramachandran
+Technology Roadmap: Process Development 2006
+FJ Muzzio
+The 2006 Annual Meeting
+A Quantitative Method for Reconstructing Blend Composition Distributions 2006
+in the Presence of Agglomerates
+M Llusa, FJ Muzzio
+The 2006 Annual Meeting
+46 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
+Correlating Density Measurements to Flow Behavior of Cohesive Granular 2006
+Materials
+AM Faqih, FJ Muzzio, B Chaudhuri, A Mehrotra, MS Tomassone
+The 2006 Annual Meeting
+Juarez, FL, 65 2006
+F Cangialosi, B Caussat, E Chan, B Chaudhuri, S Folestad, A Fukase, ...
+Powder Technology 165, 167
+Alexander, AW, 13 2006
+PE Arratia, P Baláz, VM Bogatyrev, W Breytenbach, B Chaudhuri, ...
+Powder Technology 164, 174
+Experimentally Validated Computations of Heat Transfer in Granular Flow 2006
+in Rotary Calciners
+B Chaudhuri, FJ Muzzio, MS Tomassone
+The 2006 Annual Meeting
+A Hydrodynamic Method for the Continuous Production of Nanoparticles 2006
+E Jayjock, MS Tomassone, FJ Muzzio
+The 2006 Annual Meeting
+Menagerie of Topology in 3d Steady Flow 2006
+FJ Muzzio, JP Lacombe
+The 2006 Annual Meeting
+Ajikumar, PK, 145 Alterkop, B., 215 Arratia, PE, 202 2006
+ZL Arsenijevic, Y Bao, Z Barkay, N Bay, JI Bech, F Berruti, AF Blandin, ...
+Powder Technology 161, 256
+DEM Simulations of “Dry Cohesion” Effects in Powder Compaction 2006
+A Mehrotra, B Chaudhuri, AM Faqih, MS Tomassone, FJ Muzzio
+The 2006 Annual Meeting
+Impact of the Unstable/Neutral Angle on Rate and Extent of Chemical 2006
+Reaction
+JP Lacombe, FJ Muzzio
+The 2006 Annual Meeting
+Quantification of Powder Cohesion Using an Experimental Approach 2006
+D Zhang, A Mehrotra, MF Abdul, B Chaudhuri, M Llusa, MS Tomassone, ...
+The 2006 Annual Meeting
+Technology Roadmap: Funding Successes & Next Steps 2006
+GV Reklaitis, FJ Muzzio
+The 2006 Annual Meeting
+Discrete Element Simulation for Fundamental Process Understanding 2005
+T MS, B Chaudhuri, A Faqih, A Mehrotra, FJ Muzzio
+Advanstar Communications Inc.
+47 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
+Use of a Novel Shear Cell to Study the Influence of Shear Intensity and 2005
+Total Shear on the Properties of Pharmaceutical Blends
+A Mehrotra, AM Faqih, M Llusa, FJ Muzzio
+05AIChE: 2005 AIChE Annual Meeting and Fall Showcase
+Engineering Approaches for Pharmaceutical Process Scale-Up, Validation, 2005
+Optimization, and Control in the Process and Analytical Technology (PAT)
+Era
+FJ Muzzio
+Pharmaceutical Process Scale-Up, 91-104
+The interstate highway system of fluid flow: A flow skeleton method to 2005
+study mixing in realistic 3d autonomous flows
+JP Lacombe, FJ Muzzio
+05AIChE: 2005 AIChE Annual Meeting and Fall Showcase
+Flow-induced dilation of fine powders in a rotating drum 2005
+AM Faqih, B Chaudhuri, FJ Muzzio, MS Tomassone
+05AIChE: 2005 AIChE Annual Meeting and Fall Showcase
+Tendrils and sheets: Topology of injections in steady chaotic 3d flow 2005
+JP Lacombe, FJ Muzzio
+05AIChE: 2005 AIChE Annual Meeting and Fall Showcase
+Bin blending (multiple letters) 2004
+J Salter, F Muzzio
+Pharmaceutical Technology 28 (10), 16
+Chaotic mixing in viscous fluids 2004
+MM Alvarez-Hernández, FJ Muzzio, T Shinbrot
+Physics of Fluids 16 (9), S11-S11
+Development of catalyst impregnation processes 2004
+AW Chester, FJ Muzzio
+ACS National Meeting Book of Abstracts 227 (2)
+Attraction of Minute Particles to Invariant Regions of Volume Preserving 2003
+Flows by Transients
+MM Alvarez, FJ Muzzio, T Shinbrot, JM Zalc
+Physical Review Letters 86 (07)
+Experimental and computational methods for understanding 2003
+pharmaceutical flows, Part II: Large-scale production equipment
+J Kukura, PE Arratia, ES Szalai, KE Johnson, FJ Muzzio
+Pharmaceutical Technology Europe 15 (4), 31-37
+Development of catalyst impregnation processes 2003
+F Muzzio, AW Chester
+Process Development Symposium: Accelerating Process Development for Growth …
+48 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
+MANUFACTURING EQUIPMENT Experimental and Computational 2003
+Methods for Understanding Pharmaceutical Flows, Part II: Large-Scale
+Production Equipment
+J Kukura, PE Arratia, ES Szalai, KE Johnson, FJ Muzzio
+PHARMACEUTICAL TECHNOLOGY EUROPE 15 (4), 31-38
+Mixing Dynamics in Stirred Tanks 2002
+J Lacombe, T Shinbrot, F Muzzio
+APS Division of Fluid Dynamics Meeting Abstracts 55, EC. 006
+Roller Bottle Culture, Mixing 2002
+DR Unger, M Liu, PD Swanson, FJ Muzzio, J Bramble, J Searles, J Aunins
+Encyclopedia of Bioprocess Technology: Fermentation, Biocatalysis, and …
+Response to reviewers's comments concerning MS F-0009: Quantitative 2002
+characterization of mixing of free-flowing granular material in tote (bin)-
+blenders (multiple letters)
+DK Rollins, OS Sudah, FJ Muzzio
+Powder technology 126 (2), 201-202
+NIR Analysis of Powder Mixing Quality in a Ribbon Blender 2001
+C Goodridge, NH Duong, F Muzzio
+APS Division of Fluid Dynamics Meeting Abstracts 54, FE. 001
+Crackling noise 2001
+T SHINBROT, FJ MUZZIO, PG DEBENEDETTI, FH STILLINGER, ...
+Complex systems 410 (6825)
+Shape Induced Segregation in Granular Materials 2001
+G Chris, T Shinbrot, F Muzzio
+APS March Meeting Abstracts, J8. 007
+articles 粒⼦の混合・分離は制御可能!? 粉粒体の混合と偏析における⾮平 2001
+衡パターン
+⽥⼝，善弘
+パリティ= Parity: 物理科学雑誌 16 (7), 4-12
+Nonlinear Dynamics, Fluid Dynamics, Classical Optics, etc.-Attraction of 2001
+Minute Particles to Invariant Regions of Volume Preserving Flows by
+Transients
+T Shinbrot, MM Alvarez, JM Zalc, FJ Muzzio
+Physical Review Letters 86 (7), 1207-1210
+Spontaneous Chaos in Viscoelastic Mixing 2000
+FJ Muzzio, MM Alvarez, JM Zalc, T Shinbrot
+APS Division of Fluid Dynamics Meeting Abstracts 53, BH. 006
+Waves Deep in the Big Muddy: Pattern Formation in Slurry Flows 2000
+T Shinbrot, NH Duong, FJ Muzzio
+APS Division of Fluid Dynamics Meeting Abstracts 53, AH. 004
+49 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
+Spontaneous Granular Segregation Reversal and Symmetry Breaking in 1999
+3D Tumblers
+A Alexander, T Shinbrot, F Muzzio
+APS Division of Fluid Dynamics Meeting Abstracts, JK. 08
+Reversible and Shape-Induced Segregation in Vibrated Granular Systems 1999
+E van Doorn, T Shinbrot, F Muzzio
+APS Division of Fluid Dynamics Meeting Abstracts, JK. 09
+Attractive Tori in Conservative Transient Flows 1999
+T Shinbrot, MM Alvarez, J Zalc, FJ Muzzio
+APS Division of Fluid Dynamics Meeting Abstracts, DC. 07
+Creation and Evolution of Structure in Laminar Stirred Tanks 1999
+MM Alvarez, JM Zalc, P Arratia, T Shinbrot, FJ Muzzio
+APS Division of Fluid Dynamics Meeting Abstracts, BC. 04
+Mixing of uniform sized granular material with rotational or rocking/ 1999
+rotational motions
+C Wightman, FJ Muzzio
+Metal Powder Report 3 (54), 36
+Numerically Accessible Tools for Quantifying Mixing 1998
+S Cerbelli, FJ Muzzio
+APS Division of Fluid Dynamics Meeting Abstracts, NC. 05
+Mixing Microstructure Generated by Aperiodic 2-D Flows. 1998
+MM Alvarez, FJ Muzzio
+APS Division of Fluid Dynamics Meeting Abstracts, NC. 07
+Granular Plumes 1998
+T Shinbrot, A Alexander, FJ Muzzio
+APS Division of Fluid Dynamics Meeting Abstracts, BD. 01
+Using flow perturbations to enhance mixing of powders in V-blenders 1998
+FJ Muzzio
+Metal Powder Report 2 (53), 37
+Asymptotic Directionality: The fundamental property controlling topology 1997
+and dynamics in chaotic mixing processes
+M Giona, A Adrover, F Muzzio
+APS Division of Fluid Dynamics Meeting Abstracts, Be. 06
+The distribution of length scales generated by mixing processes in time-p 1997
+eriodic chaotic flows
+F Muzzio, M Alvarez, S Cerbelli
+APS Division of Fluid Dynamics Meeting Abstracts, Be. 05
+Jet Mixing, Verification of CFD with Full-field Velocity Vector Measurements 1997
+Y Zhao, R Brodkey, D Unger, F Muzzio
+APS Division of Fluid Dynamics Meeting Abstracts, Ib. 10
+50 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
+REACTIVE CHAOTIC FLOWS 1997
+FJ MUZZIO, M LIU
+Fractals and Chaos in Chemical Engineering: Proceedings of the International …
+Diffusion in heterogeneous media: application to immobilized cell systems 1996
+MR Riley, FJ Muzzio, HM Buettner, SC Reyes
+International Journal of Multiphase Flow 22 (S1), 94-94
+EFFECT OF ROLLER BOTTLE ROTATION RATE UPON THE GROWTH 1995
+AND INFECTION OF MRC-5 CELLS IN THE PRODUCTION OF A
+VARICELLA VACCINE
+JA SEARLES, JL BRAMBLE, P FAHNESTOCK, FJ MUZZIO, MY LIU, ...
+ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 209, 158-BIOT
+Mixing as a Tool 1995
+FJ Muzzio, EL Paul
+Industrial Pollution Prevention Handbook, 455
+CHAOTIC FLOW IN LAMINAR MIXING IN STIRRED VESSELS 1991
+G Ascanio, FJ Muzzio
+Phys. Fluids A 3, 822-834
+Quantitative Characterization of Powder 1972
+C Wightman, FJ Muzzio
+AIChE Symposium Series 92 (313), 71
+2009 Annual Meeting (593e) Predictive Modeling of Pharmaceutical
+Processes with Missing and Noisy Data
+FJ Muzzio
+2010 Annual Meeting (636d) Application of Kriging for Dynamic Data-
+Driven Modeling of Pharmaceutical Processes
+FJ Muzzio, MG Ierapetritou
+2015 AIChE Annual Meeting Proceedings (572a) Characterization and
+Modeling of Feeders: A Critical Component in Continuous Pharmaceutical
+Manufacturing
+MS Escotet-Espinoza, FJ Muzzio
+2010 Annual Meeting (108b) Design Space of Pharmaceutical Processes
+Using Data-Driven Based Methods
+FJ Muzzio, MG Ierapetritou
+2008 Annual Meeting (360c) Predictive Modeling for Mixing and Feeding
+Processes Using Kriging Apporach
+E Davis, FJ Muzzio, MG Ierapetritou
+2009 Annual Meeting (201b) Method for Characterization of Loss-in-Weight
+Feeder Equipment
+FJ Muzzio
+51 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
+Academic Articles
+JA Konkol, R Singh, FJ Muzzio, G Tsilomelekis
+Chemical Engineering Journal 493, 152-159
+Continuous Powder Blenders for Pharmaceutical Applications Aug. 19,
+2013 Irrespective of the manufacturing route, powder mixing is involved in
+all manufacturing routes, often …
+S Oka, F Muzzio
+NANOTECHNOLOGY REVIEW: LIPOSOMES, NANOTUBES & PLGA
+NANOPARTICLES
+H Thormar, DK Sarker, SK Kim, FW Danby
+Ataluren is an oxadiazole. Menu
+JG Osorio, FJ Muzzio
+362e Effects of High Concentration of Polymeric Stabilizers for Poorly
+Water-Soluble Drug Suspensions
+KV Deshpande
+Experimentally Validated Numerical Modeling of Heat Transfer in Granular
+Flow in Rotating Vessels
+FJ Muzzio, MS Tomassone
+Perspectiva (Farmacopeica) de la USP sobre Fabricación Continua de
+Medicamentosa
+E Jayjock, K Jensen, J Khinast, P Kotwal, M Krumme, K Lamey, F Muzzio, ...
 SUSCRÍBETE AHORA
 F Muzzio, R Singh, A Chaudhury, A Rogers, R Ramachandran, ...
-New scopes of PAT for real time advanced control of continuous
-pharmaceutical manufacturing processes
-R Singh, M Ierapetritou, R Ramachandran
-Boukouvala, F., Rutgers University Niotis, V., Rutgers University
-Mioduszewski, L., Rutgers University Vanarase, AU, Rutgers University
-R Ramachandran, FJ Muzzio, MG Ierapetritou
-Application of micro-tomography and UV spectroscopy in structural
-analysis of pharmaceutical granules
-O Kaspar, V Tokarova, S Oka, R Ramachandran, F Stepanek
-Session 1: Design for Manufacturability (DFM)(sponsored by Synopsys,
-Inc.)
-C Mouli, MJ Scott, R Van Roijen, C Collins, R Logan, R Ramachandran, ...
-LIST OF CONTENTS
-I Nopens, H Briesen, J Ducoste, CS Handscomb, M Kraft, AE Bayly, ...
+Pharma Manufacturing
+BS Oka, F Muzzio
+Results of Statistical Analysis of Blend and Dosage Unit Content Uniformity
+Data Obtained from the Product Quality Research Institute Blend
+Uniformity Working Group Data-Mining …
+PJ Geoffroy, G Mergen, F Muzzio, J Planchard, J Prescott, J Timmermans, ...
 Abstracting Services This journal is cited by the following Abstracting
 Services: Analytical Abstracts, Cambridge Scientific Abstracts, Chemical
 Abstracts, Chemical Engineering …
-R Ramachandran, JMH Poon, CFW Sanders, T Glaser, CD Immanuel, ...
+MC van Beek, CCM Rindt, JG Wijers, AA van Steenhoven, B Caussat, ...
+Study of the Variables Determining the Hydrophobicity of Lubricated
+Pharmaceutical Formulations
+MK Muhammad, M Llusa, H Eichenblatt, F Muzzio
+Heat Transfer in Granular Flow in Rotary Calciners: Experiments and
+Particle Dynamics Simulations
+52 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
+TITLE CITED BY YEAR
+MS Tomassone, B Chaudhuri, FJ Muzzio
+using finite difference methods
+RR Mark, FJ Muzzio, SC Reyes
+LIST OF CONTENTS
+GV Reklaitis, J Khinast, F Muzzio, ML Hamad, K Bowman, N Smith, ...
+online at: http://contentsdirect. elsevier. com
+V Zaspalis, M Kolenbrander, J McMillan, D Zhou, M Saberian, C Briens, ...
+Abstracting Services This journal is cited by the following Abstracting
+Services: Analytical Abstracts, Cambridge Scientific Abstracts, Chemical
+Abstracts, Chemical Engineering …
+P Bareschino, L Lirer, A Marzocchella, P Petrosino, P Salatino, C Huang, ...
 EN Pistikopoulos, MC Georgiadis and A. Kokossis
 J Ellepola, N Thijssen, J Grievink, G Baak, A Avhale, J van Schijndel, ...
-Parallel simulation of population balance model-based particulate
-AV Prakash, A Chaudhury, R Ramachandran
-21 of 22 3/14/25, 9:45 PM
-Rohit Ramachandran - Google Scholar https://scholar.google.com/citations?user=tSsdVLQAAAAJ&hl=en
+Index of authors and papers to Volume 254
+A Adrover, M Giona, JV Andersen, K Leung, A Arneodo, B Audit, E Bacry, ...
+online at: http://contentsdirect. elsevier. com
+DR Van Puyvelde, AW Alexander, B Chaudhuri, A Faqih, FJ Muzzio, ...
+From Experimental Data to Building Integrated Dynamic Flowsheet Models
+for Pharmaceutical Processes
+F Boukouvala, FJ Muzzio, M Ierapetritou
+Portillo, PM, Rutgers University Ierapetritou, MG, Rutgers, The State
+University of New Jersey
+FJ Muzzio
+Determination of Residence Time Distribution in Rotary Calciner
+Y Gao, A Cuitino, BJ Glasser, FJ Muzzio, MG Ierapetritou, J Beeckman, ...
+Fernando Muzzio to Indicate Title
+FJ Muzzio
+Index for Special Issue
+J Ackermann, A Adrover, C Aragonese, R Baba, M BaKr, R Baratti, ...
+Abstracting Services This journal is cited by the following Abstracting
+Services: Analytical Abstracts, Cambridge Scientific Abstracts, Chemical
+Abstracts, Chemical Engineering …
+JJ McCarthy, C Yan, C Lu, Y Liu, R Cao, M Shi, C Thornton, KC Pingali, ...
+Vanarase, AU, Rutgers University Portillo Brieva, PM, Rutgers University
+FJ Muzzio
+53 of 54 3/15/25, 4:30 PM
+fernando muzzio - Google Scholar https://scholar.google.com/citations?user=6sXobGwAAAAJ&hl=en
 TITLE CITED BY YEAR
-Effective Parameter Estimation within a Multi-Dimensional and Multi-Scale
-Population Balance Model Framework
-R Ramachandran, PI Barton
-A Quantitative Assessment of the Effect of Primary Particle Size
-Distribution On Granule Inhomogeneity: Modelling and Experiments
-R Ramachandran
-Controllability Analysis and Identification of Optimal Control-Loop Pairings
-in a Multiple-Input Multiple-Output Granulation Process
-R Ramachandran
-22 of 22 3/14/25, 9:45 PM
+Boukouvala, F., Rutgers University Niotis, V., Rutgers University
+Mioduszewski, L., Rutgers University Vanarase, AU, Rutgers University
+R Ramachandran, FJ Muzzio, MG Ierapetritou
+Engisch, WE Jr., Rutgers University
+FJ Muzzio
+QUANTIFYING FLOWABILITY OF PHARMACEUTICAL FORMULATIONS
+M Llusa, K Pingali, F Muzzio
+54 of 54 3/15/25, 4:30 PM
